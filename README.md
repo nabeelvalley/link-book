@@ -12,3 +12,4 @@ Some links from around the web. Added using the [Link Book App](https://link-boo
 - [Linkbasket](https://linkbasket.xyz/)
 - [• Judah •](https://joodaloop.com/) - Pretty cool website.
 - [Everyone Draw - Infinite Pixel Art Drawing Canvas](https://everyonedraw.com/) - Draw with people around the world on an infinite canvas.
+- [The Forest](https://theforest.link/) - Rediscover the joy of getting lost on the web
