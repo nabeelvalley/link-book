@@ -8,3 +8,5 @@ Some links from around the web. Added using the [Link Book App](https://link-boo
 - [zahrah mohamed](https://zahrahmohamed.netlify.app) - Zahrah Mohamed's Blog and Portfolio
 - [overengineeRING](https://overengineering.kognise.dev/)
 - [Link Book](http://localhost:3000/) - Save web links to GitHub
+
+- [Linkbasket](https://linkbasket.xyz/)
