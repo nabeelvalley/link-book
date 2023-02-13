@@ -20,3 +20,4 @@ Some links from around the web. Added using the [Link Book App](https://link-boo
 - [Plink](https://test.plink.in/) - Make simple music 
 
 - [Lazyweb](https://app.lazyweb.rocks/) - Web resources for developers 
+- [Meepo](https://meepo.shop/) - Meepo is an AI-powered search engine for superbalist.com.
