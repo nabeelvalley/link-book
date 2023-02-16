@@ -27,3 +27,4 @@ Some links from around the web. Added using the [Link Book App](https://link-boo
 - [Universe](https://onuniverse.com) - A magical new way to build websites. 
 - [Cost of Living](https://www.numbeo.com/cost-of-living/)
 - [12ft Ladder](https://12ft.io/)
+- [Devhints — TL;DR for developer documentation](https://devhints.io) - A ridiculous collection of web development cheatsheets · One-page guide to 
