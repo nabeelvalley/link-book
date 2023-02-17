@@ -28,3 +28,4 @@ Some links from around the web. Added using the [Link Book App](https://link-boo
 - [Cost of Living](https://www.numbeo.com/cost-of-living/)
 - [12ft Ladder](https://12ft.io/)
 - [Devhints — TL;DR for developer documentation](https://devhints.io) - A ridiculous collection of web development cheatsheets · One-page guide to 
+- [Your Mindful Browser | Stack](https://stackbrowser.com/) - Stack is a spatial browser for mindful online living. Its sleek, uncluttered, and harmonious design helps you to be focused and aware of the information around you.
