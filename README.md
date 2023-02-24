@@ -30,3 +30,4 @@ Some links from around the web. Added using the [Link Book App](https://link-boo
 - [Devhints — TL;DR for developer documentation](https://devhints.io) - A ridiculous collection of web development cheatsheets · One-page guide to 
 - [Your Mindful Browser | Stack](https://stackbrowser.com/) - Stack is a spatial browser for mindful online living. Its sleek, uncluttered, and harmonious design helps you to be focused and aware of the information around you.
 - [Milanote - the tool for organizing creative projects](https://milanote.com/) - Milanote is an easy-to-use tool to organize your ideas and projects into visual boards. Add notes, images, links and files, organize them visually and share them with your team.
+- [Igor Bedesqui](https://www.igorbedesqui.com/) - Developer Based in Lisbon. Crafting solutions. Building web experiences with care. Exploring design, UX, and interactivity.
