@@ -33,3 +33,4 @@ Some links from around the web. Added using the [Link Book App](https://link-boo
 - [Igor Bedesqui](https://www.igorbedesqui.com/) - Developer Based in Lisbon. Crafting solutions. Building web experiences with care. Exploring design, UX, and interactivity.
 - [The manual, a compilation of the Enchiridion translations](https://psykip.vercel.app/) - We compiled translations from different authors at different points of history alongside the original Enchiridion from Epictetus to make sure you can easily read and share your favorite version of it.
 - [Codeframe | A Playground for the Web](https://codeframe.co/)
+- [thesephist.com](https://thesephist.com/)
