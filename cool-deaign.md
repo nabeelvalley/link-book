@@ -1,1 +1,0 @@
-- [Meghana & Vinay's Wedding](https://meghanawedsvinay.co.in/)
