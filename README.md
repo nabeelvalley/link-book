@@ -38,3 +38,4 @@ Some links from around the web. Added using the [Link Book App](https://link-boo
 - [Indie Hackers: Work Together to Build Profitable Online Businesses](https://www.indiehackers.com/) - Connect with developers who are sharing the strategies and revenue numbers behind their companies and side projects.
 - [InABunch](https://inabunch.link/)
 - [https://visuwords.com](https://visuwords.com)
+- [Spline - Design tool for 3D web browser experiences](https://spline.design/) - Spline is a free, real-time collaborative 3D design tool to create interactive experiences within the browser. Easy 3d  animations, models, textures, and more.
