@@ -1,6 +1,6 @@
-# Social
+# Social Tools
 
-Social/community organizations
+Social/community style tools
 
 - [The Forest](https://theforest.link/) - Rediscover the joy of getting lost on the web
 - [Indie Hackers: Work Together to Build Profitable Online Businesses](https://www.indiehackers.com/) - Connect with developers who are sharing the strategies and revenue numbers behind their companies and side projects.
