@@ -20,3 +20,4 @@ Tools for small things
 - [InABunch](https://inabunch.link/)
 - [https://visuwords.com](https://visuwords.com)
 - [Plink makes smart podcast links](https://plinkhq.com/) - Plink makes smart links for podcasters. Sharing smart links and landing pages that send listeners to the right place, every time. Auto-open iOS and Android pre-installed apps or send to App links page.
+- [Your Ultimate Content Ideation Tool | Mentalist](https://mentalist-ai.vercel.app/) - Easily Create Mind Maps and Generate Content and Title Ideas Based on Topics
