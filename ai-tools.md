@@ -1,1 +1,2 @@
 - [Poised - Free AI-Powered Communication Coach](https://www.poised.com/) - Personalized feedback in your online meetings. An essential tool for digital first workplaces.
+- [AI Voice Generator: Versatile Text to Speech Software | Murf AI](https://murf.ai/) - AI Voice Generator in 20 languages. 120+ realistic text to speech voices to create the perfect AI voiceover. Go instantly from text to voice with ease.
