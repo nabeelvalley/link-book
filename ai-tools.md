@@ -1,3 +1,4 @@
 - [Poised - Free AI-Powered Communication Coach](https://www.poised.com/) - Personalized feedback in your online meetings. An essential tool for digital first workplaces.
 - [AI Voice Generator: Versatile Text to Speech Software | Murf AI](https://murf.ai/) - AI Voice Generator in 20 languages. 120+ realistic text to speech voices to create the perfect AI voiceover. Go instantly from text to voice with ease.
 - [Talk to Books](https://books.google.com/talktobooks/) - Talk to Books is a new way to explore ideas and discover books. Make a statement or ask a question to browse passages from books using experimental AI.
+- [PowerMode](https://powermodeai.com/) - Generate a startup idea - Early access to AI-generated pitch decks
