@@ -23,3 +23,4 @@ Tools for small things
 - [Your Ultimate Content Ideation Tool | Mentalist](https://mentalist-ai.vercel.app/) - Easily Create Mind Maps and Generate Content and Title Ideas Based on Topics
 - [Loom: Async Video Messaging for Work | Loom](https://www.loom.com/) - Record your screen, share your thoughts, and get things done faster with async video.
 - [HyperWrite](https://hyperwriteai.com/)
+- [Otter.ai - Voice Meeting Notes & Real-time Transcription](https://otter.ai/) - Otter.ai uses AI to write automatic meeting notes with real-time transcription, recorded audio, automated slide capture, and automated meeting summaries.
