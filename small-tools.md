@@ -24,3 +24,4 @@ Tools for small things
 - [Loom: Async Video Messaging for Work | Loom](https://www.loom.com/) - Record your screen, share your thoughts, and get things done faster with async video.
 
 - [Scrollbar.app - Chris Coyier](https://chriscoyier.net/2023/03/06/scrollbar-app/)
+- [Block Protocol – an open standard for data-driven blocks](https://blockprotocol.org/) - A standardized way to create blocks whose contents are mapped to schemas, which are both human and machine-readable.
