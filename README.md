@@ -15,3 +15,4 @@ Some blogs from around the web. Added using the [Link Book App](https://link-boo
 - [thesephist.com](https://thesephist.com/)
 - [AI Voice Generator: Versatile Text to Speech Software | Murf AI](https://murf.ai/) - AI Voice Generator in 20 languages. 120+ realistic text to speech voices to create the perfect AI voiceover. Go instantly from text to voice with ease.
 - [Scrollbar](https://scrollbar.app/) - Simple CSS scrollbar editor.
+- [Posts | blog_rick_love](https://ricklove.me/) - It's about development mostly
