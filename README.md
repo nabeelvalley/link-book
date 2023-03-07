@@ -17,3 +17,4 @@ Some blogs from around the web. Added using the [Link Book App](https://link-boo
 - [Scrollbar](https://scrollbar.app/) - Simple CSS scrollbar editor.
 - [Posts | blog_rick_love](https://ricklove.me/) - It's about development mostly
 - [Joel on Software](https://www.joelonsoftware.com/) - A weblog by Joel Spolsky, a programmer working in New York City, about software and software companies.
+- [Sophie Alpert](https://sophiebits.com/)
