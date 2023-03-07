@@ -22,3 +22,5 @@ Tools for small things
 - [Plink makes smart podcast links](https://plinkhq.com/) - Plink makes smart links for podcasters. Sharing smart links and landing pages that send listeners to the right place, every time. Auto-open iOS and Android pre-installed apps or send to App links page.
 - [Your Ultimate Content Ideation Tool | Mentalist](https://mentalist-ai.vercel.app/) - Easily Create Mind Maps and Generate Content and Title Ideas Based on Topics
 - [Loom: Async Video Messaging for Work | Loom](https://www.loom.com/) - Record your screen, share your thoughts, and get things done faster with async video.
+
+- [Scrollbar.app - Chris Coyier](https://chriscoyier.net/2023/03/06/scrollbar-app/)
