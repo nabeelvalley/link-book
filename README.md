@@ -20,3 +20,4 @@ Some blogs from around the web. Added using the [Link Book App](https://link-boo
 - [Sophie Alpert](https://sophiebits.com/)
 - [Artur Bień](https://expensive.toys/)
 - [Matias Kinnunen aka mtsknn](https://mtsknn.fi) - A web developer from Finland. I write a blog (read it!) and co-host a Finnish coding podcast.
+- [Jascha’s blog | This blog is intended to be a place to share ideas and results that are too weird, incomplete, or off-topic to turn into an academic paper, but that I think may be important. Let me know what you think! Contact links to the left.](http://sohl-dickstein.github.io/) - This blog is intended to be a place to share ideas and results that are too weird, incomplete, or off-topic to turn into an academic paper, but that I think may be important. Let me know what you think! Contact links to the left.
