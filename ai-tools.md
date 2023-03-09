@@ -6,3 +6,4 @@
 - [Otter.ai - Voice Meeting Notes & Real-time Transcription](https://otter.ai/) - Otter.ai uses AI to write automatic meeting notes with real-time transcription, recorded audio, automated slide capture, and automated meeting summaries.
 
 - [Diagram](https://diagram.com/) - Generative Creativity
+- [eluna.ai](https://www.eluna.ai/) - Covering the rapidly moving world of AI.
