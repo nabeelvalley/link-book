@@ -19,3 +19,4 @@ Some blogs from around the web. Added using the [Link Book App](https://link-boo
 - [Joel on Software](https://www.joelonsoftware.com/) - A weblog by Joel Spolsky, a programmer working in New York City, about software and software companies.
 - [Sophie Alpert](https://sophiebits.com/)
 - [Artur Bień](https://expensive.toys/)
+- [Matias Kinnunen aka mtsknn](https://mtsknn.fi) - A web developer from Finland. I write a blog (read it!) and co-host a Finnish coding podcast.
