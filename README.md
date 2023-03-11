@@ -27,3 +27,4 @@ Some blogs from around the web. Added using the [Link Book App](https://link-boo
 - [Ink & Switch](https://www.inkandswitch.com/)
 - [https://www.pvh.ca/](https://www.pvh.ca/)
 - [BetterExplained – Math lessons that click](https://betterexplained.com/)
+- [Anthony Hobday—Product designer](https://www.anthonyhobday.com/)
