@@ -27,3 +27,4 @@ Tools for small things
 - [Block Protocol – an open standard for data-driven blocks](https://blockprotocol.org/) - A standardized way to create blocks whose contents are mapped to schemas, which are both human and machine-readable.
 - [Schema.org - Schema.org](https://schema.org/) - Schema.org is a set of extensible schemas that enables webmasters to embed
     structured data on their web pages for use by search engines and other applications.
+- [Muse — dive into big ideas](https://museapp.com/) - Flexible boards for notetaking, whiteboarding, and connecting the dots. Your tool for deep work, now on iPad and Mac.
