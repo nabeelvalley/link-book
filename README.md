@@ -24,3 +24,4 @@ Some blogs from around the web. Added using the [Link Book App](https://link-boo
 - [Essays · Gwern.net](https://gwern.net/index) - Personal website of Gwern Branwen (writer, self-experimenter, and programmer): topics: psychology, statistics, technology, deep learning, anime. This index page is a categorized list of Gwern.net pages.
 - [Rachit Nigam | PhD Candidate, Cornell University](https://rachitnigam.com/)
 - [Learn With Jason — learn something new in 90 minutes!](https://www.learnwithjason.dev/) - Learn With Jason is live, hands-on learning with brilliant teachers from the web community every Tuesday & Thursday. Join live and learn with us!
+- [Ink & Switch](https://www.inkandswitch.com/)
