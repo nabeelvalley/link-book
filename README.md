@@ -25,3 +25,4 @@ Some blogs from around the web. Added using the [Link Book App](https://link-boo
 - [Rachit Nigam | PhD Candidate, Cornell University](https://rachitnigam.com/)
 - [Learn With Jason — learn something new in 90 minutes!](https://www.learnwithjason.dev/) - Learn With Jason is live, hands-on learning with brilliant teachers from the web community every Tuesday & Thursday. Join live and learn with us!
 - [Ink & Switch](https://www.inkandswitch.com/)
+- [https://www.pvh.ca/](https://www.pvh.ca/)
