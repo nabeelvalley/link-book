@@ -28,3 +28,4 @@ Some blogs from around the web. Added using the [Link Book App](https://link-boo
 - [https://www.pvh.ca/](https://www.pvh.ca/)
 - [BetterExplained – Math lessons that click](https://betterexplained.com/)
 - [Anthony Hobday—Product designer](https://www.anthonyhobday.com/)
+- [InstaCalc Online Calculator](https://instacalc.com/) - The fast, easy, shareable online calculator.
