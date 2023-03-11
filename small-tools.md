@@ -28,3 +28,4 @@ Tools for small things
 - [Schema.org - Schema.org](https://schema.org/) - Schema.org is a set of extensible schemas that enables webmasters to embed
     structured data on their web pages for use by search engines and other applications.
 - [Muse — dive into big ideas](https://museapp.com/) - Flexible boards for notetaking, whiteboarding, and connecting the dots. Your tool for deep work, now on iPad and Mac.
+- [InstaCalc Online Calculator](https://instacalc.com/) - The fast, easy, shareable online calculator.
