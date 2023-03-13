@@ -29,3 +29,4 @@ Some blogs from around the web. Added using the [Link Book App](https://link-boo
 - [BetterExplained – Math lessons that click](https://betterexplained.com/)
 - [Anthony Hobday—Product designer](https://www.anthonyhobday.com/)
 - [InstaCalc Online Calculator](https://instacalc.com/) - The fast, easy, shareable online calculator.
+- [Home · Shalva Gegia](https://gegia.dev/) - I'm a software engineer based in Amsterdam, Netherlands. I'm passionate about building products that solve real-world problems.
