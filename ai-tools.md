@@ -9,3 +9,4 @@
 - [eluna.ai](https://www.eluna.ai/) - Covering the rapidly moving world of AI.
 - [NewsNotFound | AI Powered, Unbiased News | Information, not indoctrination](https://newsnotfound.com/) - Our website, NewsNotFound, is dedicated to bringing you the latest news and information from around the world, without any bias or agenda.
 - [Chat Thing](https://chatthing.ai/) - Turn your existing Notion content into an AI powered chatbot
+- [https://spreadsheet.page/](https://spreadsheet.page/)
