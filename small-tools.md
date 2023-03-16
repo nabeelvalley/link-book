@@ -29,3 +29,4 @@ Tools for small things
     structured data on their web pages for use by search engines and other applications.
 - [Muse — dive into big ideas](https://museapp.com/) - Flexible boards for notetaking, whiteboarding, and connecting the dots. Your tool for deep work, now on iPad and Mac.
 - [InstaCalc Online Calculator](https://instacalc.com/) - The fast, easy, shareable online calculator.
+- [Random Object Generator ― Perchance](https://perchance.org/object)
