@@ -30,3 +30,4 @@ Some blogs from around the web. Added using the [Link Book App](https://link-boo
 - [Anthony Hobday—Product designer](https://www.anthonyhobday.com/)
 - [InstaCalc Online Calculator](https://instacalc.com/) - The fast, easy, shareable online calculator.
 - [Home · Shalva Gegia](https://gegia.dev/) - I'm a software engineer based in Amsterdam, Netherlands. I'm passionate about building products that solve real-world problems.
+- [Technical dimensions of programming systems](https://tomasp.net/techdims/) - Framework that captures the characteristics of programming systems, makes it possible to compare and better understand them and find interesting new points in their design space.
