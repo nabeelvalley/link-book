@@ -33,3 +33,4 @@ Some blogs from around the web. Added using the [Link Book App](https://link-boo
 - [Technical dimensions of programming systems](https://tomasp.net/techdims/) - Framework that captures the characteristics of programming systems, makes it possible to compare and better understand them and find interesting new points in their design space.
 - [Erich Friedman](https://erich-friedman.github.io/)
 - [rsms](https://rsms.me/)
+- [Design notes on the 2023 Wikipedia redesign](https://alexhollender.com/) - by Alex Hollender
