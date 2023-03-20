@@ -1,0 +1,1 @@
+- [dogecore](https://www.dogecore.com/) - ૮ ・ﻌ・ა clothes for crawling into and decomposing
