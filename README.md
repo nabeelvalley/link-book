@@ -34,3 +34,4 @@ Some blogs from around the web. Added using the [Link Book App](https://link-boo
 - [Erich Friedman](https://erich-friedman.github.io/)
 - [rsms](https://rsms.me/)
 - [Design notes on the 2023 Wikipedia redesign](https://alexhollender.com/) - by Alex Hollender
+- [eugene kudashev’s internet garden](https://eugenekudashev.com/) - art, jokes, serious, silly
