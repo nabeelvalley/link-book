@@ -13,3 +13,4 @@
 - [https://spreadsheet.page/](https://spreadsheet.page/)
 - [Second Home](https://www.second.dev/) - Developer bots that set up web applications, add features, and keep projects up to date.
 - [https://aiadventure.spiel.com/](https://aiadventure.spiel.com/)
+- [Lindy](https://www.lindy.ai/) - Lindy is an AI assistant that puts your life on autopilot.
