@@ -1,0 +1,1 @@
+- [Serverless database with powerful search for your Next.js app](https://xata.io) - Xata is a branchable serverless database, analytics engine, and free-text search engine with a spreadsheet-like UI and an indefinitely scalable data API.
