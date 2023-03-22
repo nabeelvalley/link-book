@@ -12,3 +12,4 @@
 - [Chat Thing](https://chatthing.ai/) - Turn your existing Notion content into an AI powered chatbot
 - [https://spreadsheet.page/](https://spreadsheet.page/)
 - [Second Home](https://www.second.dev/) - Developer bots that set up web applications, add features, and keep projects up to date.
+- [https://aiadventure.spiel.com/](https://aiadventure.spiel.com/)
