@@ -36,3 +36,4 @@ Some blogs from around the web. Added using the [Link Book App](https://link-boo
 - [Design notes on the 2023 Wikipedia redesign](https://alexhollender.com/) - by Alex Hollender
 - [eugene kudashev’s internet garden](https://eugenekudashev.com/) - art, jokes, serious, silly
 - [Prabros. - Maker Duo](https://prabros.com/) - Prabros. is the home of maker duo Prathyush and Pranav who focus on making scientific communications easy to understand by using dimensional user interface design and good typographic principles.
+- [AisleOne Digest | Curated Design Newsletter](https://digest.aisleone.net/) - AisleOne Digest is a weekly newsletter on design, film, photography, music, and culture.
