@@ -38,3 +38,4 @@ Some blogs from around the web. Added using the [Link Book App](https://link-boo
 - [Prabros. - Maker Duo](https://prabros.com/) - Prabros. is the home of maker duo Prathyush and Pranav who focus on making scientific communications easy to understand by using dimensional user interface design and good typographic principles.
 - [AisleOne Digest | Curated Design Newsletter](https://digest.aisleone.net/) - AisleOne Digest is a weekly newsletter on design, film, photography, music, and culture.
 - [Eye on Design – AIGA Eye on Design](https://eyeondesign.aiga.org/)
+- [brandur.org — Brandur Leach](https://brandur.org/)
