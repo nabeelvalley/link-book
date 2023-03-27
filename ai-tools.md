@@ -14,3 +14,4 @@
 - [Second Home](https://www.second.dev/) - Developer bots that set up web applications, add features, and keep projects up to date.
 - [https://aiadventure.spiel.com/](https://aiadventure.spiel.com/)
 - [Lindy](https://www.lindy.ai/) - Lindy is an AI assistant that puts your life on autopilot.
+- [Mem: The self-organizing workspace](https://get.mem.ai/) - Let AI organize your team’s work—from meeting notes, projects, to knowledge bases. All instantly searchable and readily discoverable.
