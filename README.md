@@ -39,3 +39,4 @@ Some blogs from around the web. Added using the [Link Book App](https://link-boo
 - [AisleOne Digest | Curated Design Newsletter](https://digest.aisleone.net/) - AisleOne Digest is a weekly newsletter on design, film, photography, music, and culture.
 - [Eye on Design – AIGA Eye on Design](https://eyeondesign.aiga.org/)
 - [brandur.org — Brandur Leach](https://brandur.org/)
+- [The Spicy Web: Vanilla has never tasted so hot.](https://www.spicyweb.dev/) - Join a fabulous community of developers learning vanilla web specs like HTTP, HTML, CSS, JavaScript, & Web Components
