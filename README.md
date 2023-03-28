@@ -40,3 +40,4 @@ Some blogs from around the web. Added using the [Link Book App](https://link-boo
 - [Eye on Design – AIGA Eye on Design](https://eyeondesign.aiga.org/)
 - [brandur.org — Brandur Leach](https://brandur.org/)
 - [The Spicy Web: Vanilla has never tasted so hot.](https://www.spicyweb.dev/) - Join a fabulous community of developers learning vanilla web specs like HTTP, HTML, CSS, JavaScript, & Web Components
+- [Jared White: Expressively publishing on the open web since 1996](https://jaredwhite.com/) - Expressively publishing on the open web since 1996. Entranced by Portland, Oregon since 2017.
