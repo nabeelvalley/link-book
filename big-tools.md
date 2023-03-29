@@ -9,3 +9,4 @@ Tools for big things
 - [Rive - Build interactive animations that run anywhere](https://rive.app/) - Use our familiar design and animation tools with our ground-breaking State Machine to create interactive motion graphics for your products, apps, sites, and games.
 - [Milanote - the tool for organizing creative projects](https://milanote.com/) - Milanote is an easy-to-use tool to organize your ideas and projects into visual boards. Add notes, images, links and files, organize them visually and share them with your team.
 - [HASH - a workspace for structured knowledge.](https://hash.ai/) - Integrate live data, construct ontologies, and create shared understanding in a collaborative, open-source workspace.
+- [Nozbe - best project management and collaboration tool](https://nozbe.com/) - Best personal and team productivity collaboration tool. Use Nozbe - task management software and increase productivity.
