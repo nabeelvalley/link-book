@@ -12,3 +12,4 @@ Tools for making software development easier
 - [Postman](http://postman.com)
 - [Instant GraphQL APIs on your data | Built-in Authz & Caching](http://hasura.io) - Hasura gives you instant GraphQL & REST APIs on new & existing data sources. Connect Hasura to your data & get APIs in under a minute.
 - [Neon — Serverless, Fault-Tolerant, Branchable Postgres](https://neon.tech) - Postgres made for developers. Easy to Use, Scalable, Cost efficient solution for your next project.
+- [Plasmic - The headless page builder for your codebase](https://www.plasmic.app/) - Plasmic is a visual, no-code page builder and CMS for any website or codebase. Use your existing code components. Empower the whole team to ship incredibly fast.
