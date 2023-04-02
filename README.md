@@ -43,3 +43,4 @@ Some blogs from around the web. Added using the [Link Book App](https://link-boo
 - [Jared White: Expressively publishing on the open web since 1996](https://jaredwhite.com/) - Expressively publishing on the open web since 1996. Entranced by Portland, Oregon since 2017.
 - [Fast, simple code review | Graphite](https://graphite.dev/) - Graphite is modern code review for fast-moving teams - we help engineers write and review smaller pull requests, stay unblocked, and ship faster.
 - [chia.design](https://chia.design/) - The index of Chia Amisola's design practice
+- [Harley Turan](https://hturan.com/)
