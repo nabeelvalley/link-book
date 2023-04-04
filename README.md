@@ -65,3 +65,4 @@ Hi, I’m Mike Matas.
       Seven years ago, my wife and I moved two hours north of San Francisco to live in an off-grid house in the foothills of Dry Creek Valley just outside of Healdsburg. We love life up here with our two young daughters, ten chickens, honey bees, and hearty vegetable garden.
 - [Alexander Obenauer](https://alexanderobenauer.com/) - In my current work, I’m exploring new and renewed ideas for how personal computing can better serve people’s lives — expanding opportunity, agency, curiosity, and creativity.
 - [the html review](https://thehtml.review/)
+- [Katherine Yang](https://whykatherine.github.io/) - Katherine Yang’s website.
