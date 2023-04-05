@@ -68,3 +68,4 @@ Hi, I’m Mike Matas.
 - [Katherine Yang](https://whykatherine.github.io/) - Katherine Yang’s website.
 - [https://www.aliciaguo.com/](https://www.aliciaguo.com/)
 - [cwervo.com](https://cwervo.com/)
+- [Dino Kuznik Photographer NY & CA - Dino Kuznik](https://www.dinokuznik.com/) - Slovenian Photographer based in New York City. With a keen eye for composition and color, he creates imagery that captivates and inspires. He works across the genres of landscape, portrait, and fashion photography.
