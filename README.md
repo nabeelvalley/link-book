@@ -52,3 +52,5 @@ Some blogs from around the web. Added using the [Link Book App](https://link-boo
 - [cwervo.com](https://cwervo.com/)
 - [Dino Kuznik Photographer NY & CA - Dino Kuznik](https://www.dinokuznik.com/) - Slovenian Photographer based in New York City. With a keen eye for composition and color, he creates imagery that captivates and inspires. He works across the genres of landscape, portrait, and fashion photography.
 - [Chonky Studio](https://www.chonky.studio/) - makin' toys
+
+- [Steren's blog](https://blog.steren.fr/) - So many drafts, so few posts
