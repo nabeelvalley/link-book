@@ -54,3 +54,17 @@ Some blogs from around the web. Added using the [Link Book App](https://link-boo
 - [Chonky Studio](https://www.chonky.studio/) - makin' toys
 
 - [Steren's blog](https://blog.steren.fr/) - So many drafts, so few posts
+- [jess ica — Are.na](https://www.are.na/jess-ica) - https://jyz.glitch.me/work.html
+https://read.cv/fieldednotes
+⚡⚡⚡
+
+neostalgic for: diaspora, neighbors-to-be, new ways of being, emergent delight, finding each other.
+
+i love homegrown, grassroots wisdom (i learn best from intimate conversations, personal blogs, and the occasional twitter thread) 
+
+(my are.na is so cluttered - many things on twitter i want to have better bookmarks for q.q)
+
+🪐 http://reading.supply/@jess 
+🐣 http://twitter.com/fieldednotes 
+💌 fieldednotes@gmail.com
+🧫 https://twitter.com/irreveriezzz
