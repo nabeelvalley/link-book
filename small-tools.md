@@ -31,3 +31,4 @@ Tools for small things
 - [InstaCalc Online Calculator](https://instacalc.com/) - The fast, easy, shareable online calculator.
 - [Random Object Generator ― Perchance](https://perchance.org/object)
 - [Are.na](https://www.are.na/) - Are.na is a platform for connecting ideas and building knowledge.
+- [Futureland](https://futureland.tv/) - A single app to help you track habits, build routines, journal, improve sleep, and more.
