@@ -70,3 +70,4 @@ i love homegrown, grassroots wisdom (i learn best from intimate conversations, p
 🧫 https://twitter.com/irreveriezzz
 - [J. YURU ZHŌU – writer – poet – researcher – artist](https://mooncasted.work/) - hi! thanks for stopping by. 🥮 recent / forthcoming work Asian Art Museum, Bernice Bing Tribute InstallationVideo poem, June - Dec 2023 Sinostories Contributing Editor, 2021 Gray Area / ZERO1 / Claudia Larcher Video, research, exhibit, 2022 Kernel Magazine, Volume 2 Creative Editor, 2022 🔬 stuff i'm thinking about, in no particular order (updated 03/24/23)…
 - [@visakanv – ❤️ friendly, ambitious nerd ⚡️](https://visakanv.com/)
+- [pketh.org](https://pketh.org/) - Making things simple, radical and beautiful
