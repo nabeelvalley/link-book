@@ -32,3 +32,4 @@ Tools for small things
 - [Random Object Generator ― Perchance](https://perchance.org/object)
 - [Are.na](https://www.are.na/) - Are.na is a platform for connecting ideas and building knowledge.
 - [Futureland](https://futureland.tv/) - A single app to help you track habits, build routines, journal, improve sleep, and more.
+- [Kinopio – Thinking Canvas](https://kinopio.club/) - Create spaces to mindmap, moodboard, research, whiteboard, brainstorm, plan, and take notes
