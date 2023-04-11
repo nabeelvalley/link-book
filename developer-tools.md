@@ -15,3 +15,4 @@ Tools for making software development easier
 - [Plasmic - The headless page builder for your codebase](https://www.plasmic.app/) - Plasmic is a visual, no-code page builder and CMS for any website or codebase. Use your existing code components. Empower the whole team to ship incredibly fast.
 - [Interval | Build internal tools with just backend code](https://interval.com/) - Interval supercharges your backend code with UIs, auth, audit logs, and more, leaving more time to focus on writing the code that matters.
 - [Data Rabbit](https://www.datarabbit.com/) - A flow-based Clojure(script) canvas playground for data exploration, visualization, & learning.     "A system built for seeing".
+- [OneDev: Self-hosted Git Server with CI/CD and Kanban](https://onedev.io/)
