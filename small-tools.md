@@ -33,3 +33,4 @@ Tools for small things
 - [Are.na](https://www.are.na/) - Are.na is a platform for connecting ideas and building knowledge.
 - [Futureland](https://futureland.tv/) - A single app to help you track habits, build routines, journal, improve sleep, and more.
 - [Kinopio – Thinking Canvas](https://kinopio.club/) - Create spaces to mindmap, moodboard, research, whiteboard, brainstorm, plan, and take notes
+- [Fabric internet OS – think better, together](https://fabric.so/) - Your own personal search engine and collaborative internet library. All your files, notes, docs, and bookmarks in one place, at last.
