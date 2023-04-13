@@ -76,3 +76,4 @@ Elliot Halter.
 - [Una Kravets Online](https://una.im/) - The personal website of Una Kravets. Front-end developer, tech content creator, and supporter of all things web UI
 - [Amelia Wattenberger](https://wattenberger.com/)
 - [Wasim Lorgat](https://wasimlorgat.com/) - Recent posts on wasimlorgat.com
+- [Elliot.website](https://elliot.website/) - Elliot's portfolio website.
