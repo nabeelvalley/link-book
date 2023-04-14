@@ -78,3 +78,4 @@ Elliot Halter.
 - [Wasim Lorgat](https://wasimlorgat.com/) - Recent posts on wasimlorgat.com
 - [Elliot.website](https://elliot.website/) - Elliot's portfolio website.
 - [nexxel • home](https://www.nexxel.dev/) - 17 yo self-taught developer
+- [Kasra's Blog](https://kasra.io/)
