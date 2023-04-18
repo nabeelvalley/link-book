@@ -80,3 +80,4 @@ Elliot Halter.
 - [nexxel • home](https://www.nexxel.dev/) - 17 yo self-taught developer
 - [Kasra's Blog](https://kasra.io/)
 - [andrew blinn](https://andrewblinn.com/)
+- [Steve Ruiz](https://www.steveruiz.me/)
