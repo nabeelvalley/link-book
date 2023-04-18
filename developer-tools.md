@@ -17,3 +17,4 @@ Tools for making software development easier
 - [Data Rabbit](https://www.datarabbit.com/) - A flow-based Clojure(script) canvas playground for data exploration, visualization, & learning.     "A system built for seeing".
 - [OneDev: Self-hosted Git Server with CI/CD and Kanban](https://onedev.io/)
 - [PlanetScale Pricing](https://planetscale.com/pricing)
+- [Liveblocks | Collaborative experiences in days, not months](https://liveblocks.io/) - Liveblocks provides developers with a complete toolkit to embed performant collaboration features to your product in days, not months.
