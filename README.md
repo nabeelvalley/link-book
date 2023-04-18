@@ -81,3 +81,4 @@ Elliot Halter.
 - [Kasra's Blog](https://kasra.io/)
 - [andrew blinn](https://andrewblinn.com/)
 - [Steve Ruiz](https://www.steveruiz.me/)
+- [Jason Yuan Design](https://jasonyuan.design/)
