@@ -82,3 +82,4 @@ Elliot Halter.
 - [andrew blinn](https://andrewblinn.com/)
 - [Steve Ruiz](https://www.steveruiz.me/)
 - [Jason Yuan Design](https://jasonyuan.design/)
+- [Maggie Appleton](https://maggieappleton.com) - Maggie's digital garden filled with visual essays on programming, design, and anthropology
