@@ -18,3 +18,4 @@ Tools for making software development easier
 - [OneDev: Self-hosted Git Server with CI/CD and Kanban](https://onedev.io/)
 - [PlanetScale Pricing](https://planetscale.com/pricing)
 - [Liveblocks | Collaborative experiences in days, not months](https://liveblocks.io/) - Liveblocks provides developers with a complete toolkit to embed performant collaboration features to your product in days, not months.
+- [Lazy • A capture tool for knowledge](https://lazy.so) - One keyboard shortcut to save every idea, link, tweet and so much more
