@@ -85,3 +85,4 @@ Elliot Halter.
 - [Maggie Appleton](https://maggieappleton.com) - Maggie's digital garden filled with visual essays on programming, design, and anthropology
 - [Sprout | Your space, your call](https://sprout.place/)
 - [Bret Victor, beast of burden](http://worrydream.com/) - Bret Victor has been provided by the management for your protection.
+- [Konstantin Münster – Web & Product Developer](https://konstantin.digital/) - I am a freelance developer who helps individuals and companies build better web applications.
