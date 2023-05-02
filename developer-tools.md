@@ -21,3 +21,4 @@ Tools for making software development easier
 - [Lazy • A capture tool for knowledge](https://lazy.so) - One keyboard shortcut to save every idea, link, tweet and so much more
 - [Kosmik • For All Mindkind](https://lithium.paris/) - Kosmik is the visual canvas for knowledge management. Kosmik allows you to write, create large media collections, browse the web and share it all with your team! No more folders, bookmarks or infinite message threads.
 - [Cockroach Labs, the company building CockroachDB](https://www.cockroachlabs.com) - CockroachDB is a distributed database with standard SQL for cloud applications. CockroachDB powers companies like Comcast, Lush, and Bose.
+- [Turso | SQLite Developer Experience in an Edge Database](https://turso.tech) - Eliminate application bottlenecks by bringing the performance and data portability of open source, lightweight SQL close to your users with low overhead
