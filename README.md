@@ -88,3 +88,5 @@ Elliot Halter.
 - [Konstantin Münster – Web & Product Developer](https://konstantin.digital/) - I am a freelance developer who helps individuals and companies build better web applications.
 - [https://www.matthewsiu.com/](https://www.matthewsiu.com/)
 - [Neal.fun](https://neal.fun/) - Games, visualizations, interactives and other weird stuff.
+- [Elizabeth Goodspeed](http://elizabethgoodspeed.com/) - Elizabeth Goodspeed is a graphic designer specializing in typography, 
+branding, identity, and, editorial design.
