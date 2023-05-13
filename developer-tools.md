@@ -24,3 +24,4 @@ Tools for making software development easier
 - [Turso | SQLite Developer Experience in an Edge Database](https://turso.tech) - Eliminate application bottlenecks by bringing the performance and data portability of open source, lightweight SQL close to your users with low overhead
 - [Hop](https://hop.io/) - Hop enables you to deploy and scale high-bandwidth realtime apps with ease
 - [Readymag – the design tool for outstanding websites](https://readymag.com/) - Design, prototype, collaborate, publish.
+- [Zed - Code at the speed of thought](https://zed.dev/)
