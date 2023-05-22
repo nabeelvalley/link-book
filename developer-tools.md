@@ -25,3 +25,4 @@ Tools for making software development easier
 - [Hop](https://hop.io/) - Hop enables you to deploy and scale high-bandwidth realtime apps with ease
 - [Readymag – the design tool for outstanding websites](https://readymag.com/) - Design, prototype, collaborate, publish.
 - [Zed - Code at the speed of thought](https://zed.dev/)
+- [Shiki Twoslash: Static Code Samples for JS Projects](https://shikijs.github.io/twoslash/) - You take some Shiki, add a hint of the TypeScript compiler, and 🎉! Incredible static code samples
