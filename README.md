@@ -93,3 +93,4 @@ branding, identity, and, editorial design.
 - [theprocess](https://www.carlhauser.com/) - This is the process. Every day sketches, brainfarts and ideas flying around in my backpack and apartment. I hope they can inspire or help someone out there.
 - [Fatih Kalifa | Interface Engineer](https://fatihkalifa.com/) - Interface Engineer based in Indonesia
 - [Blog Posts ・ Andrew Branch](https://blog.andrewbran.ch/) - A blog about coding and maybe other stuff. Who knows?
+- [Adam Argyle](https://nerdy.dev) - Website for Adam Argyle: Teacher, Speaker, CSSWG member, and creator of Open Props and VisBug.
