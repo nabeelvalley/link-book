@@ -1,3 +1,4 @@
 - [pocket operators](https://teenage.engineering/products/po) - pocket operators are small, ultra portable music devices,with studio quality sound and the flexibility to make music on the go.affordable for everyone and compatible with all other music gear.
 - [WORK LOUDER® – Modular keyboards for digital creators](https://worklouder.cc/)
 - [The Light Phone](https://www.thelightphone.com/) - Light is a radically different technology company. We design beautiful tools that respect and empower our users and our first product is The Light Phone.
+- [Flux Keyboard](https://fluxkeyboard.com/) - A revolutionary keyboard with integrated display which adapts to you.
