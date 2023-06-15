@@ -1,1 +1,2 @@
 - [MonoLisa - A font family designed for software developers. Font follows function.](https://www.monolisa.dev/) - A font family designed for software developers. Font follows function.
+- [GitHub - intel/intel-one-mono: Intel One Mono font repository](https://github.com/intel/intel-one-mono) - Intel One Mono font repository. Contribute to intel/intel-one-mono development by creating an account on GitHub.
