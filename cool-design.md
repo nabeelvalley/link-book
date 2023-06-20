@@ -10,3 +10,4 @@ Some apps and design systems/tools
 - [Mercury](https://www.mercuryos.com/) - Mercury is a reimaging of the operating system as a fluid modeless experience drive by human intent.
 - [GUIdebook > GUIs](https://guidebookgallery.org/guis)
 - [Product design & UX design resources – Degreeless.Design](https://www.degreeless.design/) - An opinionated and carefully curated collection of links, books, articles, and more that will help you speed boost your UX and Product Design career.
+- [URL Lengthener: l62.ng](https://loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ng/) - Make your links less readable and more fun at loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ng
