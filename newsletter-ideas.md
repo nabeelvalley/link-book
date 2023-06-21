@@ -1,0 +1,1 @@
+- [Fit-to-Width Text](https://kizu.dev/fit-to-width-text/) - What if I will tell you how we could solve fit-to-width text with pure CSS without any hardcoded parameters? Curiously, scroll-driven animations will allow us to do just that! Join me as I continue exploring the experimental implementations of the latest specs.
