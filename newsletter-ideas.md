@@ -1,1 +1,2 @@
 - [Fit-to-Width Text](https://kizu.dev/fit-to-width-text/) - What if I will tell you how we could solve fit-to-width text with pure CSS without any hardcoded parameters? Curiously, scroll-driven animations will allow us to do just that! Join me as I continue exploring the experimental implementations of the latest specs.
+- [Building a Debugger: Code Analysis](https://nan-archive.vercel.app/debugger) - If you want to build your own debugger, where do you start? In this post, I go over how I built Playground — an online JS debugger — using Babel's plugin APIs.
