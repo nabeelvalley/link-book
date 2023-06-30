@@ -96,3 +96,4 @@ branding, identity, and, editorial design.
 - [Adam Argyle](https://nerdy.dev) - Website for Adam Argyle: Teacher, Speaker, CSSWG member, and creator of Open Props and VisBug.
 - [Articles & Experiments by Roman Komarov](https://kizu.dev/) - Personal site, blog and experiments with CSS and other front-end technologies.
 - [Redd](https://redd.one) - Artem Zakharchenko's personal blog.
+- [Paul Makles – insrt.uk](https://insrt.uk)
