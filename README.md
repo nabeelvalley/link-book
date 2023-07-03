@@ -99,3 +99,4 @@ branding, identity, and, editorial design.
 - [Paul Makles – insrt.uk](https://insrt.uk)
 - [Alexis King’s Blog](https://lexi-lambda.github.io/)
 - [Stephan Ango](https://stephanango.com/) - Stephan Ango
+- [About these notes](https://notes.andymatuschak.org/About_these_notes)
