@@ -98,3 +98,4 @@ branding, identity, and, editorial design.
 - [Redd](https://redd.one) - Artem Zakharchenko's personal blog.
 - [Paul Makles – insrt.uk](https://insrt.uk)
 - [Alexis King’s Blog](https://lexi-lambda.github.io/)
+- [Stephan Ango](https://stephanango.com/) - Stephan Ango
