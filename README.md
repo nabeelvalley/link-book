@@ -97,3 +97,4 @@ branding, identity, and, editorial design.
 - [Articles & Experiments by Roman Komarov](https://kizu.dev/) - Personal site, blog and experiments with CSS and other front-end technologies.
 - [Redd](https://redd.one) - Artem Zakharchenko's personal blog.
 - [Paul Makles – insrt.uk](https://insrt.uk)
+- [Alexis King’s Blog](https://lexi-lambda.github.io/)
