@@ -102,3 +102,4 @@ branding, identity, and, editorial design.
 - [About these notes](https://notes.andymatuschak.org/About_these_notes)
 - [Derek Sivers](https://sive.rs/)
 - [Julian Krispel-Samsel - Text editing specialist for hire | jkrsp](https://jkrsp.com/) - Julians blog.
+- [Made by Evan](https://madebyevan.com)
