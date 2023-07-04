@@ -103,3 +103,4 @@ branding, identity, and, editorial design.
 - [Derek Sivers](https://sive.rs/)
 - [Julian Krispel-Samsel - Text editing specialist for hire | jkrsp](https://jkrsp.com/) - Julians blog.
 - [Made by Evan](https://madebyevan.com)
+- [Alex Widua](https://www.alexwidua.com/) - Alex Widua is a Interaction Designer & UX Engineer.
