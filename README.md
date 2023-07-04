@@ -100,3 +100,4 @@ branding, identity, and, editorial design.
 - [Alexis King’s Blog](https://lexi-lambda.github.io/)
 - [Stephan Ango](https://stephanango.com/) - Stephan Ango
 - [About these notes](https://notes.andymatuschak.org/About_these_notes)
+- [Derek Sivers](https://sive.rs/)
