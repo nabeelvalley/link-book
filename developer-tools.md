@@ -35,3 +35,4 @@ Tools for making software development easier
 - [Tooljet | Open-source low-code platform to build internal tools](https://www.tooljet.com) - Open-source low-code framework to build & deploy internal tools, dashboards and business applications in minutes.
 - [Modal](https://modal.com) - Modal helps people run code in the cloud. We think it's the easiest way for developers to get access to containerized, serverless compute without the hassle of managing their own infrastructure.
 - [TinyBase](https://tinybase.org/) - The reactive data store for local-first apps.
+- [Yjs Shared Editing](https://yjs.dev/)
