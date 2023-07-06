@@ -3,3 +3,4 @@
 - [Sprout | Your space, your call](https://sprout.place/)
 - [natto - write JavaScript on a 2D canvas](https://natto.dev/)
 - [Rooms.xyz](https://rooms.xyz/) - Create & remix interactive rooms from your browser
+- [Multi-layered calendars « julian.digital](https://julian.digital/2023/07/06/multi-layered-calendars/) - julian.digital weblog
