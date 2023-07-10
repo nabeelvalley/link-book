@@ -107,3 +107,4 @@ branding, identity, and, editorial design.
 - [julian.digital](https://julian.digital/) - julian.digital weblog
 - [kevin.garden](https://kevin.garden/)
 - [Kevin Chen](https://kevinnchen.com/) - Kevin Chen is a designer and programmer. This is a living selection of his work.
+- [𝚜𝚙𝚎𝚗𝚌𝚎𝚛𝚌𝚑𝚊𝚗𝚐.𝚖𝚎 𝚒𝚜 𝚠𝚊𝚗𝚍𝚎𝚛𝚒𝚗𝚐](https://www.spencerchang.me/) - Spencer is a creative technologist, researcher, artist, and world maker in San Francisco. He creates playful and intimate software and words to imagine alternative futures of computing.
