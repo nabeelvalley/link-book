@@ -105,3 +105,4 @@ branding, identity, and, editorial design.
 - [Made by Evan](https://madebyevan.com)
 - [Alex Widua](https://www.alexwidua.com/) - Alex Widua is a Interaction Designer & UX Engineer.
 - [julian.digital](https://julian.digital/) - julian.digital weblog
+- [kevin.garden](https://kevin.garden/)
