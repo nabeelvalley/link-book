@@ -106,3 +106,4 @@ branding, identity, and, editorial design.
 - [Alex Widua](https://www.alexwidua.com/) - Alex Widua is a Interaction Designer & UX Engineer.
 - [julian.digital](https://julian.digital/) - julian.digital weblog
 - [kevin.garden](https://kevin.garden/)
+- [Kevin Chen](https://kevinnchen.com/) - Kevin Chen is a designer and programmer. This is a living selection of his work.
