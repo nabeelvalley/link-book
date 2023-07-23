@@ -110,3 +110,4 @@ branding, identity, and, editorial design.
 - [𝚜𝚙𝚎𝚗𝚌𝚎𝚛𝚌𝚑𝚊𝚗𝚐.𝚖𝚎 𝚒𝚜 𝚠𝚊𝚗𝚍𝚎𝚛𝚒𝚗𝚐](https://www.spencerchang.me/) - Spencer is a creative technologist, researcher, artist, and world maker in San Francisco. He creates playful and intimate software and words to imagine alternative futures of computing.
 - [Charles in Cloud's Space](https://inclouds.space/)
 - [Chia's Blog -](https://chias.blog/)
+- [Welcome! - Joschua’s Notes](https://notes.joschua.io/) - Welcome! - Joschua’s Notes
