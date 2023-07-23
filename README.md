@@ -111,3 +111,4 @@ branding, identity, and, editorial design.
 - [Charles in Cloud's Space](https://inclouds.space/)
 - [Chia's Blog -](https://chias.blog/)
 - [Welcome! - Joschua’s Notes](https://notes.joschua.io/) - Welcome! - Joschua’s Notes
+- [Welcome to The Quantum Well! - The Quantum Well - Obsidian Publish](https://publish.obsidian.md/myquantumwell/Welcome+to+The+Quantum+Well!) - Welcome to The Quantum Well! - The Quantum Well - Powered by Obsidian Publish.
