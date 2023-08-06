@@ -35,3 +35,4 @@ Tools for small things
 - [Kinopio – Thinking Canvas](https://kinopio.club/) - Create spaces to mindmap, moodboard, research, whiteboard, brainstorm, plan, and take notes
 - [Fabric internet OS – think better, together](https://fabric.so/) - Your own personal search engine and collaborative internet library. All your files, notes, docs, and bookmarks in one place, at last.
 - [First internet $1 — A world map of indie makers](https://firstinternetdollar.com/) - A world map of indie makers. Discover and connect with fellow makers on the journey to create profitable side projects.
+- [Unsure Calculator](https://filiph.github.io/unsure/)
