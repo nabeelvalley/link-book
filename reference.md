@@ -1,3 +1,4 @@
 - [Tools for better thinking | Untools](https://untools.co) - Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.
 - [Design thinking courses and certifications - Enterprise Design Thinking](https://www.ibm.com/design/thinking/) - Take design thinking courses, earn certifications, and bring your team along with you.
 - [The Feynman Messenger Lectures Video Viewer](https://www.feynmanlectures.caltech.edu/fml.html)
+- [The On-Line Encyclopedia of Integer Sequences® (OEIS®)](https://oeis.org/)
