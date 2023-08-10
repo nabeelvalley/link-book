@@ -36,3 +36,4 @@ Tools for making software development easier
 - [Modal](https://modal.com) - Modal helps people run code in the cloud. We think it's the easiest way for developers to get access to containerized, serverless compute without the hassle of managing their own infrastructure.
 - [TinyBase](https://tinybase.org/) - The reactive data store for local-first apps.
 - [Yjs Shared Editing](https://yjs.dev/)
+- [TinyBase](https://tinybase.org/) - The reactive data store for local-first apps.
