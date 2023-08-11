@@ -2,3 +2,4 @@
 - [Design thinking courses and certifications - Enterprise Design Thinking](https://www.ibm.com/design/thinking/) - Take design thinking courses, earn certifications, and bring your team along with you.
 - [The Feynman Messenger Lectures Video Viewer](https://www.feynmanlectures.caltech.edu/fml.html)
 - [The On-Line Encyclopedia of Integer Sequences® (OEIS®)](https://oeis.org/)
+- [Intro | Putting the "You" in CPU](https://cpu.land/) - Curious exactly what happens when you run a program on your computer? Learn how multiprocessing works, what system calls really are, how computers manage memory with hardware interrupts, and how Linux loads executables.
