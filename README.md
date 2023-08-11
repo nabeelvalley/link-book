@@ -118,3 +118,4 @@ branding, identity, and, editorial design.
 - [Ray Peat](https://raypeat.com/articles/) - Ray Peat
 - [Matt Bateman](https://matt.kitchen/)
 - [Filip Hráček’s homepage](https://filiph.net/) - Hi, I'm Filip. I'm a programming buff with formal training in journalism.
+- [ANDRÈ JOSSELIN – PHOTOGRAPHER](https://josselin.de/) - JOSSELIN
