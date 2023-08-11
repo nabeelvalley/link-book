@@ -13,3 +13,4 @@ Some apps and design systems/tools
 - [URL Lengthener: l62.ng](https://loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ng/) - Make your links less readable and more fun at loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ng
 - [SAVEE](https://savee.it/) - The best way to save and share inspiration.
 - [Welcome to Cosmos](https://www.cosmos.so/) - A Pinterest alternative for creatives. Save anything on the web, curate into clusters, and share with the world.
+- [BP&O - Branding, Packaging and Opinion](https://bpando.org/) - Logo, brand identity, packaging and graphic design blog, daily design inspiration, review, news and opinion from Richard Baird.
