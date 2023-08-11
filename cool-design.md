@@ -11,3 +11,4 @@ Some apps and design systems/tools
 - [GUIdebook > GUIs](https://guidebookgallery.org/guis)
 - [Product design & UX design resources – Degreeless.Design](https://www.degreeless.design/) - An opinionated and carefully curated collection of links, books, articles, and more that will help you speed boost your UX and Product Design career.
 - [URL Lengthener: l62.ng](https://loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ng/) - Make your links less readable and more fun at loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ng
+- [SAVEE](https://savee.it/) - The best way to save and share inspiration.
