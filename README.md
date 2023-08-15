@@ -119,3 +119,4 @@ branding, identity, and, editorial design.
 - [Matt Bateman](https://matt.kitchen/)
 - [Filip Hráček’s homepage](https://filiph.net/) - Hi, I'm Filip. I'm a programming buff with formal training in journalism.
 - [ANDRÈ JOSSELIN – PHOTOGRAPHER](https://josselin.de/) - JOSSELIN
+- [Hypertext as Literature](https://hypertext.joodaloop.com/) -  The blogging hall of fame.
