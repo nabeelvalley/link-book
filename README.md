@@ -121,3 +121,4 @@ branding, identity, and, editorial design.
 - [ANDRÈ JOSSELIN – PHOTOGRAPHER](https://josselin.de/) - JOSSELIN
 - [Hypertext as Literature](https://hypertext.joodaloop.com/) -  The blogging hall of fame.
 - [Blog @ tonsky.me](https://tonsky.me/)
+- [soft_tech](https://helena.mmm.page/soft_tech)
