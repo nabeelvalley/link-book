@@ -122,3 +122,4 @@ branding, identity, and, editorial design.
 - [Hypertext as Literature](https://hypertext.joodaloop.com/) -  The blogging hall of fame.
 - [Blog @ tonsky.me](https://tonsky.me/)
 - [soft_tech](https://helena.mmm.page/soft_tech)
+- [Fabrice Bellard's Home Page](https://bellard.org/)
