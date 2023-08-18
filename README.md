@@ -123,3 +123,4 @@ branding, identity, and, editorial design.
 - [Blog @ tonsky.me](https://tonsky.me/)
 - [soft_tech](https://helena.mmm.page/soft_tech)
 - [Fabrice Bellard's Home Page](https://bellard.org/)
+- [Don Knuth's Home Page](https://www-cs-faculty.stanford.edu/~knuth/)
