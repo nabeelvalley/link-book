@@ -124,3 +124,4 @@ branding, identity, and, editorial design.
 - [soft_tech](https://helena.mmm.page/soft_tech)
 - [Fabrice Bellard's Home Page](https://bellard.org/)
 - [Don Knuth's Home Page](https://www-cs-faculty.stanford.edu/~knuth/)
+- [javier.computer](https://javier.computer/)
