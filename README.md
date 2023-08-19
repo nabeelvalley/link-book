@@ -125,3 +125,4 @@ branding, identity, and, editorial design.
 - [Fabrice Bellard's Home Page](https://bellard.org/)
 - [Don Knuth's Home Page](https://www-cs-faculty.stanford.edu/~knuth/)
 - [javier.computer](https://javier.computer/)
+- [Maya's Coding Mischief Homepage | Maya Nedeljković Batić](https://www.maya-ndljk.com/) - Personal website-portfolio and logbook of coding and visual art projects.
