@@ -126,3 +126,4 @@ branding, identity, and, editorial design.
 - [Don Knuth's Home Page](https://www-cs-faculty.stanford.edu/~knuth/)
 - [javier.computer](https://javier.computer/)
 - [Maya's Coding Mischief Homepage | Maya Nedeljković Batić](https://www.maya-ndljk.com/) - Personal website-portfolio and logbook of coding and visual art projects.
+- [TkDodo's blog](https://tkdodo.eu/blog) - A technical blog about frontend-development, TypeScript and React
