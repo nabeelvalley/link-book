@@ -128,3 +128,4 @@ branding, identity, and, editorial design.
 - [Maya's Coding Mischief Homepage | Maya Nedeljković Batić](https://www.maya-ndljk.com/) - Personal website-portfolio and logbook of coding and visual art projects.
 - [TkDodo's blog](https://tkdodo.eu/blog) - A technical blog about frontend-development, TypeScript and React
 - [jzhao.xyz](https://jzhao.xyz/) - Welcome! I’m Jacky. This is my little hypertext garden on the Internet — make yourself at home! Currently, I’m exploring what agentic, interoperable, and communal technology looks like in my independent research practice.
+- [Josh W Comeau](https://www.joshwcomeau.com/) - Friendly tutorials for developers. Focus on React, CSS, Animation, and more!
