@@ -40,3 +40,4 @@ Tools for making software development easier
 - [Vulcan - distributed state, simplified – vlcn.io](https://vlcn.io/) - Make collaborative, multiplayer or local-first applications
 - [ElectricSQL · Local-first. Electrified.](https://electric-sql.com/) - Active cloud sync for local-first app development. You develop local-first apps. We provide the cloud sync. Without changing your database or your code.
 - [Convex | The fullstack TypeScript development platform](https://www.convex.dev/) - The backend application platform with everything you need to build your product.
+- [🚀 Getting Started | LazyVim](https://lazyvim.github.io/) - LazyVim is a Neovim setup powered by 💤 lazy.nvim
