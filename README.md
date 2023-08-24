@@ -131,3 +131,4 @@ branding, identity, and, editorial design.
 - [Josh W Comeau](https://www.joshwcomeau.com/) - Friendly tutorials for developers. Focus on React, CSS, Animation, and more!
 - [Deploy app servers close to your users · Fly](https://fly.io/)
 - [Redd](https://redd.one/) - Artem Zakharchenko's personal blog.
+- [Bruno Simon](https://bruno-simon.com/) - Creative developer living in Paris, freelancer, former lead developer at Immersive Garden, former developer at Uzik and teacher.
