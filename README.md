@@ -130,3 +130,4 @@ branding, identity, and, editorial design.
 - [jzhao.xyz](https://jzhao.xyz/) - Welcome! I’m Jacky. This is my little hypertext garden on the Internet — make yourself at home! Currently, I’m exploring what agentic, interoperable, and communal technology looks like in my independent research practice.
 - [Josh W Comeau](https://www.joshwcomeau.com/) - Friendly tutorials for developers. Focus on React, CSS, Animation, and more!
 - [Deploy app servers close to your users · Fly](https://fly.io/)
+- [Redd](https://redd.one/) - Artem Zakharchenko's personal blog.
