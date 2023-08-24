@@ -41,3 +41,4 @@ Tools for making software development easier
 - [ElectricSQL · Local-first. Electrified.](https://electric-sql.com/) - Active cloud sync for local-first app development. You develop local-first apps. We provide the cloud sync. Without changing your database or your code.
 - [Convex | The fullstack TypeScript development platform](https://www.convex.dev/) - The backend application platform with everything you need to build your product.
 - [🚀 Getting Started | LazyVim](https://lazyvim.github.io/) - LazyVim is a Neovim setup powered by 💤 lazy.nvim
+- [Turso | SQLite Developer Experience in an Edge Database](https://turso.tech/) - Eliminate application bottlenecks by bringing the performance and data portability of open source, lightweight SQL close to your users with low overhead
