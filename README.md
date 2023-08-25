@@ -153,3 +153,4 @@ Hi, I’m Mike Matas.
       Seven years ago, my wife and I moved two hours north of San Francisco to live in an off-grid house in the foothills of Dry Creek Valley just outside of Healdsburg. We love life up here with our two young daughters, ten chickens, honey bees, and hearty vegetable garden.
 - [Home](https://naxo.dev/) - Software Architect, indie hacker, consultant. I prefer under the waves, but I'm dry, I code.
 - [Anthony Fu](https://antfu.me/) - Anthony Fu's Portfolio
+- [blog.izs.me](https://blog.izs.me/) - Writing and Stuff from Isaac Z. Schlueter
