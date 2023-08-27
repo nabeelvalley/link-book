@@ -123,3 +123,5 @@ branding, identity, and, editorial design.
 - [Home](https://naxo.dev/) - Software Architect, indie hacker, consultant. I prefer under the waves, but I'm dry, I code.
 - [Anthony Fu](https://antfu.me/) - Anthony Fu's Portfolio
 - [blog.izs.me](https://blog.izs.me/) - Writing and Stuff from Isaac Z. Schlueter
+
+- [Practical Rust](https://practical-rust.com/) - A blog series exploring programming in Rust
