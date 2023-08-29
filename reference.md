@@ -5,3 +5,4 @@
 - [Intro | Putting the "You" in CPU](https://cpu.land/) - Curious exactly what happens when you run a program on your computer? Learn how multiprocessing works, what system calls really are, how computers manage memory with hardware interrupts, and how Linux loads executables.
 - [Peter Shor - 8.370/18.435 Lecture Notes 2022](https://math.mit.edu/~shor/435-LN/)
 - [Hypermedia Systems](https://hypermedia.systems/)
+- [The Grug Brained Developer](https://grugbrain.dev/)
