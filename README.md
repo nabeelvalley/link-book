@@ -125,3 +125,4 @@ branding, identity, and, editorial design.
 - [blog.izs.me](https://blog.izs.me/) - Writing and Stuff from Isaac Z. Schlueter
 
 - [Practical Rust](https://practical-rust.com/) - A blog series exploring programming in Rust
+- [www.marginalia.nu @ marginalia.nu](https://www.marginalia.nu/) - Marginalia is a website, not a person.
