@@ -126,3 +126,4 @@ branding, identity, and, editorial design.
 
 - [Practical Rust](https://practical-rust.com/) - A blog series exploring programming in Rust
 - [www.marginalia.nu @ marginalia.nu](https://www.marginalia.nu/) - Marginalia is a website, not a person.
+- [Undefined Behaviour](https://senyosimpson.com/)
