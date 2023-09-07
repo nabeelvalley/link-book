@@ -6,3 +6,4 @@
 - [Peter Shor - 8.370/18.435 Lecture Notes 2022](https://math.mit.edu/~shor/435-LN/)
 - [Hypermedia Systems](https://hypermedia.systems/)
 - [The Grug Brained Developer](https://grugbrain.dev/)
+- [OCaml Programming: Correct + Efficient + Beautiful — OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)
