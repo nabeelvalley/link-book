@@ -43,3 +43,4 @@ Tools for making software development easier
 - [🚀 Getting Started | LazyVim](https://lazyvim.github.io/) - LazyVim is a Neovim setup powered by 💤 lazy.nvim
 - [Turso | SQLite Developer Experience in an Edge Database](https://turso.tech/) - Eliminate application bottlenecks by bringing the performance and data portability of open source, lightweight SQL close to your users with low overhead
 - [Beepy by SQFMI x Beeper | Beepy](https://beepy.sqfmi.com/) - Beepy by SQFMI x Beeper
+- [Lambda Cold Starts analysis](https://maxday.github.io/lambda-perf/) - Lambda Cold Starts benchmark
