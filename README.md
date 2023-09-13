@@ -128,3 +128,4 @@ branding, identity, and, editorial design.
 - [www.marginalia.nu @ marginalia.nu](https://www.marginalia.nu/) - Marginalia is a website, not a person.
 - [Undefined Behaviour](https://senyosimpson.com/)
 - [Maxime David (maxday)](https://maxday.dev/) - Software Engineer, Serverless and Rust addict
+- [Home · Patrick Collison](https://patrickcollison.com/)
