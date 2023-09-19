@@ -130,3 +130,4 @@ branding, identity, and, editorial design.
 - [Maxime David (maxday)](https://maxday.dev/) - Software Engineer, Serverless and Rust addict
 - [Home · Patrick Collison](https://patrickcollison.com/)
 - [Ashlee M Boyer](https://ashleemboyer.com/) - You can find me writing about issues surrounding Disability, Accessibility, and Mental Health.
+- [Adam Bien's Homepage](https://adambien.blog/)
