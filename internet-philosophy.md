@@ -1,1 +1,2 @@
 - [An Internet Canvas](https://papers.mmm.dev/) - Wouldn't you want a digital medium with the expressive ease of paper?
+- [FUTO - Bringing control of computing back to the people](https://futo.org/)
