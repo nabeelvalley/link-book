@@ -7,3 +7,4 @@
 - [Hypermedia Systems](https://hypermedia.systems/)
 - [The Grug Brained Developer](https://grugbrain.dev/)
 - [OCaml Programming: Correct + Efficient + Beautiful — OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)
+- [Exercism](https://exercism.org/) - Learn, practice and get world-class mentoring in over 50 languages. 100% free.
