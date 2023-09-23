@@ -133,3 +133,4 @@ branding, identity, and, editorial design.
 - [Adam Bien's Homepage](https://adambien.blog/)
 - [@mdo | Designer, developer, and advisor](https://markdotto.com/) - Principal Design & Brand Architect at GitHub. Creator of Bootstrap. Huge nerd.
 - [Woolgather](https://woolgather.sh/) - /
+- [lpil.uk](https://lpil.uk/) - What a load of Otter Nonsense
