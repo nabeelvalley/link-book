@@ -135,3 +135,4 @@ branding, identity, and, editorial design.
 - [Woolgather](https://woolgather.sh/) - /
 - [lpil.uk](https://lpil.uk/) - What a load of Otter Nonsense
 - [https://www.ansonyu.me/](https://www.ansonyu.me/)
+- [Webbed Briefs](https://briefs.video/) - Brief videos about the web, its technologies, and how to make the most of them
