@@ -143,3 +143,7 @@ branding, identity, and, editorial design.
 - [Dan Mindru — developer and designer of things.](https://mindrudan.com/) - Potentially not an award winning developer person. Likes to design user interfaces, but also likes pizza 🍕.
 - [https://dmytrokrasun.com/](https://dmytrokrasun.com/)
 - [Matthias Neumayer | Matthias Neumayer](https://www.matthiasneumayer.com/) - Film director and founder with a strong interdisciplinary educational background (graduated in law & film), leadership experience and an entrepreneurial mind-set.
+- [Ömer Karışman](http://okaris.com/) - 7 years of experience in business and product management & 16 years of 
+software engineering experience. Consultation services for AI/ML in 
+production, AI Product Management, early stage startup PM, VC fundraising, 
+Product Strategy, Team Building, Executive Coaching.
