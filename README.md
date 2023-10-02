@@ -141,3 +141,4 @@ branding, identity, and, editorial design.
 - [kettanaitl.com](https://kettanaito.com/) - Artem Zakharchenko's personal blog.
 - [Joe Woods](https://joewoods.dev/)
 - [Dan Mindru — developer and designer of things.](https://mindrudan.com/) - Potentially not an award winning developer person. Likes to design user interfaces, but also likes pizza 🍕.
+- [https://dmytrokrasun.com/](https://dmytrokrasun.com/)
