@@ -139,3 +139,4 @@ branding, identity, and, editorial design.
 - [You have arrived at a website named heydonworks.com: HeydonWorks](https://heydonworks.com/)
 - [Drew DeVault's blog](https://drewdevault.com/)
 - [kettanaitl.com](https://kettanaito.com/) - Artem Zakharchenko's personal blog.
+- [Joe Woods](https://joewoods.dev/)
