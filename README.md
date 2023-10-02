@@ -138,3 +138,4 @@ branding, identity, and, editorial design.
 - [Webbed Briefs](https://briefs.video/) - Brief videos about the web, its technologies, and how to make the most of them
 - [You have arrived at a website named heydonworks.com: HeydonWorks](https://heydonworks.com/)
 - [Drew DeVault's blog](https://drewdevault.com/)
+- [kettanaitl.com](https://kettanaito.com/) - Artem Zakharchenko's personal blog.
