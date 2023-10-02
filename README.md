@@ -142,3 +142,4 @@ branding, identity, and, editorial design.
 - [Joe Woods](https://joewoods.dev/)
 - [Dan Mindru — developer and designer of things.](https://mindrudan.com/) - Potentially not an award winning developer person. Likes to design user interfaces, but also likes pizza 🍕.
 - [https://dmytrokrasun.com/](https://dmytrokrasun.com/)
+- [Matthias Neumayer | Matthias Neumayer](https://www.matthiasneumayer.com/) - Film director and founder with a strong interdisciplinary educational background (graduated in law & film), leadership experience and an entrepreneurial mind-set.
