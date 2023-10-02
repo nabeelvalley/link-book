@@ -140,3 +140,4 @@ branding, identity, and, editorial design.
 - [Drew DeVault's blog](https://drewdevault.com/)
 - [kettanaitl.com](https://kettanaito.com/) - Artem Zakharchenko's personal blog.
 - [Joe Woods](https://joewoods.dev/)
+- [Dan Mindru — developer and designer of things.](https://mindrudan.com/) - Potentially not an award winning developer person. Likes to design user interfaces, but also likes pizza 🍕.
