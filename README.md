@@ -149,3 +149,5 @@ production, AI Product Management, early stage startup PM, VC fundraising,
 Product Strategy, Team Building, Executive Coaching.
 - [Michael Andreuzza](https://www.michaelandreuzza.com/) - Michael Andreuzza ⏤ Freelance Designer & Developer ⏤ Maximize your online presence with an engaging website page that delivers outstanding results.
 - [Matt Webb](https://interconnected.org/)
+- [Rupert's world - the internet home of Rupert Manfredi](https://www.ruperts.world/) - Rupert Parry is a software developer &
+	product designer with an eye on how emerging tech interacts with human culture.
