@@ -48,3 +48,4 @@ Tools for making software development easier
 - [Wasp](https://wasp-lang.dev/)
 - [refine | Build your React-based CRUD applications, without constraints! | refine](https://refine.dev/) - refine offers lots of out-of-the box functionality for rapid development, without compromising extreme customizability. It ships with Ant Design, an enterprise-level UI toolkit.
 - [MSW – Seamless API mocking library for browser and Node | Mock Service Worker](https://mswjs.io/) - Seamless API mocking library for browser and Node.
+- [The business-minded backend, built for scale](https://keel.so/) - Meet Keel, the all-in-one backend that solves the backend puzzle by combining all the essential technology and tools your team needs to build a business that thrives.
