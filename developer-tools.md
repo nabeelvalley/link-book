@@ -47,3 +47,4 @@ Tools for making software development easier
 - [Free for Developers](https://free-for.dev/) - Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions.
 - [Wasp](https://wasp-lang.dev/)
 - [refine | Build your React-based CRUD applications, without constraints! | refine](https://refine.dev/) - refine offers lots of out-of-the box functionality for rapid development, without compromising extreme customizability. It ships with Ant Design, an enterprise-level UI toolkit.
+- [MSW – Seamless API mocking library for browser and Node | Mock Service Worker](https://mswjs.io/) - Seamless API mocking library for browser and Node.
