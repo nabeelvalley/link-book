@@ -154,3 +154,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Nerdy Momo Cat](https://nerdymomocat.github.io/) - I’m passionate about all things personal knowledge management. I’m all about linking knowledge snippets, coding and automations, note taking and sketchnoting. Whether I’m helping others streamline their workflows and optimize their productivity, or experimenting with new tools to improve my own processes, I’m always exploring new ways to get the most out of my digital life. My personal tools at the moment are: Notion, Todoist and Goodnotes, but I am always exploring other tools.
 - [Sam Becker](https://sambecker.com/) - Designer & Developer
 - [Rodrigo Pombo](https://pomb.us/) - An overengineer building tools for better code reading comprehension
+- [And a Dinosaur](https://andadinosaur.com/)
