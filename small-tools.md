@@ -39,3 +39,4 @@ Tools for small things
 - [GeoGebra | Pulsuz Riyaziyyat Tətbiqləri - Dünyada 100 Milyondan çox Tələbə və Müəllim tərəfindən istifadə olunur](https://www.geogebra.org/) - Grafik, həndəsə, 3D və daha çox şey üçün pulsuz onlayn riyaziyyat alətlərimizi əldə edin!
 - [Ultra](https://ultra.tf/) - A multi-media smart canvas for your mind.
 - [!Boring Software](https://www.andy.works/) - Apple Design Award Winner—(Not Boring) Weather, Habits, Timer, Calculator—better everyday apps, built like a game, 3D interface, customizable with skins, supported by members.
+- [Something went wrong](https://setapp.com/)
