@@ -156,3 +156,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Rodrigo Pombo](https://pomb.us/) - An overengineer building tools for better code reading comprehension
 - [And a Dinosaur](https://andadinosaur.com/)
 - [David Warrington](https://ellodave.dev/)
+- [geohot](https://geohot.com/)
