@@ -157,3 +157,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [And a Dinosaur](https://andadinosaur.com/)
 - [David Warrington](https://ellodave.dev/)
 - [geohot](https://geohot.com/)
+- [poor.dev](https://poor.dev/)
