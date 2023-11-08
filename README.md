@@ -158,3 +158,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [David Warrington](https://ellodave.dev/)
 - [geohot](https://geohot.com/)
 - [poor.dev](https://poor.dev/)
+- [Lux](https://www.lux.camera/) - Deep dives into iPhone and iPad cameras and building exceptional apps.
