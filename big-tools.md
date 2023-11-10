@@ -11,3 +11,4 @@ Tools for big things
 - [HASH - a workspace for structured knowledge.](https://hash.ai/) - Integrate live data, construct ontologies, and create shared understanding in a collaborative, open-source workspace.
 - [Nozbe - best project management and collaboration tool](https://nozbe.com/) - Best personal and team productivity collaboration tool. Use Nozbe - task management software and increase productivity.
 - [Noodle | Rethinking Student Productivity](https://noodle.run/) - Noodle is a productivity app for students. It helps you manage your time, tasks, and goals.
+- [Amie - Joyful productivity](https://www.amie.so/) - Meet the all-in-one calendar. Schedule time for todos, events, and contacts with joy. Try it for free!
