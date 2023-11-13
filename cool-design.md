@@ -21,3 +21,4 @@ Some apps and design systems/tools
 - [CARI | the Consumer Aesthetics Research Institute](https://cari.institute/)
 - [unit.land](https://unit.land/) - Local First Open Source Distribuition of the Unit Programming Environment.
 - [Need](https://www.need.app/)
+- [Lettermatic | We make fonts](https://lettermatic.com/) - We've designed a catalog of typefaces intended to make your design work easier, and more enjoyable. We made this for you.
