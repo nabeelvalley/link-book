@@ -160,3 +160,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [poor.dev](https://poor.dev/)
 - [Lux](https://www.lux.camera/) - Deep dives into iPhone and iPad cameras and building exceptional apps.
 - [jakelazaroff.com](https://jakelazaroff.com/) - Just a programmer trying to make a home for myself on the WWW.
+- [Effie Klimi](https://effie.bio/) - ✨
