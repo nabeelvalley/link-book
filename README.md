@@ -161,3 +161,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Lux](https://www.lux.camera/) - Deep dives into iPhone and iPad cameras and building exceptional apps.
 - [jakelazaroff.com](https://jakelazaroff.com/) - Just a programmer trying to make a home for myself on the WWW.
 - [Effie Klimi](https://effie.bio/) - ✨
+- [Sympolymathesy, by Chris Krycho](https://v5.chriskrycho.com/) - Learning in public: on theology, technology, ethics, software, politics, art, and more.
