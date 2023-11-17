@@ -164,3 +164,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Sympolymathesy, by Chris Krycho](https://v5.chriskrycho.com/) - Learning in public: on theology, technology, ethics, software, politics, art, and more.
 - [CSS { In Real Life }](https://css-irl.info/)
 - [Ben Myers](https://benmyers.dev/) - Web developer. Accessibility advocate. Human T-rex.
+- [AI Weirdness](https://www.aiweirdness.com/) - A machine learning humor blog by Janelle Shane. Odd ice cream flavors, confusing pickup lines, cursed candy hearts, and the occasional phantom giraffe.
