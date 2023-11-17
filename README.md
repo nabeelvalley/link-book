@@ -163,3 +163,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Effie Klimi](https://effie.bio/) - ✨
 - [Sympolymathesy, by Chris Krycho](https://v5.chriskrycho.com/) - Learning in public: on theology, technology, ethics, software, politics, art, and more.
 - [CSS { In Real Life }](https://css-irl.info/)
+- [Ben Myers](https://benmyers.dev/) - Web developer. Accessibility advocate. Human T-rex.
