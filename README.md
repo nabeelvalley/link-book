@@ -169,3 +169,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [We are Set Studio and we make stunning websites](https://set.studio/) - Set Studio brings together a stellar line-up of creatives and technologists who share one goal: use the power of the web to help organisations deliver knockout user experiences.
 - [Michelle Barker](https://michellebarker.co.uk/)
 - [remy sharp's b:log](https://remysharp.com/) - About [code] and all that jazz
+- [Lynn Fisher](https://lynnandtonic.com/) - Lynn Fisher is a web designer, CSS developer, and artist from Phoenix, Arizona.
