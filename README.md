@@ -168,3 +168,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Matthias Ott – User Experience Designer](https://matthiasott.com/)
 - [We are Set Studio and we make stunning websites](https://set.studio/) - Set Studio brings together a stellar line-up of creatives and technologists who share one goal: use the power of the web to help organisations deliver knockout user experiences.
 - [Michelle Barker](https://michellebarker.co.uk/)
+- [remy sharp's b:log](https://remysharp.com/) - About [code] and all that jazz
