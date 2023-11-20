@@ -166,3 +166,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Ben Myers](https://benmyers.dev/) - Web developer. Accessibility advocate. Human T-rex.
 - [AI Weirdness](https://www.aiweirdness.com/) - A machine learning humor blog by Janelle Shane. Odd ice cream flavors, confusing pickup lines, cursed candy hearts, and the occasional phantom giraffe.
 - [Matthias Ott – User Experience Designer](https://matthiasott.com/)
+- [We are Set Studio and we make stunning websites](https://set.studio/) - Set Studio brings together a stellar line-up of creatives and technologists who share one goal: use the power of the web to help organisations deliver knockout user experiences.
