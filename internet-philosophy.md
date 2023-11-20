@@ -2,3 +2,4 @@
 - [FUTO - Bringing control of computing back to the people](https://futo.org/)
 - [Taking an Internet Walk – Syllabus](https://syllabusproject.org/syllabus-for-taking-an-internet-walk/) - Taking an Internet Walk by Spencer Chang & Kristoffer Tjalve THE INTERNET AS WE KNOW IT In futuristic and cyberpunk media, we were promised a technological world “indistinguishable from magic:” from flying cars to perpetual motion machines to computers inside our heads. The drive of these future-pointing imaginations is to make the things we already…
 - [IndieWeb](https://indieweb.org/)
+- [PersonalSit.es | Yes we got hot and fresh sites](https://personalsit.es/) - Personal sites are sick as hell, so this site was built so we can all discover each other's. This directory of links are by folks that want to share their site with the world.
