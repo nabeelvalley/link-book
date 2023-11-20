@@ -1,3 +1,4 @@
 - [An Internet Canvas](https://papers.mmm.dev/) - Wouldn't you want a digital medium with the expressive ease of paper?
 - [FUTO - Bringing control of computing back to the people](https://futo.org/)
 - [Taking an Internet Walk – Syllabus](https://syllabusproject.org/syllabus-for-taking-an-internet-walk/) - Taking an Internet Walk by Spencer Chang & Kristoffer Tjalve THE INTERNET AS WE KNOW IT In futuristic and cyberpunk media, we were promised a technological world “indistinguishable from magic:” from flying cars to perpetual motion machines to computers inside our heads. The drive of these future-pointing imaginations is to make the things we already…
+- [IndieWeb](https://indieweb.org/)
