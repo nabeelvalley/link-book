@@ -165,3 +165,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [CSS { In Real Life }](https://css-irl.info/)
 - [Ben Myers](https://benmyers.dev/) - Web developer. Accessibility advocate. Human T-rex.
 - [AI Weirdness](https://www.aiweirdness.com/) - A machine learning humor blog by Janelle Shane. Odd ice cream flavors, confusing pickup lines, cursed candy hearts, and the occasional phantom giraffe.
+- [Matthias Ott – User Experience Designer](https://matthiasott.com/)
