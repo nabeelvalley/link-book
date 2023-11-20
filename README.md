@@ -171,3 +171,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [remy sharp's b:log](https://remysharp.com/) - About [code] and all that jazz
 - [Lynn Fisher](https://lynnandtonic.com/) - Lynn Fisher is a web designer, CSS developer, and artist from Phoenix, Arizona.
 - [Derek Sivers](https://sive.rs/)
+- [Kevin Lee Drum](https://kld.dev/) - Kevin Lee Drum | developer and digital craftsman
