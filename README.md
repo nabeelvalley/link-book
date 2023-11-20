@@ -170,3 +170,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Michelle Barker](https://michellebarker.co.uk/)
 - [remy sharp's b:log](https://remysharp.com/) - About [code] and all that jazz
 - [Lynn Fisher](https://lynnandtonic.com/) - Lynn Fisher is a web designer, CSS developer, and artist from Phoenix, Arizona.
+- [Derek Sivers](https://sive.rs/)
