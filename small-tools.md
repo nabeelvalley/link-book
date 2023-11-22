@@ -40,3 +40,4 @@ Tools for small things
 - [Ultra](https://ultra.tf/) - A multi-media smart canvas for your mind.
 - [!Boring Software](https://www.andy.works/) - Apple Design Award Winner—(Not Boring) Weather, Habits, Timer, Calculator—better everyday apps, built like a game, 3D interface, customizable with skins, supported by members.
 - [Something went wrong](https://setapp.com/)
+- [What's this song? How to find a song by its melody? Songguesser - song search by tapping its rhythm](https://songguesser.com/) - Songguesser can identify the name of the song by its melody tapped on the keyboard
