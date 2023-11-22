@@ -172,3 +172,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Lynn Fisher](https://lynnandtonic.com/) - Lynn Fisher is a web designer, CSS developer, and artist from Phoenix, Arizona.
 - [Derek Sivers](https://sive.rs/)
 - [Kevin Lee Drum](https://kld.dev/) - Kevin Lee Drum | developer and digital craftsman
+- [Ruslan Osipov](https://www.rosipov.com/)
