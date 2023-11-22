@@ -173,3 +173,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Derek Sivers](https://sive.rs/)
 - [Kevin Lee Drum](https://kld.dev/) - Kevin Lee Drum | developer and digital craftsman
 - [Ruslan Osipov](https://www.rosipov.com/)
+- [Growing with the Web](http://www.growingwiththeweb.com/) - A blog on software and web development by Daniel Imms
