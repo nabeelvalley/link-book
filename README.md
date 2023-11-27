@@ -180,3 +180,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [betaveros's site](https://beta.vero.site/) - betaveros's site
 
 - [was.tl](http://was.tl/)
+- [Tech + Economics + Humans](https://joanwestenberg.com/) - Joan Westenberg is a tech writer, angel investor etc.
