@@ -181,3 +181,4 @@ Product Strategy, Team Building, Executive Coaching.
 
 - [was.tl](http://was.tl/)
 - [Tech + Economics + Humans](https://joanwestenberg.com/) - Joan Westenberg is a tech writer, angel investor etc.
+- [Cory Zue | Full-Stack Developer, Maker of Products, and Solopreneur](https://www.coryzue.com/) - Cory Zue is a software developer, aspiring entrepreneur, and occasional blogger. He's currently working at Dimagi and launching projects on the side. | Cory Zue
