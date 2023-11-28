@@ -184,3 +184,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Cory Zue | Full-Stack Developer, Maker of Products, and Solopreneur](https://www.coryzue.com/) - Cory Zue is a software developer, aspiring entrepreneur, and occasional blogger. He's currently working at Dimagi and launching projects on the side. | Cory Zue
 - [Chris Done's Homepage](https://chrisdone.com/)
 - [Piccalilli - Freelance designer and developer since 2008](https://piccalil.li/) - Andy Bell, an experienced freelance web designer and developer, based in the UK, specialising in creative web design and design systems.
+- [Pilcrow](https://pilcrow.vercel.app/) - Pilcrow's personal website
