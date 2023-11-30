@@ -52,3 +52,4 @@ Tools for making software development easier
 - [jazz - Instant sync](https://jazz.tools/) - Go beyond request/response - ship modern apps with sync.
 - [Realtime Colors](https://www.realtimecolors.com) - Visualize your colors and fonts on a real website.
 - [Jetpack.io | Tools for sophisticated cloud development](https://www.jetpack.io/) - Build reliable, consistent dev environments with Devbox. Deploy any project to Kubernetes with Launchpad. Manage your team with Mission Control.
+- [https://coder.comhttps//coder.com/](https://coder.comhttps//coder.com/)
