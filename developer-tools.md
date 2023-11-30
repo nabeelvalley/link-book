@@ -57,3 +57,4 @@ Tools for making software development easier
 - [Project IDX](https://idx.dev/) - Project IDX is an entirely web-based workspace for full-stack application development, complete with the latest generative AI (powered by Codey and PaLM 2), and full-fidelity app previews, powered by cloud emulators.
 - [Hocus | Automated Self-Hosted Dev Environments](https://hocus.dev/) - Remote dev environments as code. Self-hosted.
 - [DevZero: Cloud Development Environment Platform | DevZero](https://www.devzero.io/) - DevZero is a platform for remote software development. Code in a cloud development environment that's exactly like production, purpose-built and enterprise ready.
+- [Daytona · Dev Environment Management Platform](https://www.daytona.io/) - The enterprise-grade GitHub Codespaces alternative.
