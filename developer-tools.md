@@ -53,3 +53,4 @@ Tools for making software development easier
 - [Realtime Colors](https://www.realtimecolors.com) - Visualize your colors and fonts on a real website.
 - [Jetpack.io | Tools for sophisticated cloud development](https://www.jetpack.io/) - Build reliable, consistent dev environments with Devbox. Deploy any project to Kubernetes with Launchpad. Manage your team with Mission Control.
 - [https://coder.comhttps//coder.com/](https://coder.comhttps//coder.com/)
+- [Plans and pricing - Gitpod](https://www.gitpod.io/pricing) - Gitpod is free for 50h/month. Upgrade to unlock more features with Cloud - hosted and managed by us or Dedicated - hosted by you and managed by us.
