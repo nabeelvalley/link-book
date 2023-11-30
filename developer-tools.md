@@ -54,3 +54,4 @@ Tools for making software development easier
 - [Jetpack.io | Tools for sophisticated cloud development](https://www.jetpack.io/) - Build reliable, consistent dev environments with Devbox. Deploy any project to Kubernetes with Launchpad. Manage your team with Mission Control.
 - [https://coder.comhttps//coder.com/](https://coder.comhttps//coder.com/)
 - [Plans and pricing - Gitpod](https://www.gitpod.io/pricing) - Gitpod is free for 50h/month. Upgrade to unlock more features with Cloud - hosted and managed by us or Dedicated - hosted by you and managed by us.
+- [Project IDX](https://idx.dev/) - Project IDX is an entirely web-based workspace for full-stack application development, complete with the latest generative AI (powered by Codey and PaLM 2), and full-fidelity app previews, powered by cloud emulators.
