@@ -51,3 +51,4 @@ Tools for making software development easier
 - [The business-minded backend, built for scale](https://keel.so/) - Meet Keel, the all-in-one backend that solves the backend puzzle by combining all the essential technology and tools your team needs to build a business that thrives.
 - [jazz - Instant sync](https://jazz.tools/) - Go beyond request/response - ship modern apps with sync.
 - [Realtime Colors](https://www.realtimecolors.com) - Visualize your colors and fonts on a real website.
+- [Jetpack.io | Tools for sophisticated cloud development](https://www.jetpack.io/) - Build reliable, consistent dev environments with Devbox. Deploy any project to Kubernetes with Launchpad. Manage your team with Mission Control.
