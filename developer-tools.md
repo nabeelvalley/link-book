@@ -58,3 +58,4 @@ Tools for making software development easier
 - [Hocus | Automated Self-Hosted Dev Environments](https://hocus.dev/) - Remote dev environments as code. Self-hosted.
 - [DevZero: Cloud Development Environment Platform | DevZero](https://www.devzero.io/) - DevZero is a platform for remote software development. Code in a cloud development environment that's exactly like production, purpose-built and enterprise ready.
 - [Daytona · Dev Environment Management Platform](https://www.daytona.io/) - The enterprise-grade GitHub Codespaces alternative.
+- [PocketBase - Open Source backend in 1 file](https://pocketbase.io/) - Open Source backend in 1 file with realtime database, authentication, file storage and admin dashboard
