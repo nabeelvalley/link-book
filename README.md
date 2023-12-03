@@ -187,3 +187,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Pilcrow](https://pilcrow.vercel.app/) - Pilcrow's personal website
 - [Matthew's Home on the World Wide Web](https://matthewphillips.info/)
 - [GHOST - Developer](https://ghostdev.xyz/) - Hi I am GHOST! Welcome to my site, here you can look at my posts, find out more about what I do, follow me on socials, and donate!
+- [andrew blinn](https://andrewblinn.com/)
