@@ -189,3 +189,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [GHOST - Developer](https://ghostdev.xyz/) - Hi I am GHOST! Welcome to my site, here you can look at my posts, find out more about what I do, follow me on socials, and donate!
 - [andrew blinn](https://andrewblinn.com/)
 - [Xe Iaso](https://xeiaso.net/)
+- [Home • CeamKrier](https://www.ceamkrier.com/) - Hey! I am Emre Çakır. I am a software engineer. I write about software engineering, programming, and technology.
