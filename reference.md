@@ -14,3 +14,4 @@
 - [START HERE - MTH 225 Fall 2023 - Obsidian Publish](https://publish.obsidian.md/mth225/START HERE) - START HERE - MTH 225 Fall 2023  - Powered by Obsidian Publish.
 - [Nestflix](https://nestflix.fun/) - A platform for fictional films and shows within other films and shows.
 - [Wikipedia, the free encyclopedia](https://en.wikipedia.org/)
+- [Welcome to Socratica](https://toolbox.socratica.info/)
