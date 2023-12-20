@@ -15,3 +15,4 @@
 - [Nestflix](https://nestflix.fun/) - A platform for fictional films and shows within other films and shows.
 - [Wikipedia, the free encyclopedia](https://en.wikipedia.org/)
 - [Welcome to Socratica](https://toolbox.socratica.info/)
+- [Rope science - Introduction](https://xi-editor.io/docs/rope_science_00.html) - A modern editor with a backend written in Rust.
