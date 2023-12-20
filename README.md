@@ -191,3 +191,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Xe Iaso](https://xeiaso.net/)
 - [Home • CeamKrier](https://www.ceamkrier.com/) - Hey! I am Emre Çakır. I am a software engineer. I write about software engineering, programming, and technology.
 - [Eyes Above The Waves](https://robert.ocallahan.org/)
+- [Faultlore - Aria's Feverdreams](https://faultlore.com/blah/)
