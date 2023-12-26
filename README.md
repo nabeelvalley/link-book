@@ -193,3 +193,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Eyes Above The Waves](https://robert.ocallahan.org/)
 - [Faultlore - Aria's Feverdreams](https://faultlore.com/blah/)
 - [baby steps](https://smallcultfollowing.com/babysteps/)
+- [Fabrice Bellard's Home Page](https://bellard.org/)
