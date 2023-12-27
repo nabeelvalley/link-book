@@ -7,3 +7,4 @@
 - [Muse for Teams](https://museapp.com/) - Your team’s canvas for planning and strategy. Create roadmaps, sketch product designs, and retrospect together in a space that’s freeform, expressive, and fun.
 - [A Walking Poem](https://walk.javier.computer/)
 - [Bedrock](https://www.bedrock.computer/) - A collaborative work environment designed for high-performing teams. Create more, faster, together.
+- [Sounds from Places :: @thesephist](https://soundsfromplaces.surge.sh/)
