@@ -194,3 +194,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Faultlore - Aria's Feverdreams](https://faultlore.com/blah/)
 - [baby steps](https://smallcultfollowing.com/babysteps/)
 - [Fabrice Bellard's Home Page](https://bellard.org/)
+- [Product Design, Responsive Web Design, UX Design, Belfast Northern Ireland | Jordan Moore](https://jordanm.co.uk/) - Product designer, responsive web designer and UX designer in Belfast, Northern Ireland, specialising in user experience and accessible design
