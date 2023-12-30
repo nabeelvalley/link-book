@@ -197,3 +197,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Product Design, Responsive Web Design, UX Design, Belfast Northern Ireland | Jordan Moore](https://jordanm.co.uk/) - Product designer, responsive web designer and UX designer in Belfast, Northern Ireland, specialising in user experience and accessible design
 
 - [shubham shah | Home](https://shubhxms.github.io/) - personal website of shubham shah
+- [samwho](https://samwho.dev/) - Personal website of Sam Rose.
