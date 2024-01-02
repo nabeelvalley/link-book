@@ -201,3 +201,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Mitchell Hashimoto](https://mitchellh.com/)
 - [Terence Eden’s Blog](https://shkspr.mobi/blog/)
 - [Salma Alam-Naylor — live streamer, software engineer and developer educator](https://whitep4nth3r.com/) - I write code for your entertainment. I stream live coding on Twitch, help developers build great websites, and love helping people get into tech.
+- [Lochie Axon, Design Engineer](https://lochieaxon.com/) - Making the web fun again
