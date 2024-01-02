@@ -1,2 +1,3 @@
 - [Floating UI - Create tooltips, popovers, dropdowns, and more](https://floating-ui.com/) - A JavaScript library to position floating elements and create interactions for them.
 - [Rehype Pretty Code](https://rehype-pretty-code.netlify.app/) - Beautiful code blocks for your MD/MDX docs.
+- [shadcn/ui](https://ui.shadcn.com/) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
