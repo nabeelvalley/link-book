@@ -199,3 +199,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [shubham shah | Home](https://shubhxms.github.io/) - personal website of shubham shah
 - [samwho](https://samwho.dev/) - Personal website of Sam Rose.
 - [Mitchell Hashimoto](https://mitchellh.com/)
+- [Terence Eden’s Blog](https://shkspr.mobi/blog/)
