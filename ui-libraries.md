@@ -1,0 +1,1 @@
+- [Floating UI - Create tooltips, popovers, dropdowns, and more](https://floating-ui.com/) - A JavaScript library to position floating elements and create interactions for them.
