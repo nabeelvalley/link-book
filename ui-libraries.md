@@ -2,3 +2,4 @@
 - [Rehype Pretty Code](https://rehype-pretty-code.netlify.app/) - Beautiful code blocks for your MD/MDX docs.
 - [shadcn/ui](https://ui.shadcn.com/) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [Radix UI](https://www.radix-ui.com/) - Components, icons, and colors for building high‑quality, accessible UI. Free and open-source.
+- [Component toolkit for creating live-running code editing experiences | Sandpack](https://sandpack.codesandbox.io/) - Sandpack is a component toolkit for creating your own live-running code editing experiences powered by CodeSandbox.
