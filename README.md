@@ -203,3 +203,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Salma Alam-Naylor — live streamer, software engineer and developer educator](https://whitep4nth3r.com/) - I write code for your entertainment. I stream live coding on Twitch, help developers build great websites, and love helping people get into tech.
 - [Lochie Axon, Design Engineer](https://lochieaxon.com/) - Making the web fun again
 - [Arkadiy Lapshov | UX/UI and Product designer](https://www.lapshov.design/) - With over 5+ years of design expertise, I've made cutting-edge UX/UI solutions for both mobile and multiple web applications, crafting impactful SaaS products.
+- [Programming Linguistics](https://pling.jondgoodwin.com/) - Meditations on Programming Language Design
