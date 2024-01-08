@@ -41,3 +41,4 @@ Tools for small things
 - [!Boring Software](https://www.andy.works/) - Apple Design Award Winner—(Not Boring) Weather, Habits, Timer, Calculator—better everyday apps, built like a game, 3D interface, customizable with skins, supported by members.
 - [Something went wrong](https://setapp.com/)
 - [What's this song? How to find a song by its melody? Songguesser - song search by tapping its rhythm](https://songguesser.com/) - Songguesser can identify the name of the song by its melody tapped on the keyboard
+- [Mathigon – The Mathematical Playground](https://mathigon.org/) - Discover Mathigon, the Mathematical Playground. Learning mathematics has never been so interactive and fun!
