@@ -205,3 +205,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Arkadiy Lapshov | UX/UI and Product designer](https://www.lapshov.design/) - With over 5+ years of design expertise, I've made cutting-edge UX/UI solutions for both mobile and multiple web applications, crafting impactful SaaS products.
 - [Programming Linguistics](https://pling.jondgoodwin.com/) - Meditations on Programming Language Design
 - [daedalOS](https://dustinbrett.com/) - Desktop environment in the browser
+- [oimo.io](https://oimo.io/)
