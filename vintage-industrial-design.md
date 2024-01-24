@@ -5,3 +5,4 @@
 - [Home | reMarkable](https://remarkable.com/)
 - [Analogue](https://www.analogue.co/) - We make products to celebrate and explore the history of video games with the respect it deserves.
 - [Astrohaus](https://astrohaus.com/) - Astrohaus is a product design company focused on creating elegant productivity tools.
+- [Freewrite: Distraction-Free Writing Tools](https://getfreewrite.com/) - Freewrite is a dedicated drafting device for anyone who wants to writes without the distraction – or temptation – of browsers, apps, or notifications. Enter focused writing flow and develop more prolific sessions. Push your productivity forward and tap into writing joy!
