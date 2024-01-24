@@ -207,3 +207,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [daedalOS](https://dustinbrett.com/) - Desktop environment in the browser
 - [oimo.io](https://oimo.io/)
 - [zdimension](https://zdimension.fr/) - adventures in computational madness
+- [neonaut](https://neonaut.neocities.org/)
