@@ -4,3 +4,4 @@
 - [Flux Keyboard](https://fluxkeyboard.com/) - A revolutionary keyboard with integrated display which adapts to you.
 - [Home | reMarkable](https://remarkable.com/)
 - [Analogue](https://www.analogue.co/) - We make products to celebrate and explore the history of video games with the respect it deserves.
+- [Astrohaus](https://astrohaus.com/) - Astrohaus is a product design company focused on creating elegant productivity tools.
