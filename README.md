@@ -211,3 +211,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Parimal Satyal - Neustadt.fr](https://neustadt.fr/) - Parimal Satyal is a designer and occasional writer interested in aviation, cultural exchange, languages, science, computers, the open web and the European Union. Neustadt.fr is his personal website with his writing, music and links.
 - [sadgrl.online](https://sadgrl.online/cyberspace/surf-the-web)
 - [Marc Reichel](https://marcreichel.dev/) - Hi! 👋🏼 My name is Marc. I love to code and make the web look beautiful wherever I can.
+- [Freek Van der Herten's blog on PHP, Laravel and JavaScript](https://freek.dev/) - Freek Van der Herten is a developer and partner at Spatie.
