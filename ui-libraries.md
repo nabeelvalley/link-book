@@ -4,3 +4,4 @@
 - [Radix UI](https://www.radix-ui.com/) - Components, icons, and colors for building high‑quality, accessible UI. Free and open-source.
 - [Component toolkit for creating live-running code editing experiences | Sandpack](https://sandpack.codesandbox.io/) - Sandpack is a component toolkit for creating your own live-running code editing experiences powered by CodeSandbox.
 - [spartan - Cutting-edge tools powering Angular full-stack development](https://www.spartan.ng/) - Build next-level, full-stack applications with AnalogJs and the spartan/stack. Make them accessible and look incredible with spartan/ui.
+- [GPUI](https://www.gpui.rs/) - A fast, productive UI framework for Rust from the creators of Zed.
