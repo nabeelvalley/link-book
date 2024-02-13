@@ -60,3 +60,4 @@ Tools for making software development easier
 - [Daytona · Dev Environment Management Platform](https://www.daytona.io/) - The enterprise-grade GitHub Codespaces alternative.
 - [PocketBase - Open Source backend in 1 file](https://pocketbase.io/) - Open Source backend in 1 file with realtime database, authentication, file storage and admin dashboard
 - [unit.land](https://unit.land/) - Local First Open Source Distribuition of the Unit Programming Environment.
+- [GitHub - gitbutlerapp/gitbutler: The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte - gitbutlerapp/gitbutler
