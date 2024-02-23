@@ -43,3 +43,4 @@ Tools for small things
 - [What's this song? How to find a song by its melody? Songguesser - song search by tapping its rhythm](https://songguesser.com/) - Songguesser can identify the name of the song by its melody tapped on the keyboard
 - [Mathigon – The Mathematical Playground](https://mathigon.org/) - Discover Mathigon, the Mathematical Playground. Learning mathematics has never been so interactive and fun!
 - [(Basic) Bookmarks – A home for your internet discoveries.](https://bmrks.com/) - A home for your internet discoveries.
+- [GitHub - pages-cms/pages-cms: A user-friendly CMS for static site generators.](https://github.com/pages-cms/pages-cms) - A user-friendly CMS for static site generators. Contribute to pages-cms/pages-cms development by creating an account on GitHub.
