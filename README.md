@@ -213,3 +213,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Marc Reichel](https://marcreichel.dev/) - Hi! 👋🏼 My name is Marc. I love to code and make the web look beautiful wherever I can.
 - [Freek Van der Herten's blog on PHP, Laravel and JavaScript](https://freek.dev/) - Freek Van der Herten is a developer and partner at Spatie.
 - [Rafah](https://www.rafah.site/) - allegedly a third space
+- [The Homepage of Dave Rupert | daverupert.com](https://daverupert.com/) - The personal blog of Dave Rupert, web developer and podcaster from Austin, TX.
