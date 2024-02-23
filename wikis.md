@@ -1,0 +1,1 @@
+- [Aesthetics Wiki | Fandom](https://aesthetics.fandom.com/wiki/Aesthetics_Wiki)
