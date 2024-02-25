@@ -214,3 +214,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Freek Van der Herten's blog on PHP, Laravel and JavaScript](https://freek.dev/) - Freek Van der Herten is a developer and partner at Spatie.
 - [Rafah](https://www.rafah.site/) - allegedly a third space
 - [The Homepage of Dave Rupert | daverupert.com](https://daverupert.com/) - The personal blog of Dave Rupert, web developer and podcaster from Austin, TX.
+- [Without boats, dreams dry up](https://without.boats/)
