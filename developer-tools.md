@@ -63,3 +63,4 @@ Tools for making software development easier
 - [GitHub - gitbutlerapp/gitbutler: The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte - gitbutlerapp/gitbutler
 - [TigerBeetle - Track Financial Transactions at Scale | TigerBeetle](https://tigerbeetle.com/)
 - [GitHub - coollabsio/coolify: An open-source & self-hostable Heroku / Netlify / Vercel alternative.](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative. - coollabsio/coolify
+- [Effect · GitHub](https://github.com/Effect-TS) - A set of libraries to write better TypeScript. Effect has 37 repositories available. Follow their code on GitHub.
