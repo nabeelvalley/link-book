@@ -62,3 +62,4 @@ Tools for making software development easier
 - [unit.land](https://unit.land/) - Local First Open Source Distribuition of the Unit Programming Environment.
 - [GitHub - gitbutlerapp/gitbutler: The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte - gitbutlerapp/gitbutler
 - [TigerBeetle - Track Financial Transactions at Scale | TigerBeetle](https://tigerbeetle.com/)
+- [GitHub - coollabsio/coolify: An open-source & self-hostable Heroku / Netlify / Vercel alternative.](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative. - coollabsio/coolify
