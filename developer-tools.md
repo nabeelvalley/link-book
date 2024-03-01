@@ -64,3 +64,4 @@ Tools for making software development easier
 - [TigerBeetle - Track Financial Transactions at Scale | TigerBeetle](https://tigerbeetle.com/)
 - [GitHub - coollabsio/coolify: An open-source & self-hostable Heroku / Netlify / Vercel alternative.](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative. - coollabsio/coolify
 - [Effect · GitHub](https://github.com/Effect-TS) - A set of libraries to write better TypeScript. Effect has 37 repositories available. Follow their code on GitHub.
+- [grep.app | code search](https://grep.app/) - Search across a half million git repos. Search by regular expression.
