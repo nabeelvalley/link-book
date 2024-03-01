@@ -65,3 +65,4 @@ Tools for making software development easier
 - [GitHub - coollabsio/coolify: An open-source & self-hostable Heroku / Netlify / Vercel alternative.](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative. - coollabsio/coolify
 - [Effect · GitHub](https://github.com/Effect-TS) - A set of libraries to write better TypeScript. Effect has 37 repositories available. Follow their code on GitHub.
 - [grep.app | code search](https://grep.app/) - Search across a half million git repos. Search by regular expression.
+- [Coding Font by Typogram – Find Your True Love of Coding Fonts](https://www.codingfont.com) - The coding font has a lot to do with engineer’s productivity and comfort. Play the coding font tournament by Typogram to find your true love of coding fonts!
