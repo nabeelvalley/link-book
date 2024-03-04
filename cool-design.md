@@ -24,3 +24,4 @@ Some apps and design systems/tools
 - [Lettermatic | We make fonts](https://lettermatic.com/) - We've designed a catalog of typefaces intended to make your design work easier, and more enjoyable. We made this for you.
 - [Dress David Rose](https://davidrose.style/) - Every shirt, sweater, and jacket David Rose wears on Schitt’s Creek.
 - [Lickability | Lickability](https://lickability.com/) - A detail-obsessed software studio. We design and develop delightful apps for amazing companies.
+- [Dead Simple Sites — Minimal Website Inspiration](https://deadsimplesites.com) - Dead Simple Sites curates the most minimal sites on the web.
