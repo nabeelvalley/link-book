@@ -217,3 +217,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Without boats, dreams dry up](https://without.boats/)
 - [Marc Backes / Coding & Tech](https://marc.dev/) - The blog of Marc where he shares insights and opinions about tech, especially web development.
 - [You have arrived at a website named heydonworks.com: HeydonWorks](https://heydonworks.com/)
+- [Kitty says hi. | Kitty Giraudel](https://kittygiraudel.com/) - I’m Kitty Giraudel, a non-binary trans frontend developer based in Berlin, focused on accessibility and inclusivity.
