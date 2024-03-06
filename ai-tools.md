@@ -20,3 +20,4 @@
 - [Copy.ai: Write better marketing copy and content with AI](https://www.copy.ai/) - Get great copy that sells. Copy.ai is an AI-powered copywriter that generates high-quality copy for your business. Get started for free, no credit card required! Marketing simplified!
 - [Home | Metaphor - Search API for LLMs to connect to the internet](https://metaphor.systems/) - The Metaphor API is an AI-powered search API designed to connect LLMs to the internet.
 - [Ollama](https://ollama.com/) - Get up and running with large language models, locally.
+- [Figure](https://www.figure.ai/) - Figure is the first-of-its-kind AI robotics company bringing a general purpose humanoid to life.
