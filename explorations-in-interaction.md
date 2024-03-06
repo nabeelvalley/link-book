@@ -10,3 +10,4 @@
 - [Sounds from Places :: @thesephist](https://soundsfromplaces.surge.sh/)
 - [Eve](https://witheve.com/) - Eve: Programming designed for humans.
 - [Sketch-n-Sketch](https://ravichugh.github.io/sketch-n-sketch/)
+- [GitHub - HeyPuter/puter: The Internet OS!](https://github.com/HeyPuter/puter) - The Internet OS! Contribute to HeyPuter/puter development by creating an account on GitHub.
