@@ -7,3 +7,4 @@
 - [GPUI](https://www.gpui.rs/) - A fast, productive UI framework for Rust from the creators of Zed.
 - [User Interface component libraries - Expo Documentation](https://docs.expo.dev/ui-programming/user-interface-libraries/) - A list of UI component libraries for Expo and React Native apps.
 - [Components - Aceternity UI](https://ui.aceternity.com/components) - Beautiful Tailwind CSS and Framer Motion Components
+- [Vercel Geist](https://vercel.com/geist/introduction) - Vercel's design system called Geist. Made for building consistent and delightful web experiences.
