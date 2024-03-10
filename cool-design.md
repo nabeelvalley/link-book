@@ -25,3 +25,4 @@ Some apps and design systems/tools
 - [Dress David Rose](https://davidrose.style/) - Every shirt, sweater, and jacket David Rose wears on Schitt’s Creek.
 - [Lickability | Lickability](https://lickability.com/) - A detail-obsessed software studio. We design and develop delightful apps for amazing companies.
 - [Dead Simple Sites — Minimal Website Inspiration](https://deadsimplesites.com) - Dead Simple Sites curates the most minimal sites on the web.
+- [Home | Spotify Design](https://spotify.design/) - Spotify Design are a cross-disciplinary product design community. We love to create great experiences and make meaningful connections between listeners and creators. Here is where we share what we do and how we do it.
