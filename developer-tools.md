@@ -68,3 +68,4 @@ Tools for making software development easier
 - [Coding Font by Typogram – Find Your True Love of Coding Fonts](https://www.codingfont.com) - The coding font has a lot to do with engineer’s productivity and comfort. Play the coding font tournament by Typogram to find your true love of coding fonts!
 - [Neon — Serverless, Fault-Tolerant, Branchable Postgres](https://neon.tech/) - Postgres made for developers. Easy to Use, Scalable, Cost efficient solution for your next project.
 - [Coolify](https://coolify.io/)
+- [Discover Open Source Alternatives to Popular Software – OpenAlternative](https://openalternative.co/) - OpenAlternative is a platform that helps you find open source alternatives to popular software. We’ve curated some great open source alternatives to tools that your business requires in day-to-day operations.
