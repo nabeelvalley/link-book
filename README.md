@@ -221,3 +221,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Igor Bedesqui](https://www.igorbedesqui.com/) - Crafting web experiences with care. Exploring design, UX, and interactivity.
 - [Maxwell Barvian, Front-end Developer](https://barvian.me/) - Front-end Developer
 - [Anton Zhiyanov](https://antonz.org/) - Everything about Go, SQL, and software in general.
+- [Raphael](https://rtpg.co/)
