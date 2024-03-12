@@ -222,3 +222,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Maxwell Barvian, Front-end Developer](https://barvian.me/) - Front-end Developer
 - [Anton Zhiyanov](https://antonz.org/) - Everything about Go, SQL, and software in general.
 - [Raphael](https://rtpg.co/)
+- [Bram.us – A rather geeky/technical weblog, est. 2001, by Bramus](https://www.bram.us/)
