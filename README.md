@@ -219,3 +219,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [You have arrived at a website named heydonworks.com: HeydonWorks](https://heydonworks.com/)
 - [Kitty says hi. | Kitty Giraudel](https://kittygiraudel.com/) - I’m Kitty Giraudel, a non-binary trans frontend developer based in Berlin, focused on accessibility and inclusivity.
 - [Igor Bedesqui](https://www.igorbedesqui.com/) - Crafting web experiences with care. Exploring design, UX, and interactivity.
+- [Maxwell Barvian, Front-end Developer](https://barvian.me/) - Front-end Developer
