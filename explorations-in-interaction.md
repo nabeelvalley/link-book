@@ -11,3 +11,4 @@
 - [Eve](https://witheve.com/) - Eve: Programming designed for humans.
 - [Sketch-n-Sketch](https://ravichugh.github.io/sketch-n-sketch/)
 - [GitHub - HeyPuter/puter: The Internet OS!](https://github.com/HeyPuter/puter) - The Internet OS! Contribute to HeyPuter/puter development by creating an account on GitHub.
+- [GitHub - nalgeon/codapi: Interactive code examples for documentation, education and fun](https://github.com/nalgeon/codapi) - Interactive code examples for documentation, education and fun - nalgeon/codapi
