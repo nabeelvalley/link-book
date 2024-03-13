@@ -226,3 +226,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Articles & Experiments by Roman Komarov](https://kizu.dev/) - Personal site, blog and experiments with CSS and other front-end technologies.
 - [Tim Neubauer | Full Stack Engineer](https://timneubauer.dev/) - Certified Full Stack Engineer based in Germany with a passion for the
     cutting edge.
+- [Alexander Obenauer](https://alexanderobenauer.com/) - In my current work, I’m exploring new and renewed ideas for how personal computing can better serve people’s lives — expanding opportunity, agency, curiosity, and creativity.
