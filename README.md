@@ -227,3 +227,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Tim Neubauer | Full Stack Engineer](https://timneubauer.dev/) - Certified Full Stack Engineer based in Germany with a passion for the
     cutting edge.
 - [Alexander Obenauer](https://alexanderobenauer.com/) - In my current work, I’m exploring new and renewed ideas for how personal computing can better serve people’s lives — expanding opportunity, agency, curiosity, and creativity.
+- [SJ · Home](https://www.sj.land/) - I’m a designer and developer by training and trade. I spend most of my spare time reading about business, finance and crypto. If this combination interests you, welcome to my corner of the internet. This is where I share my reading list, investment updates, and software adventures.
