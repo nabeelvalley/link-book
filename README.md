@@ -224,3 +224,5 @@ Product Strategy, Team Building, Executive Coaching.
 - [Raphael](https://rtpg.co/)
 - [Bram.us – A rather geeky/technical weblog, est. 2001, by Bramus](https://www.bram.us/)
 - [Articles & Experiments by Roman Komarov](https://kizu.dev/) - Personal site, blog and experiments with CSS and other front-end technologies.
+- [Tim Neubauer | Full Stack Engineer](https://timneubauer.dev/) - Certified Full Stack Engineer based in Germany with a passion for the
+    cutting edge.
