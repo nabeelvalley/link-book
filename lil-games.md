@@ -1,1 +1,2 @@
 - [Draw!](https://draw.rudyfaile.com/) - An HTML5 game coded from scratch by Rudy Faile proudly developed in C using raylib, ported to web with WASM
+- [Puzzmo — The (new) place for thoughtful puzzles.](https://www.puzzmo.com/) - Re-imagined mainstays like the daily Crossword Puzzle, modern classics like Really Bad Chess and SpellTower, and even a few brand new puzzles.
