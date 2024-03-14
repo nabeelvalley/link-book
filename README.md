@@ -229,3 +229,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Alexander Obenauer](https://alexanderobenauer.com/) - In my current work, I’m exploring new and renewed ideas for how personal computing can better serve people’s lives — expanding opportunity, agency, curiosity, and creativity.
 - [SJ · Home](https://www.sj.land/) - I’m a designer and developer by training and trade. I spend most of my spare time reading about business, finance and crypto. If this combination interests you, welcome to my corner of the internet. This is where I share my reading list, investment updates, and software adventures.
 - [Essays · Gwern.net](https://gwern.net/index) - <p>Personal website of Gwern Branwen (writer, self-experimenter, and programmer): topics: psychology, statistics, technology, deep learning, anime. This index page is a categorized list of Gwern.net pages.</p>
+- [Nirawit Jittipairoj](https://nirawit.me/) - Portfolio site of Nirawit Jittipairoj.
