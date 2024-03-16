@@ -27,3 +27,4 @@ Some apps and design systems/tools
 - [Dead Simple Sites — Minimal Website Inspiration](https://deadsimplesites.com) - Dead Simple Sites curates the most minimal sites on the web.
 - [Home | Spotify Design](https://spotify.design/) - Spotify Design are a cross-disciplinary product design community. We love to create great experiences and make meaningful connections between listeners and creators. Here is where we share what we do and how we do it.
 - [Saman Archive](https://archive.saman.design/) - Curated minimalist inspiration
+- [Modern Font Stacks](https://modernfontstacks.com/) - System font stack CSS organized by typeface classification for every modern OS. The fastest fonts available. No downloading, no layout shifts, no flashes — just instant renders.
