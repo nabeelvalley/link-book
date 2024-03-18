@@ -71,3 +71,4 @@ Tools for making software development easier
 - [Discover Open Source Alternatives to Popular Software – OpenAlternative](https://openalternative.co/) - OpenAlternative is a platform that helps you find open source alternatives to popular software. We’ve curated some great open source alternatives to tools that your business requires in day-to-day operations.
 - [Sourcegraph](https://sourcegraph.com/search) - Sourcegraph is a web-based code search and navigation tool for dev teams. Search, navigate, and review code. Find answers.
 - [SpacetimeDB](https://spacetimedb.com/) - Multiplayer at the speed of light.
+- [Terminal Trove - The $HOME of all things in the terminal.](https://terminaltrove.com/) - Terminal Trove showcases the best of the terminal, Discover a collection of CLI, TUI, and more developer tools at Terminal Trove.
