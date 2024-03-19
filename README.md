@@ -233,3 +233,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Sigma's Blog – Quite informative, somewhat entertaining](https://blog.sigma-star.io/)
 - [Blog @ tonsky.me](https://tonsky.me/)
 - [!Boring Software](https://www.andy.works) - Apple Design Award Winner—(Not Boring) Weather, Habits, Timer, Calculator—better everyday apps, built like a game, 3D interface, customizable with skins, supported by members.
+- [Recompiled](https://www.recompiled.dev/) - I write about compilers and JavaScript
