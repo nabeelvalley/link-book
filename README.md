@@ -242,3 +242,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [flower.codes](https://flower.codes/) - Impostor.
 - [tilde.town](https://tilde.town/)
 - [This Week in the IndieWeb](https://indieweb.org/this-week/)
+- [Justin Jackson – SaaS, bootstrapping, marketing](https://justinjackson.ca/) - Co-founder of Transistor.fm (podcast hosting). I write about SaaS marketing, bootstrapping startups, the good life, calm companies, and creating a better society.
