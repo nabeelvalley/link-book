@@ -246,3 +246,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [MelonLand Forum - Home!](https://forum.melonland.net/) - A web project and online arts community that celebrates homepages, virtual worlds, the world-wide-web and the digital lives that all netizins share.
 - [MelonLand Surf Club - Webring](https://melonland.net/surf-club)
 - [https://devastatia.com/](https://devastatia.com/)
+- [Parimal Satyal - Neustadt.fr](https://neustadt.fr) - Parimal Satyal is a designer and occasional writer interested in aviation, cultural exchange, languages, science, computers, the open web and the European Union. Neustadt.fr is his personal website with his writing, music and links.
