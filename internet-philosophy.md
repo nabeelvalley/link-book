@@ -5,3 +5,4 @@
 - [PersonalSit.es | Yes we got hot and fresh sites](https://personalsit.es/) - Personal sites are sick as hell, so this site was built so we can all discover each other's. This directory of links are by folks that want to share their site with the world.
 - [Poolside AM](https://poolside.am/) - The dumbest spot on the internet. Poolside AM is an offline lame station, playing an infinity pool of dumb sounds. Existential dread optional.
 - [scrapscript](https://scrapscript.org/)
+- [IndieWeb](https://indieweb.org/) - The IndieWeb is a people-focused alternative to the “corporate web”.
