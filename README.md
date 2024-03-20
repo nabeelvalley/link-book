@@ -241,3 +241,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [The Cyber Vanguard](https://cyber.dabamos.de/)
 - [flower.codes](https://flower.codes/) - Impostor.
 - [tilde.town](https://tilde.town/)
+- [This Week in the IndieWeb](https://indieweb.org/this-week/)
