@@ -249,3 +249,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Parimal Satyal - Neustadt.fr](https://neustadt.fr) - Parimal Satyal is a designer and occasional writer interested in aviation, cultural exchange, languages, science, computers, the open web and the European Union. Neustadt.fr is his personal website with his writing, music and links.
 - [Ryan Mulligan](https://ryanmulligan.dev/) - Passenger through space and time, front-end web builder & bittersweet songs enthusiast
 - [Ahmad Shadeed](https://ishadeed.com/) - Deep-dive CSS articles, modern CSS and visual CSS explanations.
+- [Ryan Mulligan](https://ryanmulligan.dev/) - Passenger through space and time, front-end web builder & bittersweet songs enthusiast
