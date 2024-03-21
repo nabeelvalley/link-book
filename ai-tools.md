@@ -21,3 +21,4 @@
 - [Home | Metaphor - Search API for LLMs to connect to the internet](https://metaphor.systems/) - The Metaphor API is an AI-powered search API designed to connect LLMs to the internet.
 - [Ollama](https://ollama.com/) - Get up and running with large language models, locally.
 - [Figure](https://www.figure.ai/) - Figure is the first-of-its-kind AI robotics company bringing a general purpose humanoid to life.
+- [The Open Interpreter Project](https://www.openinterpreter.com/)
