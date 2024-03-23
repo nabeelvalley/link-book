@@ -29,3 +29,4 @@ Some apps and design systems/tools
 - [Saman Archive](https://archive.saman.design/) - Curated minimalist inspiration
 - [Modern Font Stacks](https://modernfontstacks.com/) - System font stack CSS organized by typeface classification for every modern OS. The fastest fonts available. No downloading, no layout shifts, no flashes — just instant renders.
 - [The 88x31 GIF Collection | Part 1](https://cyber.dabamos.de/88x31/)
+- [Hey Barista Magazine ‹ Hey Barista](https://hey-barista.com/) - The coffee world is home to some of the most interesting people we know. Hey Barista is a place to explore those people’s passions, musings, and more.
