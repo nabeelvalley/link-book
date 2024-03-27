@@ -33,3 +33,4 @@ Some apps and design systems/tools
 - [Official NOMOS Glashütte Website | Luxury Watches Made in Germany](https://nomos-glashuette.com/en) - Fine mechanical watches—with prizewinning modern design, handmade in Glashütte. Discover the full range of NOMOS timepieces now!
 
 - [Lit Tapes](https://littapes.melanie-richards.com/) - Playlists made from songs mentioned in books
+- [Browse by book | Melanie Richards’s book highlights](https://highlights.melanie-richards.com/) - Some snippets I thought worth highlighting and saving for later
