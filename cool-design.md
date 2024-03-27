@@ -35,3 +35,4 @@ Some apps and design systems/tools
 - [Lit Tapes](https://littapes.melanie-richards.com/) - Playlists made from songs mentioned in books
 - [Browse by book | Melanie Richards’s book highlights](https://highlights.melanie-richards.com/) - Some snippets I thought worth highlighting and saving for later
 - [Explore by season - SEA — Seasons](https://seasons.melanie-richards.com/) - Ideas for living according to the seasons in the Pacific Northwest
+- [Melanie Richards’ Fiber Crafts](https://fiber.melanie-richards.com/) - Melanie Richards’s sewing, weaving, and knitting projects
