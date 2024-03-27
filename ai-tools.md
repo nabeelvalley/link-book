@@ -23,3 +23,4 @@
 - [Figure](https://www.figure.ai/) - Figure is the first-of-its-kind AI robotics company bringing a general purpose humanoid to life.
 - [The Open Interpreter Project](https://www.openinterpreter.com/)
 - [Pieces for Developers | AI-Enabled Developer Productivity](https://pieces.app/) - Save, search, share & reuse key developer resources in a AI-powered code snippets + screenshots hub, paired with a productivity focused Copilot & plugins suite.
+- [Home • Hume AI](https://www.hume.ai/) - The AI toolkit to measure, understand, and improve how technology affects human emotion
