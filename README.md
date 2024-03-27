@@ -252,3 +252,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Ryan Mulligan](https://ryanmulligan.dev/) - Passenger through space and time, front-end web builder & bittersweet songs enthusiast
 - [welcome to angie dot moe](https://www.angie.moe/)
 - [Dan's Musings](https://blog.djhaskin.com/) - Don't take it too seriously.
+- [Melanie Richards](https://melanie-richards.com/) - A Seattle-based product manager with a background in web design and development, currently helping enable web teams at Webflow.
