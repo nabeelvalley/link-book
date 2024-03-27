@@ -31,3 +31,5 @@ Some apps and design systems/tools
 - [The 88x31 GIF Collection | Part 1](https://cyber.dabamos.de/88x31/)
 - [Hey Barista Magazine ‹ Hey Barista](https://hey-barista.com/) - The coffee world is home to some of the most interesting people we know. Hey Barista is a place to explore those people’s passions, musings, and more.
 - [Official NOMOS Glashütte Website | Luxury Watches Made in Germany](https://nomos-glashuette.com/en) - Fine mechanical watches—with prizewinning modern design, handmade in Glashütte. Discover the full range of NOMOS timepieces now!
+
+- [Lit Tapes](https://littapes.melanie-richards.com/) - Playlists made from songs mentioned in books
