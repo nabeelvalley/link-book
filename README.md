@@ -255,3 +255,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Melanie Richards](https://melanie-richards.com/) - A Seattle-based product manager with a background in web design and development, currently helping enable web teams at Webflow.
 - [stfj 3.0](http://www.stfj.net/)
 - [Anson Yu](https://ansonyu.me/)
+- [Parimal Satyal - Neustadt.fr](https://neustadt.fr/) - Parimal Satyal is a designer and occasional writer interested in aviation, cultural exchange, languages, science, computers, the open web and the European Union. Neustadt.fr is his personal website with his writing, music and links.
