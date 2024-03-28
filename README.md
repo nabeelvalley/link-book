@@ -254,3 +254,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Dan's Musings](https://blog.djhaskin.com/) - Don't take it too seriously.
 - [Melanie Richards](https://melanie-richards.com/) - A Seattle-based product manager with a background in web design and development, currently helping enable web teams at Webflow.
 - [stfj 3.0](http://www.stfj.net/)
+- [Anson Yu](https://ansonyu.me/)
