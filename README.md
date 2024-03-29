@@ -257,3 +257,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Anson Yu](https://ansonyu.me/)
 - [Parimal Satyal - Neustadt.fr](https://neustadt.fr/) - Parimal Satyal is a designer and occasional writer interested in aviation, cultural exchange, languages, science, computers, the open web and the European Union. Neustadt.fr is his personal website with his writing, music and links.
 - [Rafael R. Camargo - Software Engineer](https://www.cmrg.me/) - Rafael Rakochinski Camargo is a software engineer who builds fast, high-converting products and digital experiences at scale.
+- [MEETI PATEL - Home](https://meetimeeti.weebly.com/)
