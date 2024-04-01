@@ -37,3 +37,4 @@ Some apps and design systems/tools
 - [Explore by season - SEA — Seasons](https://seasons.melanie-richards.com/) - Ideas for living according to the seasons in the Pacific Northwest
 - [Melanie Richards’ Fiber Crafts](https://fiber.melanie-richards.com/) - Melanie Richards’s sewing, weaving, and knitting projects
 - [Github95](https://github95.vercel.app/) - Github profile viewer with a Windows 95 theme
+- [Refreshed Windows95 UI components for modern web apps - React95](https://react95.io/) - React components that follow Windows 95 UI design.
