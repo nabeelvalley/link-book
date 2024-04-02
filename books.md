@@ -1,2 +1,1 @@
 - [Real World OCaml](https://dev.realworldocaml.org/index.html)
-- [Cool Typing Game](https://cooltypinggame.com/) - A 3d typing game/test. Watch the letters appear as you type, and get your speed at the end!
