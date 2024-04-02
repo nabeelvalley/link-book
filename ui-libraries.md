@@ -9,3 +9,4 @@
 - [Components - Aceternity UI](https://ui.aceternity.com/components) - Beautiful Tailwind CSS and Framer Motion Components
 - [Vercel Geist](https://vercel.com/geist/introduction) - Vercel's design system called Geist. Made for building consistent and delightful web experiences.
 - [Ariakit - Toolkit for building accessible UIs](https://ariakit.org/) - Lower-level component library for building accessible higher-level UI libraries, design systems and web applications with React.
+- [Stack Sorted.](https://stacksorted.com) - Find Inspiration in Design Elements. Collection of the web's best designs sorted by elements. Choose an element and view projects/websites with creative designs for it.
