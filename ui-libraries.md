@@ -11,3 +11,4 @@
 - [Ariakit - Toolkit for building accessible UIs](https://ariakit.org/) - Lower-level component library for building accessible higher-level UI libraries, design systems and web applications with React.
 - [Stack Sorted.](https://stacksorted.com) - Find Inspiration in Design Elements. Collection of the web's best designs sorted by elements. Choose an element and view projects/websites with creative designs for it.
 - [pmnd.rs docs](https://docs.pmnd.rs/)
+- [TanStack | High Quality Open-Source Software for Web Developers](https://tanstack.com/) - Headless, type-safe, powerful utilities for complex workflows like Data Management, Data Visualization, Charts, Tables, and UI Components.
