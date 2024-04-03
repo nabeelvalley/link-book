@@ -267,3 +267,5 @@ Product Strategy, Team Building, Executive Coaching.
 - [thndl](https://thndl.com/)
 - [ZERENDOR.COM](https://www.zerendor.com/) -  (づ ◕‿◕ )づ c.1998 & r.2019. 2024 SPAW STUDIOS Affiliate. Distributed via the Internet.
 - [Gabriel Valdivia](https://www.gabrielvaldivia.com/#:sXZyANO6A) - Design partner for early-stage teams
+
+- [Duncan Shotton Design Studio – Portfolio & Online Shop](https://dshott.co.uk/)
