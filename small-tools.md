@@ -44,3 +44,4 @@ Tools for small things
 - [Mathigon – The Mathematical Playground](https://mathigon.org/) - Discover Mathigon, the Mathematical Playground. Learning mathematics has never been so interactive and fun!
 - [(Basic) Bookmarks – A home for your internet discoveries.](https://bmrks.com/) - A home for your internet discoveries.
 - [GitHub - pages-cms/pages-cms: A user-friendly CMS for static site generators.](https://github.com/pages-cms/pages-cms) - A user-friendly CMS for static site generators. Contribute to pages-cms/pages-cms development by creating an account on GitHub.
+- [Slackmojis - The Best Custom Slack Emojis](https://slackmojis.com/) - The best emojis for your Slack chats. Download all the custom emojis and animated emojis for your rooms.
