@@ -261,3 +261,5 @@ Product Strategy, Team Building, Executive Coaching.
 - [personal blog of ryan robitaille](https://www.ryrob.es/) - data eng, visualization, data ui, creative tools
 - [Home | Max Krieger](https://a9.io/) - noodling around
 - [max-bittker](https://maxbittker.com/)
+- [Tyler Angert](https://tyler.cafe/) - welcome to the cafe>
+    <meta property=
