@@ -264,3 +264,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Tyler Angert](https://tyler.cafe/) - welcome to the cafe>
     <meta property=
 - [Damien Seguin - Technical Lead / Computational Designer / Creative Developer / Generative Artisan | https://dmnsgn.me](https://dmnsgn.me/) - Technical Lead / Computational Designer / Creative Developer / Generative Artisan with Variable, formerly with UNIT9: computer graphics, generative art, data visualization, computational design, experiments, tools... Before growing an interest for computational design, I studied interactive development at Gobelins school in Paris.
+- [thndl](https://thndl.com/)
