@@ -259,3 +259,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Rafael R. Camargo - Software Engineer](https://www.cmrg.me/) - Rafael Rakochinski Camargo is a software engineer who builds fast, high-converting products and digital experiences at scale.
 - [MEETI PATEL - Home](https://meetimeeti.weebly.com/)
 - [personal blog of ryan robitaille](https://www.ryrob.es/) - data eng, visualization, data ui, creative tools
+- [Home | Max Krieger](https://a9.io/) - noodling around
