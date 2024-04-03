@@ -266,3 +266,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Damien Seguin - Technical Lead / Computational Designer / Creative Developer / Generative Artisan | https://dmnsgn.me](https://dmnsgn.me/) - Technical Lead / Computational Designer / Creative Developer / Generative Artisan with Variable, formerly with UNIT9: computer graphics, generative art, data visualization, computational design, experiments, tools... Before growing an interest for computational design, I studied interactive development at Gobelins school in Paris.
 - [thndl](https://thndl.com/)
 - [ZERENDOR.COM](https://www.zerendor.com/) -  (づ ◕‿◕ )づ c.1998 & r.2019. 2024 SPAW STUDIOS Affiliate. Distributed via the Internet.
+- [Gabriel Valdivia](https://www.gabrielvaldivia.com/#:sXZyANO6A) - Design partner for early-stage teams
