@@ -269,3 +269,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Gabriel Valdivia](https://www.gabrielvaldivia.com/#:sXZyANO6A) - Design partner for early-stage teams
 
 - [Duncan Shotton Design Studio – Portfolio & Online Shop](https://dshott.co.uk/)
+- [Emil Privér](https://priver.dev/) - Hey! My name is Emil Privér, I write about stuffs I learn and build. I am a software developer who likes exploring stuff and writing articles.
