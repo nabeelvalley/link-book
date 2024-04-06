@@ -273,3 +273,5 @@ Product Strategy, Team Building, Executive Coaching.
 - [@maxvoltar aka. Tim Van Damme](https://maxvoltar.com/)
 - [Mike Matas](https://mikematas.com/) - Mike Matas is an entrepreneur and interface designer based in Healdsburg, California. His work can be seen in products from Apple, Nest, Facebook, Microsoft, and his startups Delicious Library, Push Pop Press and Lobe. He is currently working on some new projects with LoveFrom. Outside of design, Mike is a passionate photographer, gardener, husband and dad.
 - [ryoji ikeda  |  news](https://www.ryojiikeda.com/)
+
+- [Inigo Quilez :: computer graphics, mathematics, shaders, fractals, demoscene and more](https://iquilezles.org/) - Tutorials and articles of Inigo Quilez on computer graphics, fractals, demoscene, shaders and more.
