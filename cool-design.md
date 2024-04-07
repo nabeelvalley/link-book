@@ -41,3 +41,4 @@ Some apps and design systems/tools
 - [Cool Typing Game](https://cooltypinggame.com/) - A 3d typing game/test. Watch the letters appear as you type, and get your speed at the end!
 - [Best Things – Google Shopping](https://shopping.google.com/m/bestthings/) - Discover 1,000 of today's top-rated products
 - [Dead Simple Sites — Minimal Website Inspiration](https://deadsimplesites.com/) - Dead Simple Sites curates the most minimal sites on the web.
+- [Readymag – the design tool for outstanding websites](https://readymag.com/) - Design, prototype, collaborate, publish.
