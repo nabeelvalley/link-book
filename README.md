@@ -276,3 +276,4 @@ Product Strategy, Team Building, Executive Coaching.
 
 - [Inigo Quilez :: computer graphics, mathematics, shaders, fractals, demoscene and more](https://iquilezles.org/) - Tutorials and articles of Inigo Quilez on computer graphics, fractals, demoscene, shaders and more.
 - [Kasra's Blog](https://kasra.io/)
+- [jp - jp](https://bonner.jp/)
