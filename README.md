@@ -278,3 +278,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Kasra's Blog](https://kasra.io/)
 - [jp - jp](https://bonner.jp/)
 - [Charles | Sr Staff Product Designer](https://charlespatterson.co/) - Digital product design professional gif maker
+- [WORK LOUDER™](https://worklouder.cc/) - We make products for people, inspired by a version of themselves sometimes forgotten - playful, versatile, and above all else, creative.
