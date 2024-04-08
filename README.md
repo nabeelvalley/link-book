@@ -280,3 +280,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Charles | Sr Staff Product Designer](https://charlespatterson.co/) - Digital product design professional gif maker
 - [WORK LOUDER™](https://worklouder.cc/) - We make products for people, inspired by a version of themselves sometimes forgotten - playful, versatile, and above all else, creative.
 - [Adam Sherwood — Portfolio](https://adamsherwood.dev/)
+- [Robb Knight](https://rknight.me/) - Maker of web things, Lego builder, sometimes blogger, sporadic pizzaiolo, fortnightly podcaster. Cat dad and human dad.
