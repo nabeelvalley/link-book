@@ -43,3 +43,4 @@ Some apps and design systems/tools
 - [Dead Simple Sites — Minimal Website Inspiration](https://deadsimplesites.com/) - Dead Simple Sites curates the most minimal sites on the web.
 - [Readymag – the design tool for outstanding websites](https://readymag.com/) - Design, prototype, collaborate, publish.
 - [uilabs](https://www.uilabs.dev/) - Experimental laboratory of fine UI
+- [Free SVG generators, color tools & web design tools](https://fffuel.co/) - A fun collection of free SVG generators for gradients, patterns, shapes, textures & cool backgrounds. Plus, some more color tools for web designers.
