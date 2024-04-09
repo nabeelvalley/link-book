@@ -281,3 +281,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [WORK LOUDER™](https://worklouder.cc/) - We make products for people, inspired by a version of themselves sometimes forgotten - playful, versatile, and above all else, creative.
 - [Adam Sherwood — Portfolio](https://adamsherwood.dev/)
 - [Robb Knight](https://rknight.me/) - Maker of web things, Lego builder, sometimes blogger, sporadic pizzaiolo, fortnightly podcaster. Cat dad and human dad.
+- [Rafael R. Camargo - Software Engineer](https://www.cmrg.me/) - Rafael Rakochinski Camargo is a software engineer who builds fast, high-converting products and digital experiences at scale.
