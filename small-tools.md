@@ -46,3 +46,4 @@ Tools for small things
 - [GitHub - pages-cms/pages-cms: A user-friendly CMS for static site generators.](https://github.com/pages-cms/pages-cms) - A user-friendly CMS for static site generators. Contribute to pages-cms/pages-cms development by creating an account on GitHub.
 - [Slackmojis - The Best Custom Slack Emojis](https://slackmojis.com/) - The best emojis for your Slack chats. Download all the custom emojis and animated emojis for your rooms.
 - [twigl.app](https://twigl.app/) - twigl.app is an online editor for One tweet shader, with gif or webm generator and sound shader.
+- [HUBOT | Hubot is your friendly robot sidekick. Install him in your company to dramatically improve employee efficiency.](https://hubot.github.com/) - Hubot is your friendly robot sidekick. Install him in your company to dramatically improve employee efficiency.
