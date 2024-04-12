@@ -286,3 +286,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Jackie Liu °˖✧*･･new media art & design･･*✧˖° ✿ jackie liu](https://jackieis.online/)
 - [Sam Thorogood](https://samthor.au/) - Hello there. I'm Sam.
 - [The Creative Independent](https://thecreativeindependent.com/) - The Cre­ative In­de­pen­dent is a re­source of emo­tional and prac­ti­cal guid­ance for cre­ative peo­ple.
+- [Naval](https://nav.al/)
