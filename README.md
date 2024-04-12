@@ -284,3 +284,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Rafael R. Camargo - Software Engineer](https://www.cmrg.me/) - Rafael Rakochinski Camargo is a software engineer who builds fast, high-converting products and digital experiences at scale.
 - [Adam Majmudar](https://adammaj.com/) - I'm a constant learner and aspiring technical generalist. I'm also a founding enginer at thirdweb and on gap year from the University of Pennsylvania.
 - [Jackie Liu °˖✧*･･new media art & design･･*✧˖° ✿ jackie liu](https://jackieis.online/)
+- [Sam Thorogood](https://samthor.au/) - Hello there. I'm Sam.
