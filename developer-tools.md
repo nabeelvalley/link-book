@@ -73,3 +73,4 @@ Tools for making software development easier
 - [SpacetimeDB](https://spacetimedb.com/) - Multiplayer at the speed of light.
 - [Terminal Trove - The $HOME of all things in the terminal.](https://terminaltrove.com/) - Terminal Trove showcases the best of the terminal, Discover a collection of CLI, TUI, and more developer tools at Terminal Trove.
 - [Free SVG generators, color tools & web design tools](https://fffuel.co/) - A fun collection of free SVG generators for gradients, patterns, shapes, textures & cool backgrounds. Plus, some more color tools for web designers.
+- [Self-Hosted Applications and Alternatives](https://selfh.st/apps/) - A directory of self-hosted software and applications for easy browsing
