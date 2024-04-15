@@ -46,3 +46,4 @@ Some apps and design systems/tools
 - [Free SVG generators, color tools & web design tools](https://fffuel.co/) - A fun collection of free SVG generators for gradients, patterns, shapes, textures & cool backgrounds. Plus, some more color tools for web designers.
 - [Animations on the web](https://animations.dev/) - A course that teaches you how to craft animations that make people feel something.
 - [natto - write JavaScript on a 2D canvas](https://natto.dev/)
+- [Home – Kikkerland B.V](https://kikkerlandeu.com/) - Kikkerland Retail BV. Where creativity runs rampant and even the most utilitarian gadget becomes a delightful discovery!
