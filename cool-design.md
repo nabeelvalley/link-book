@@ -51,3 +51,4 @@ Some apps and design systems/tools
 - [[untitled]](https://untitled.stream/)
 - [Poolsuite™](https://poolsuite.net/) - The ultra-summer internet radio station, playing an infinity pool of summer sounds 24/7. Swimwear optional. Formerly Poolside FM.
 - [PI.FYI](https://www.pi.fyi) - A Taste of YOUR Taste
+- [Psyche | on the human condition](https://psyche.co/) - Psyche is a digital magazine from Aeon Media that illuminates the human condition through psychology, philosophy and the arts.
