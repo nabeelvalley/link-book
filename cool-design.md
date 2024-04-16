@@ -50,3 +50,4 @@ Some apps and design systems/tools
 - [CreativeApplications.Net – Projects, tools and platforms at the intersection of art, media and technology](https://www.creativeapplications.net/)
 - [[untitled]](https://untitled.stream/)
 - [Poolsuite™](https://poolsuite.net/) - The ultra-summer internet radio station, playing an infinity pool of summer sounds 24/7. Swimwear optional. Formerly Poolside FM.
+- [PI.FYI](https://www.pi.fyi) - A Taste of YOUR Taste
