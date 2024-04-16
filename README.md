@@ -288,3 +288,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [The Creative Independent](https://thecreativeindependent.com/) - The Cre­ative In­de­pen­dent is a re­source of emo­tional and prac­ti­cal guid­ance for cre­ative peo­ple.
 - [Naval](https://nav.al/)
 - [kynd.info](https://www.kynd.info/)
+- [Lostpixels.io](https://www.lostpixels.io/) - LOST PIXELS features generative art, short films, drawings, and digital art created by James Merrill.
