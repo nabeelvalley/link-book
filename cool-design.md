@@ -49,3 +49,4 @@ Some apps and design systems/tools
 - [Home – Kikkerland B.V](https://kikkerlandeu.com/) - Kikkerland Retail BV. Where creativity runs rampant and even the most utilitarian gadget becomes a delightful discovery!
 - [CreativeApplications.Net – Projects, tools and platforms at the intersection of art, media and technology](https://www.creativeapplications.net/)
 - [[untitled]](https://untitled.stream/)
+- [Poolsuite™](https://poolsuite.net/) - The ultra-summer internet radio station, playing an infinity pool of summer sounds 24/7. Swimwear optional. Formerly Poolside FM.
