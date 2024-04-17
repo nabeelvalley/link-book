@@ -289,3 +289,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Naval](https://nav.al/)
 - [kynd.info](https://www.kynd.info/)
 - [Lostpixels.io](https://www.lostpixels.io/) - LOST PIXELS features generative art, short films, drawings, and digital art created by James Merrill.
+- [Home – Asad Memon](https://asadmemon.com/) - Asad Memon's homepage.
