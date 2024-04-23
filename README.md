@@ -293,3 +293,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [https://bost.ocks.org](https://bost.ocks.org)
 - [corte.si](https://corte.si/)
 - [Ronan Berder’s blog | Rambles about entrepreneurship, China, tech and design](https://ronanberder.com/) - Rambles about entrepreneurship, China, tech and design
+- [Amjad Masad](https://amasad.me/)
