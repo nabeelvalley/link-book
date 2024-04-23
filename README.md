@@ -294,3 +294,5 @@ Product Strategy, Team Building, Executive Coaching.
 - [corte.si](https://corte.si/)
 - [Ronan Berder’s blog | Rambles about entrepreneurship, China, tech and design](https://ronanberder.com/) - Rambles about entrepreneurship, China, tech and design
 - [Amjad Masad](https://amasad.me/)
+- [Home | Rach Smith's digital garden](https://rachsmith.com/) - Hi 👋🏼 I'm Rach. A developer building software for CodePen, wife, mother of two,
+  productivity nerd and recovering screen addict. This is my digital garden.
