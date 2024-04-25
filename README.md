@@ -298,3 +298,4 @@ Product Strategy, Team Building, Executive Coaching.
   productivity nerd and recovering screen addict. This is my digital garden.
 - [Home](https://blixt.dev/)
 - [Adam Wiggins](https://adamwiggins.com/) - Let’s work on improving software and the internet.
+- [Geoffrey Litt](https://www.geoffreylitt.com/)
