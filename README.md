@@ -296,3 +296,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Amjad Masad](https://amasad.me/)
 - [Home | Rach Smith's digital garden](https://rachsmith.com/) - Hi 👋🏼 I'm Rach. A developer building software for CodePen, wife, mother of two,
   productivity nerd and recovering screen addict. This is my digital garden.
+- [Home](https://blixt.dev/)
