@@ -54,3 +54,4 @@ Some apps and design systems/tools
 - [Psyche | on the human condition](https://psyche.co/) - Psyche is a digital magazine from Aeon Media that illuminates the human condition through psychology, philosophy and the arts.
 - [Personal & Business Car Leasing | LINGsCARS](https://www.lingscars.com/) - BRILLIANT UK car leasing website from Ling. WOW! An experience! On TV; BBC Dragons' Den. Best lease car deals! Ling bites! WAH!
 - [KRAZAM](https://www.krazam.tv/) - UNLOCK THE SECRETS TO ETERNAL DIGITAL LONGEVITY
+- [start [Folk Computer]](https://folk.computer/)
