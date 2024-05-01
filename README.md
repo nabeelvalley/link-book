@@ -300,3 +300,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Adam Wiggins](https://adamwiggins.com/) - Let’s work on improving software and the internet.
 - [Geoffrey Litt](https://www.geoffreylitt.com/)
 - [Citation Needed by Molly White](https://www.citationneeded.news) - Citation Needed features critical coverage of the cryptocurrency industry and of issues in the broader technology world. It is independently published by Molly White, and entirely supported by readers like you.
+- [games | eieio.games](http://eieio.games/) - eieio writes about games
