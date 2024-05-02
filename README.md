@@ -301,3 +301,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Geoffrey Litt](https://www.geoffreylitt.com/)
 - [Citation Needed by Molly White](https://www.citationneeded.news) - Citation Needed features critical coverage of the cryptocurrency industry and of issues in the broader technology world. It is independently published by Molly White, and entirely supported by readers like you.
 - [games | eieio.games](http://eieio.games/) - eieio writes about games
+- [Henry Heffernan - Portfolio 2022](https://henryheffernan.com/) - I'm Henry, a Software Engineer based in NY. Rensselaer Polytechnic Institute Graduate with my B.S. in Computer Science, currently looking for a full time role.
