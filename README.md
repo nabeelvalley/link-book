@@ -303,3 +303,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [games | eieio.games](http://eieio.games/) - eieio writes about games
 - [Henry Heffernan - Portfolio 2022](https://henryheffernan.com/) - I'm Henry, a Software Engineer based in NY. Rensselaer Polytechnic Institute Graduate with my B.S. in Computer Science, currently looking for a full time role.
 - [Since Design · Crafting for humans](https://www.since.design/) - We craft timeless brands and products for humans since day one
+- [lisyarus blog](https://lisyarus.github.io/blog/)
