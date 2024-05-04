@@ -306,3 +306,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [lisyarus blog](https://lisyarus.github.io/blog/)
 - [Tyler Angert](https://tyler.cafe/) - welcome to the cafe>
     <meta property=
+- [Fahad Karim](https://www.fahadkarim.com/)
