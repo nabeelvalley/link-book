@@ -307,3 +307,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Tyler Angert](https://tyler.cafe/) - welcome to the cafe>
     <meta property=
 - [Fahad Karim](https://www.fahadkarim.com/)
+- [ippsketch](https://ippsketch.com/)
