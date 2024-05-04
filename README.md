@@ -309,3 +309,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Fahad Karim](https://www.fahadkarim.com/)
 - [ippsketch](https://ippsketch.com/)
 - [You are here – Piter Pasma's Pages](https://piterpasma.nl/)
+- [iskra](http://iskraovelitchkova.com/) - What is an algorithm? Where am I from?
