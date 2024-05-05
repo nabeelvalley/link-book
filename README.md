@@ -311,3 +311,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [You are here – Piter Pasma's Pages](https://piterpasma.nl/)
 - [iskra](http://iskraovelitchkova.com/) - What is an algorithm? Where am I from?
 - [Ali Alkhatib](https://ali-alkhatib.com/) - Ali Alkhatib's personal website
+- [Orion Reed](https://www.orionreed.com/)
