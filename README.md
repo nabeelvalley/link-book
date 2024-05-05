@@ -312,3 +312,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [iskra](http://iskraovelitchkova.com/) - What is an algorithm? Where am I from?
 - [Ali Alkhatib](https://ali-alkhatib.com/) - Ali Alkhatib's personal website
 - [Orion Reed](https://www.orionreed.com/)
+- [///](https://ksagar.me/) - personal website for atharva ksagar
