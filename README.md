@@ -313,3 +313,4 @@ Product Strategy, Team Building, Executive Coaching.
 - [Ali Alkhatib](https://ali-alkhatib.com/) - Ali Alkhatib's personal website
 - [Orion Reed](https://www.orionreed.com/)
 - [///](https://ksagar.me/) - personal website for atharva ksagar
+- [Josh Horowitz](https://joshuahhh.com/) - Home page of Josh Horowitz, UW PhD researcher
