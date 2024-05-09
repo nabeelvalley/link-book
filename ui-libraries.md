@@ -12,3 +12,4 @@
 - [Stack Sorted.](https://stacksorted.com) - Find Inspiration in Design Elements. Collection of the web's best designs sorted by elements. Choose an element and view projects/websites with creative designs for it.
 - [pmnd.rs docs](https://docs.pmnd.rs/)
 - [TanStack | High Quality Open-Source Software for Web Developers](https://tanstack.com/) - Headless, type-safe, powerful utilities for complex workflows like Data Management, Data Visualization, Charts, Tables, and UI Components.
+- [Poline — Esoteric Color Palette Generation Library](https://meodai.github.io/poline/) - Poline is lightweight, dependency free and fast JavaScript function written in TypeScript. It draws lines between anchors over polar HSL coordinates to generate pleasing color palettes.
