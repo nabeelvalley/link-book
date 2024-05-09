@@ -314,3 +314,7 @@ Product Strategy, Team Building, Executive Coaching.
 - [Orion Reed](https://www.orionreed.com/)
 - [///](https://ksagar.me/) - personal website for atharva ksagar
 - [Josh Horowitz](https://joshuahhh.com/) - Home page of Josh Horowitz, UW PhD researcher
+- [Kasey Klimes](https://www.kaseyklimes.com/) - I am a researcher based in New York City, currently working on world-scale 
+augmented reality for Google Maps. Previously I worked as a city planner 
+and data scientist at Gehl, and hold a masters in city planning from UC 
+Berkeley.
