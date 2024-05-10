@@ -2,3 +2,4 @@
 - [Nature of Jokkmokk “PORJUS”](https://uk.jokkmokk.jp/)
 - [The fish doorbell](https://visdeurbel.nl/en/the-fish-doorbell/) - Soms moeten vissen lang wachten bij de Weerdsluis, omdat de sluisdeuren in het voorjaar niet vaak open gaan. Daar hebben we iets op bedacht.
 - [TGO All-sky Camera 1](https://fox.phys.uit.no/ASC/ASC01.html)
+- [Restaurant Tuikku Webcam - Webcam PANOMAX 360°](https://flycam.panomax.com/tuikku) - Restaurant Tuikku Webcam
