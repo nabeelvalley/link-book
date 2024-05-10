@@ -318,3 +318,4 @@ Product Strategy, Team Building, Executive Coaching.
 augmented reality for Google Maps. Previously I worked as a city planner 
 and data scientist at Gehl, and hold a masters in city planning from UC 
 Berkeley.
+- [Luke Taylor - Photography](https://www.lukeptaylor.com/)
