@@ -1,3 +1,4 @@
 - [Weather observations, weather cameras, UiT The Arctic University of Norway, Department of Computer Science, campus Tromsø, Breivika](https://weather.cs.uit.no/) - Norway Norge Tromsø Tromso Tromsoe UiT Breivika Weather right now picture cam camera webcam timelapse video rain snow temperature humidity wind sun air pressure Vær akkurat nå bilde kamera webkamera video regn nedbør snø temperatur vind sol luftfuktighet lufttrykk sensor data
 - [Nature of Jokkmokk “PORJUS”](https://uk.jokkmokk.jp/)
 - [The fish doorbell](https://visdeurbel.nl/en/the-fish-doorbell/) - Soms moeten vissen lang wachten bij de Weerdsluis, omdat de sluisdeuren in het voorjaar niet vaak open gaan. Daar hebben we iets op bedacht.
+- [TGO All-sky Camera 1](https://fox.phys.uit.no/ASC/ASC01.html)
