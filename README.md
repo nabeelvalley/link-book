@@ -320,3 +320,4 @@ and data scientist at Gehl, and hold a masters in city planning from UC
 Berkeley.
 - [Luke Taylor - Photography](https://www.lukeptaylor.com/)
 - [Nature of Jokkmokk “PORJUS”](https://uk.jokkmokk.jp/)
+- [Albert Dros Photography | Landscape Photographer](https://www.albertdros.com/) - Albert Dros is a professional landscape photographer from the Netherlands with an extreme passion for nature and landscapes. Albert Dros Photography
