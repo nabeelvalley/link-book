@@ -76,3 +76,4 @@ Tools for making software development easier
 - [Self-Hosted Applications and Alternatives](https://selfh.st/apps/) - A directory of self-hosted software and applications for easy browsing
 - [Subframe – The best way to build UI, fast.](https://www.subframe.com/) - Subframe is the design-to-code tool that lets you build stunning UI in minutes with beautifully crafted components, a drag-and-drop visual editor, and production-ready code.
 - [AltStore](https://altstore.io/)
+- [Dokploy - Effortless Deployment Solutions](https://dokploy.com/) - Streamline your deployment process with Dokploy. Effortlessly manage applications and databases on any VPS using Docker and Traefik for improved performance and security.
