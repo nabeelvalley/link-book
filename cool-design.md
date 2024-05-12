@@ -57,3 +57,4 @@ Some apps and design systems/tools
 - [start [Folk Computer]](https://folk.computer/)
 - [No Web Without Women](https://nowebwithoutwomen.com/) - An educational website featuring a collection of innovations by women in the fields of computer science and technology.
 - [TOOLS — DIA](https://tools.dia.tv/index.html) - DIA is a branding and graphic design studio specializing in kinetic identities and typographic systems. Headquartered in NYC and Chamonix, France, we’ve developed a new approach to designing identity systems where motion is foundational and creative tools always accompany brand guidelines. Our generative tools and autonomous design systems empower internal teams and simplify oversight.
+- [All objects | Gustaf Westman](https://www.gustafwestman.com/) - Gustaf Westman Objects is a design studio founded in Sweden 2020
