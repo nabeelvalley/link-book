@@ -78,3 +78,4 @@ Tools for making software development easier
 - [AltStore](https://altstore.io/)
 - [Dokploy - Effortless Deployment Solutions](https://dokploy.com/) - Streamline your deployment process with Dokploy. Effortlessly manage applications and databases on any VPS using Docker and Traefik for improved performance and security.
 - [Vodon Pro: The esport coaches VOD review tool](https://www.vodon.gg/) - Vodon Pro is the only video player designed for esport coaches to review gameplay
+- [Git as a Database | GitRows](https://gitrows.com/) - Get, Put and Deliver Data with Git Repositories - Use Git as a Database
