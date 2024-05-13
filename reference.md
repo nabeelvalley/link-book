@@ -20,3 +20,4 @@
 - [Linear Algebra Done Right](https://linear.axler.net/)
 - [findxkcd: find that perfect xkcd comic by topic](https://findxkcd.com/) - Want to find that perfect xkcd comic for your situation? Browse and search xkcd by topics, keywords, characters, transcript, date and more.
 - [Expanded Main Page - OSDev Wiki](https://osdev.org/Expanded_Main_Page)
+- [Slim Aarons - Wikipedia](https://en.wikipedia.org/wiki/Slim_Aarons)
