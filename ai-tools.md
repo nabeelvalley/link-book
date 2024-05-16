@@ -26,3 +26,4 @@
 - [Home • Hume AI](https://www.hume.ai/) - The AI toolkit to measure, understand, and improve how technology affects human emotion
 - [JotBot AI](https://myjotbot.com/) - JotBot is an AI-powered writing assistant that mimics your personal writing style, equipped with real-time note-taking, source management, and advanced editing tools to help you write 100 times faster.
 - [TERRA — A COMPANION FOR MINDFUL WANDERING](https://myterra.ai/)
+- [Cubby – The Collaborative Research Tool](https://cubby.nyc/)
