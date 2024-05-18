@@ -24,3 +24,4 @@
 - [Breaking News Headlines and Media Bias | Ground News](https://ground.news/) - The biggest source for breaking news around the world. Compare headlines across the political spectrum using media bias ratings driven by data. Spot misinformat
 - [List of Patterns](https://patternlanguage.cc/) - See the README for an explanation and discussion about this project and how to use it. The Patterns A pattern language has the structure of a network. […] The sequence of patterns is both a summary of the language, and at the same time, an index to the patterns.
 - [Table of Contents · Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html)
+- [LOOPY: a tool for thinking in systems](https://ncase.me/loopy/)
