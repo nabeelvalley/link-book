@@ -323,3 +323,4 @@ Berkeley.
 - [Albert Dros Photography | Landscape Photographer](https://www.albertdros.com/) - Albert Dros is a professional landscape photographer from the Netherlands with an extreme passion for nature and landscapes. Albert Dros Photography
 - [Walaber Entertainment](http://www.walaber.com/)
 - [Patricia Klein](https://patriciaklein.de/) - Art Director & Designer
+- [Rochester photographer: Anastasia's Photography](https://anastasiasphoto.com/) - Rochester, NY family portrait photographer and wedding photographer. Newborn, maternity, and high school senior specialization.
