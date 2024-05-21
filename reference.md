@@ -25,3 +25,4 @@
 - [List of Patterns](https://patternlanguage.cc/) - See the README for an explanation and discussion about this project and how to use it. The Patterns A pattern language has the structure of a network. […] The sequence of patterns is both a summary of the language, and at the same time, an index to the patterns.
 - [Table of Contents · Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html)
 - [LOOPY: a tool for thinking in systems](https://ncase.me/loopy/)
+- [Writing An Interpreter In Go | Thorsten Ball](https://interpreterbook.com/) - This book takes you from 0 lines of code to a fully working interpreter for the Monkey programming language. Step by step. All code shown and included. Fully unit tested.
