@@ -26,3 +26,4 @@
 - [Table of Contents · Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html)
 - [LOOPY: a tool for thinking in systems](https://ncase.me/loopy/)
 - [Writing An Interpreter In Go | Thorsten Ball](https://interpreterbook.com/) - This book takes you from 0 lines of code to a fully working interpreter for the Monkey programming language. Step by step. All code shown and included. Fully unit tested.
+- [Writing A Compiler In Go | Thorsten Ball](https://compilerbook.com/) - This is the sequel to Writing An Interpreter In Go and this time we're writing a compiler and a virtual machine for Monkey. Same codebase, same approach, new goals. Code front and center, step by step explained, fully unit tested and runnable.
