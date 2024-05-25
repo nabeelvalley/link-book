@@ -326,3 +326,4 @@ Berkeley.
 - [Rochester photographer: Anastasia's Photography](https://anastasiasphoto.com/) - Rochester, NY family portrait photographer and wedding photographer. Newborn, maternity, and high school senior specialization.
 - [shelfy](https://app.myshelfy.xyz/discover)
 - [pketh.org](https://pketh.org/) - Making things simple, radical and beautiful
+- [RND™／Ryuken NAKATAKE](https://r-n.dev/) - Creative engineers playground
