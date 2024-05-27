@@ -327,3 +327,4 @@ Berkeley.
 - [shelfy](https://app.myshelfy.xyz/discover)
 - [pketh.org](https://pketh.org/) - Making things simple, radical and beautiful
 - [RND™／Ryuken NAKATAKE](https://r-n.dev/) - Creative engineers playground
+- [Chris Pennington Blog](https://chrispennington.blog/) - Hey! 👋 My name is Chris Pennington. I’m a web developer who enjoys design work, too. I write on tech, coding, web dev, design, automation, and more.
