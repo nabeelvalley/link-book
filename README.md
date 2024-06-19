@@ -329,3 +329,12 @@ Berkeley.
 - [RND™／Ryuken NAKATAKE](https://r-n.dev/) - Creative engineers playground
 - [Chris Pennington Blog](https://chrispennington.blog/) - Hey! 👋 My name is Chris Pennington. I’m a web developer who enjoys design work, too. I write on tech, coding, web dev, design, automation, and more.
 - [I AM A PHOTOGRAPHER](https://asmphotography.co.za/)
+- [Ludicity](https://ludic.mataroa.blog/) - "Wow, if I was the leader of this person's company I would immediately terminate them."
+
+Reader mail is the only thing that brings me joy in this cruel world of spreadsheets and sprints: ludicity.hackernews@gmail.com, but may take a while to get back to you!
+
+Podcast
+
+Mastodon
+
+Liberapay | Patreon
