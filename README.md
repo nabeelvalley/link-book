@@ -338,3 +338,4 @@ Podcast
 Mastodon
 
 Liberapay | Patreon
+- [games | eieio.games](https://eieio.games/) - eieio writes about games
