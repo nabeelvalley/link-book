@@ -2,3 +2,4 @@
 - [Puzzmo — The (new) place for thoughtful puzzles.](https://www.puzzmo.com/) - Re-imagined mainstays like the daily Crossword Puzzle, modern classics like Really Bad Chess and SpellTower, and even a few brand new puzzles.
 - [Good Trivia in Your Browser | BPtrivia](https://www.bptrivia.com/)
 - [Bot Verification](https://spellcheck.xyz)
+- [The Light Mode Lab - an answer in progress experiment](https://lightmodelab.com) - an answer in progress experiment
