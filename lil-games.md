@@ -1,5 +1,5 @@
 - [Draw!](https://draw.rudyfaile.com/) - An HTML5 game coded from scratch by Rudy Faile proudly developed in C using raylib, ported to web with WASM
 - [Puzzmo — The (new) place for thoughtful puzzles.](https://www.puzzmo.com/) - Re-imagined mainstays like the daily Crossword Puzzle, modern classics like Really Bad Chess and SpellTower, and even a few brand new puzzles.
 - [Good Trivia in Your Browser | BPtrivia](https://www.bptrivia.com/)
-- [Bot Verification](https://spellcheck.xyz)
+- [SpellCheck Game - answer in progress](https://spellcheck.xyz)
 - [The Light Mode Lab - an answer in progress experiment](https://lightmodelab.com) - an answer in progress experiment
