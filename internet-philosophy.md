@@ -6,3 +6,4 @@
 - [Poolside AM](https://poolside.am/) - The dumbest spot on the internet. Poolside AM is an offline lame station, playing an infinity pool of dumb sounds. Existential dread optional.
 - [scrapscript](https://scrapscript.org/)
 - [IndieWeb](https://indieweb.org/) - The IndieWeb is a people-focused alternative to the “corporate web”.
+- [Internet Phone Book](https://internetphonebook.net/)
