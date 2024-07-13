@@ -339,3 +339,4 @@ Mastodon
 
 Liberapay | Patreon
 - [games | eieio.games](https://eieio.games/) - eieio writes about games
+- [Chloe Yan](https://www.chloeyan.me/)
