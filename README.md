@@ -341,3 +341,4 @@ Liberapay | Patreon
 - [games | eieio.games](https://eieio.games/) - eieio writes about games
 - [Chloe Yan](https://www.chloeyan.me/)
 - [samwho](https://samwho.dev/?s=09) - Personal website of Sam Rose.
+- [kennethnym](https://kennethnym.com/) - dumping ground for my thoughts
