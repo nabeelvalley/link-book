@@ -347,3 +347,4 @@ Liberapay | Patreon
 - [ESQUAREDA is Eric E. Anderson](https://www.esquareda.com/) - Eric E. Anderson is a digital photographer and web designer based in Kansas 
 City, Missouri that captures everyday life with keen observation, and 
 composition that draws you in with its simple style.
+- [Remco Haszing](https://remcohaszing.nl/) - A freelance software developer
