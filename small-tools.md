@@ -49,3 +49,4 @@ Tools for small things
 - [HUBOT | Hubot is your friendly robot sidekick. Install him in your company to dramatically improve employee efficiency.](https://hubot.github.com/) - Hubot is your friendly robot sidekick. Install him in your company to dramatically improve employee efficiency.
 - [WriteFreely](https://writefreely.org/) - Minimalist, federated, self-hosted blogging platform.
 - [Sofa: Downtime Organizer - Sofa](https://www.sofahq.com/) - Create lists of apps, books, movies, tv shows, podcasts, music albums, and video games to enjoy later.
+- [Vind een zwemplek | Zwemwater.nl](https://www.zwemwater.nl/home)
