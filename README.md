@@ -344,3 +344,6 @@ Liberapay | Patreon
 - [kennethnym](https://kennethnym.com/) - dumping ground for my thoughts
 - [naklecha.com](https://www.naklecha.com/) - into the world of @naklecha
 - [https://acegikmo.com/mathvis](https://acegikmo.com/mathvis)
+- [ESQUAREDA is Eric E. Anderson](https://www.esquareda.com/) - Eric E. Anderson is a digital photographer and web designer based in Kansas 
+City, Missouri that captures everyday life with keen observation, and 
+composition that draws you in with its simple style.
