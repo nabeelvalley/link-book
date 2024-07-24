@@ -349,3 +349,4 @@ City, Missouri that captures everyday life with keen observation, and
 composition that draws you in with its simple style.
 - [Remco Haszing](https://remcohaszing.nl/) - A freelance software developer
 - [@miaowing](https://les.bi/)
+- [Forge and Form](https://www.forgeandform.co/) - Forge and Form is the creative studio of Marcus Eckert. I specialize in graphics programming, video effects and coded animations for iOS and Mac.
