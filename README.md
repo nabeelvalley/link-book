@@ -351,3 +351,4 @@ composition that draws you in with its simple style.
 - [@miaowing](https://les.bi/)
 - [Forge and Form](https://www.forgeandform.co/) - Forge and Form is the creative studio of Marcus Eckert. I specialize in graphics programming, video effects and coded animations for iOS and Mac.
 - [Andrew Burgess](https://shaky.sh/) - Welcome to my home on the web! I'm Andrew Burgess, a web developer, writer, and teacher. I've been writing about web development for over a decade. Find all my disparate thoughts here.
+- [Alain.xyz · Alain Galvan · Graphics Software Engineer](https://alain.xyz/) - The personal portfolio and blog of Alain Galvan, a graphics software engineer. Find articles and projects focused on 🛆 computer graphics engineering / design.
