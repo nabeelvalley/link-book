@@ -353,3 +353,4 @@ composition that draws you in with its simple style.
 - [Andrew Burgess](https://shaky.sh/) - Welcome to my home on the web! I'm Andrew Burgess, a web developer, writer, and teacher. I've been writing about web development for over a decade. Find all my disparate thoughts here.
 - [Alain.xyz · Alain Galvan · Graphics Software Engineer](https://alain.xyz/) - The personal portfolio and blog of Alain Galvan, a graphics software engineer. Find articles and projects focused on 🛆 computer graphics engineering / design.
 - [Maxim McNair](https://maximmcnair.com/#) - Product engineer building creative tools for the web.
+- [Amy Goodchild](https://www.amygoodchild.com/)
