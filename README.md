@@ -354,3 +354,4 @@ composition that draws you in with its simple style.
 - [Alain.xyz · Alain Galvan · Graphics Software Engineer](https://alain.xyz/) - The personal portfolio and blog of Alain Galvan, a graphics software engineer. Find articles and projects focused on 🛆 computer graphics engineering / design.
 - [Maxim McNair](https://maximmcnair.com/#) - Product engineer building creative tools for the web.
 - [Amy Goodchild](https://www.amygoodchild.com/)
+- [https://jimmyhmiller.github.io](https://jimmyhmiller.github.io)
