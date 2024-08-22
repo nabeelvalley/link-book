@@ -356,3 +356,4 @@ composition that draws you in with its simple style.
 - [Amy Goodchild](https://www.amygoodchild.com/)
 - [https://jimmyhmiller.github.io](https://jimmyhmiller.github.io)
 - [Portfolio – Julia Yus](https://juliayus.com/) - Graphic design and paper engineering works by Julia Yus. From pop up cards to brand identity, she can do it all.
+- [Blog — Sindre Sorhus](https://sindresorhus.com/blog) - Full-Time Open-Sourcerer & Aspiring Rebel
