@@ -358,3 +358,4 @@ composition that draws you in with its simple style.
 - [Portfolio – Julia Yus](https://juliayus.com/) - Graphic design and paper engineering works by Julia Yus. From pop up cards to brand identity, she can do it all.
 - [Blog — Sindre Sorhus](https://sindresorhus.com/blog) - Full-Time Open-Sourcerer & Aspiring Rebel
 - [Ruud van Asseldonk](https://ruudvanasseldonk.com/)
+- [GEORGE MORRIS](https://www.george-morris.com/)
