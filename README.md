@@ -359,3 +359,4 @@ composition that draws you in with its simple style.
 - [Blog — Sindre Sorhus](https://sindresorhus.com/blog) - Full-Time Open-Sourcerer & Aspiring Rebel
 - [Ruud van Asseldonk](https://ruudvanasseldonk.com/)
 - [GEORGE MORRIS](https://www.george-morris.com/)
+- [Katherine Pihl | Designer](https://katherinepihl.com/) - Katherine Pihl is a designer specializing in branding and digital design.
