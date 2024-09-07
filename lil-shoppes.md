@@ -10,3 +10,4 @@ Online stores that I think are cool
 - [Curves](https://curvesbyseanbrown.com/) - A collection of homeware and everyday objects. In pursuit of development in personal space. To re-imagine daily habits at home.
 - [Lisa Says Gah | Ethically Made Clothing](https://lisasaysgah.com/) - Lisa Says Gah is an independent boutique focused on connecting you with truly special fashion pieces, we partner with designers that are mindful of ethical production and use high-quality materials. We sell unique clothing, fun dresses, vibrant tops, cozy sweaters & shoes.
 - [Pinpinpin.it](https://pinpinpin.it/)
+- [Nik Bentel Studio](https://nikbentel.com/) - Nik Bentel Studio tells stories through objects that are big, small and in between– creating products and performances that engage viewers to reimagine their everyday objects.
