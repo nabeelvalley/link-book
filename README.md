@@ -360,3 +360,4 @@ composition that draws you in with its simple style.
 - [Ruud van Asseldonk](https://ruudvanasseldonk.com/)
 - [GEORGE MORRIS](https://www.george-morris.com/)
 - [Katherine Pihl | Designer](https://katherinepihl.com/) - Katherine Pihl is a designer specializing in branding and digital design.
+- [near.blog | personal website](https://near.blog/)
