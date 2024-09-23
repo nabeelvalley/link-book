@@ -361,3 +361,4 @@ composition that draws you in with its simple style.
 - [GEORGE MORRIS](https://www.george-morris.com/)
 - [Katherine Pihl | Designer](https://katherinepihl.com/) - Katherine Pihl is a designer specializing in branding and digital design.
 - [near.blog | personal website](https://near.blog/)
+- [Jace](https://ja.mt/)
