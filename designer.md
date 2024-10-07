@@ -1,0 +1,1 @@
+- [ALESSI: Italian Design Home Accessories, Kitchenware & Gifts – Alessi Spa (EU)](https://alessi.com/) - Visit the official Alessi online store: the home of quality Italian design products for 100 years. Shop kitchen and tableware accessories, decor, gifts and more.
