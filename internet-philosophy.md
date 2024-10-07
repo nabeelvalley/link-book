@@ -9,3 +9,4 @@
 - [Internet Phone Book](https://internetphonebook.net/)
 - [Sunlight](https://www.sunlit.place/)
 - [The Cheap Web](https://potato.cheap) - The cheap web is a solarpunk philosophy of web design.
+- [LOW←TECH MAGAZINE](https://solar.lowtechmagazine.com) - This is a solar-powered website, which means it sometimes goes offline
