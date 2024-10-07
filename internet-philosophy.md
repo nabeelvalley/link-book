@@ -8,3 +8,4 @@
 - [IndieWeb](https://indieweb.org/) - The IndieWeb is a people-focused alternative to the “corporate web”.
 - [Internet Phone Book](https://internetphonebook.net/)
 - [Sunlight](https://www.sunlit.place/)
+- [The Cheap Web](https://potato.cheap) - The cheap web is a solarpunk philosophy of web design.
