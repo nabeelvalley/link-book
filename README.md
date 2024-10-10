@@ -365,3 +365,4 @@ composition that draws you in with its simple style.
 - [Alex Hyett](https://www.alexhyett.com) - Alex Hyett is a Software Developer, YouTuber and Writer focussed on helping people transform their lives by learning how to code.
 - [https://www.fromjason.xyz](https://www.fromjason.xyz) - Odes & Satires, and other matters of stuff & things.
 - [LOW←TECH MAGAZINE](https://solar.lowtechmagazine.com) - This is a solar-powered website, which means it sometimes goes offline
+- [Bruce Lawson's personal site](https://brucelawson.co.uk/)
