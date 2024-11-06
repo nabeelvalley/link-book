@@ -36,3 +36,4 @@
 - [README | mostly-adequate-guide](https://mostly-adequate.gitbook.io/mostly-adequate-guide)
 - [Transit Maps](https://transitmap.net/) - A site devoted to the design and social impact of transit maps - subway maps, metro maps, bus maps, rail maps, ferry maps and more!
 - [The Lyst Index – Fashion’s Hottest Brands and Products](https://www.lyst.com/data/the-lyst-index/) - The Lyst Index is the industry’s quarterly report that ranks fashion’s hottest brands and products.
+- [Levels.fyi | Salaries & Tools to Level Up Your Career](https://www.levels.fyi/) - Search 300k+ salaries for different companies, job titles, career levels, and locations. Explore our tools to help you get paid more!
