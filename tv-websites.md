@@ -1,0 +1,1 @@
+- [Creed Thoughts: May 13, 2007 Archives](https://web.archive.org/web/20080920015843/http://blog.nbc.com/CreedThoughts/2007/05/13-week/)
