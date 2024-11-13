@@ -39,3 +39,4 @@
 - [Levels.fyi | Salaries & Tools to Level Up Your Career](https://www.levels.fyi/) - Search 300k+ salaries for different companies, job titles, career levels, and locations. Explore our tools to help you get paid more!
 - [The Best Letter I Ever Received – Scam Stuff](https://www.scamstuff.com/pages/the-best-letter-i-ever-received) - Hey gang, Brian Brushwood here. Lately a lot of young magicians have been asking me for advice, which has caused me to remember one of the most valuable correspondences of my life:  one of the most mind-blowing letters I ever received, chock-full of insights that to this very day guide my career and philosophy in both 
 - [The Blog - US/UK - Blog for the knitters](https://blog.weareknitters.com/) - The new and improved blog from We Are Knitters: Tricks for knitting, types of stitches for wool, cotton, fabric yarn, free patterns, news, advice...
+- [The Developer Advocacy Handbook](https://developer-advocacy.com)
