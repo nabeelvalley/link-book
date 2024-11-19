@@ -369,3 +369,5 @@ composition that draws you in with its simple style.
 - [The web, design, and accessibility – tempertemper](https://www.tempertemper.net) - I’m Martin, an accessibility specialist with a background in user interface and interaction design, and frontend web development. I’m the Lead Accessibility Specialist at Sage and former co-organiser at FrontendNE; here’s a wee bit more about me and what I’m up to now.
 - [Lines That Connect](https://linesthatconnect.github.io/)
 - [The Developer Advocacy Handbook](https://developer-advocacy.com)
+- [DANIEL ROSENTHAL PHOTOGRAPHER](https://www.danielrosenthal.de/) - Daniel Rosenthal is a photojournalist specialized in reportage and 
+documentary photography. Daniel Rosenthal is based in Berlin.
