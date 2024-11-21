@@ -51,3 +51,4 @@ Tools for small things
 - [Sofa: Downtime Organizer - Sofa](https://www.sofahq.com/) - Create lists of apps, books, movies, tv shows, podcasts, music albums, and video games to enjoy later.
 - [Vind een zwemplek | Zwemwater.nl](https://www.zwemwater.nl/home)
 - [KSP Visual Calculator](https://ksp-visual-calculator.blaarkies.com/intro) - Online Kerbal Space Program calculators for delta-v, comm-net, ISRU.
+- [Leefbaarometer Home](https://www.leefbaarometer.nl/home.php)
