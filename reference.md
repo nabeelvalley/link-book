@@ -41,3 +41,4 @@
 - [The Blog - US/UK - Blog for the knitters](https://blog.weareknitters.com/) - The new and improved blog from We Are Knitters: Tricks for knitting, types of stitches for wool, cotton, fabric yarn, free patterns, news, advice...
 - [The Developer Advocacy Handbook](https://developer-advocacy.com)
 - [Explore | 0DE5](https://www.0de5.net/explore) - Keep learning forever.
+- [https://bh-cookbook.github.io/mips-asm/learning-mips-assembly-part-1.html](https://bh-cookbook.github.io/mips-asm/learning-mips-assembly-part-1.html)
