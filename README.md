@@ -371,3 +371,4 @@ composition that draws you in with its simple style.
 - [The Developer Advocacy Handbook](https://developer-advocacy.com)
 - [DANIEL ROSENTHAL PHOTOGRAPHER](https://www.danielrosenthal.de/) - Daniel Rosenthal is a photojournalist specialized in reportage and 
 documentary photography. Daniel Rosenthal is based in Berlin.
+- [Kyle J. Britt](http://kylejbritt.com/)
