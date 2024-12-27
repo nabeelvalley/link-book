@@ -1,2 +1,3 @@
 - [Brilliant Labs](https://brilliant.xyz/) - Pocket-sized AR for imaginative hackers. At Brilliant Labs, we're building an open-source ecosystem to support developers and creatives reimagining the future.
 - [TERRA — A COMPANION FOR MINDFUL WANDERING](https://myterra.ai/)
+- [DevTerm | ClockworkPi](https://www.clockworkpi.com/devterm) - DevTerm - An Open Source Portable Terminal for Every Dev.
