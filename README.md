@@ -375,3 +375,4 @@ documentary photography. Daniel Rosenthal is based in Berlin.
 - [xiaoxiao xu](https://xiaoxiaoxu.com/)
 - [Renee de Groot | commercial and portrait photography](https://www.reneedegroot.com/) - Dutch photographer Renee de Groot's images are inspired by her quest for authenticity and genuineness. She specializes in commercial and portrait photography.
 - [ayats.org](https://ayats.org/) - This is my personal blog.
+- [David Bushell – Freelance Web Design & Front-end Development (UK)](https://dbushell.com/) - David Bushell – Freelance Web Design & Front-end Development (UK)
