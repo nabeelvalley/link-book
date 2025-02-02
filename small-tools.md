@@ -52,3 +52,4 @@ Tools for small things
 - [Vind een zwemplek | Zwemwater.nl](https://www.zwemwater.nl/home)
 - [KSP Visual Calculator](https://ksp-visual-calculator.blaarkies.com/intro) - Online Kerbal Space Program calculators for delta-v, comm-net, ISRU.
 - [Leefbaarometer Home](https://www.leefbaarometer.nl/home.php)
+- [Actuele treinposities](https://treinposities.nl/) - Live treinposities van NS, Syntus, Arriva, Keolis - Syntus, Blauwnet bekijken. Stel e-mail alerts in voor je favoriete treinstellen.
