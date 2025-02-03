@@ -6,3 +6,4 @@
 - [Table of Contents · Crafting Interpreters](https://craftinginterpreters.com/contents.html)
 - [Chapters - Learn You a Haskell for Great Good!](https://learnyouahaskell.com/chapters)
 - [Web Browser Engineering](https://browser.engineering)
+- [The Mature Optimization Handbook](https://carlos.bueno.org/optimization)
