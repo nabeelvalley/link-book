@@ -379,3 +379,4 @@ documentary photography. Daniel Rosenthal is based in Berlin.
 - [A place to share my gained knowledge and experience](https://quantonganh.com) - DevOps - Programming - Travel - Photography
 - [The Useless Web](https://theuselessweb.com) - The Useless Web Button... take me somewhere... useless. The perfect button for the bored, or those looking to find random sites online!
 - [Ishan Das Sharma](https://ishan.page/) - Self-taught developer, writing about the things I have learned
+- [Home • Lea Verou](https://lea.verou.me)
