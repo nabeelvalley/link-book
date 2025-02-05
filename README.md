@@ -380,3 +380,4 @@ documentary photography. Daniel Rosenthal is based in Berlin.
 - [The Useless Web](https://theuselessweb.com) - The Useless Web Button... take me somewhere... useless. The perfect button for the bored, or those looking to find random sites online!
 - [Ishan Das Sharma](https://ishan.page/) - Self-taught developer, writing about the things I have learned
 - [Home • Lea Verou](https://lea.verou.me)
+- [Brian Lee's Website](https://www.moderndescartes.com)
