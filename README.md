@@ -381,3 +381,4 @@ documentary photography. Daniel Rosenthal is based in Berlin.
 - [Ishan Das Sharma](https://ishan.page/) - Self-taught developer, writing about the things I have learned
 - [Home • Lea Verou](https://lea.verou.me)
 - [Brian Lee's Website](https://www.moderndescartes.com)
+- [Mitchell Hashimoto](https://mitchellh.com)
