@@ -42,3 +42,4 @@
 - [The Developer Advocacy Handbook](https://developer-advocacy.com)
 - [Explore | 0DE5](https://www.0de5.net/explore) - Keep learning forever.
 - [https://bh-cookbook.github.io/mips-asm/learning-mips-assembly-part-1.html](https://bh-cookbook.github.io/mips-asm/learning-mips-assembly-part-1.html)
+- [Interactively](https://interactively.info) - Interactive courses on Design, Software and AI.
