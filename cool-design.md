@@ -60,3 +60,6 @@ Some apps and design systems/tools
 - [All objects | Gustaf Westman](https://www.gustafwestman.com/) - Gustaf Westman Objects is a design studio founded in Sweden 2020
 - [Apple Music 100 Best Albums](https://100best.music.apple.com/us) - Welcome to 100 Best Albums, our definitive list of the greatest albums ever made. Sign up to stream full tracks or add these albums to your library.
 - [Craft – The Future of Documents](https://www.craft.do/) - Create documents, which will make an impact. Try Craft for free both for personal and business/teams use cases.
+- [Lowlands 2025](https://lowlands.nl) - A Campingflight to Lowlands Paradise:
+15 + 16 + 17 August 2025
+Biddinghuizen - The Netherlands
