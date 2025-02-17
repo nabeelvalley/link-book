@@ -7,3 +7,4 @@
 - [Chapters - Learn You a Haskell for Great Good!](https://learnyouahaskell.com/chapters)
 - [Web Browser Engineering](https://browser.engineering)
 - [The Mature Optimization Handbook](https://carlos.bueno.org/optimization)
+- [Patterns.dev](https://www.patterns.dev/) - Learn JavaScript design and performance patterns for building more powerful web applications.
