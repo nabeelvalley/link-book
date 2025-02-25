@@ -8,3 +8,4 @@
 - [Web Browser Engineering](https://browser.engineering)
 - [The Mature Optimization Handbook](https://carlos.bueno.org/optimization)
 - [Patterns.dev](https://www.patterns.dev/) - Learn JavaScript design and performance patterns for building more powerful web applications.
+- [GitHub - FFmpeg/asm-lessons: FFMPEG Assembly Language Lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons. Contribute to FFmpeg/asm-lessons development by creating an account on GitHub.
