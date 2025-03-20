@@ -384,3 +384,4 @@ documentary photography. Daniel Rosenthal is based in Berlin.
 - [Mitchell Hashimoto](https://mitchellh.com)
 - [philipp's blog](https://flenker.blog/) - thoughts and articles about leadership, engineering, product management and everything else.
 - [Ayman Bagabas](https://aymanbagabas.com) - Playground where I express ideas, share knowledge, and experiences.
+- [Carlos Becker](https://carlosbecker.com) - Thoughts, rants and discoveries on software development and related stuff.
