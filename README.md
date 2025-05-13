@@ -389,3 +389,4 @@ documentary photography. Daniel Rosenthal is based in Berlin.
 - [Main | The Cave of Dragonflies](https://www.dragonflycave.com/)
 - [Tamerlan](https://tamerlan.dev) - I'm Tamerlan. I'm a Software Engineer. On this site, we explore topics related to making us better engineers, specifically backend engineering.
 - [Kan ik een korte broek aan? - ja!](https://kanikeenkortebroekaan.nl/) - Het antwoord op één van de belangrijkste vragen des levens. Kan ik vandaag een korte broek aan? De enige echte.
+- [Zhenghao's site](https://www.zhenghao.io/) - The official site of Zhenghao He, a software engineer and a TypeScript/JavaScript enthusiast.
