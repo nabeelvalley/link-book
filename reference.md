@@ -45,3 +45,4 @@
 - [Interactively](https://interactively.info) - Interactive courses on Design, Software and AI.
 - [JavaScript Patterns Workshop | JavaScript Patterns](https://javascriptpatterns.vercel.app/patterns) - Website for the FrontendMasters course on JavaScript Patterns by Lydia Hallie
 - [Patterns.dev](https://www.patterns.dev/) - Learn JavaScript design and performance patterns for building more powerful web applications.
+- [Workshop Week](https://www.workshopweek.co/)
