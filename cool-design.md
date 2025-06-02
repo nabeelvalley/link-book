@@ -64,3 +64,4 @@ Some apps and design systems/tools
 15 + 16 + 17 August 2025
 Biddinghuizen - The Netherlands
 - [Raphson Bikes](https://raphsonbikes.com/) - Raphson Bikes - Custom made frames
+- [Type Affiliated Hand Lettering, Murals and Design](https://www.typeaffiliated.com/)
