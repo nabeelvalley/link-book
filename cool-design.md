@@ -65,3 +65,4 @@ Some apps and design systems/tools
 Biddinghuizen - The Netherlands
 - [Raphson Bikes](https://raphsonbikes.com/) - Raphson Bikes - Custom made frames
 - [Type Affiliated Hand Lettering, Murals and Design](https://www.typeaffiliated.com/)
+- [Vinitha Mammen Lettering & Illustration](https://www.vinithamammen.com/)
