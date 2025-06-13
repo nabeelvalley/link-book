@@ -394,3 +394,4 @@ documentary photography. Daniel Rosenthal is based in Berlin.
 - [That HTML Blog: the fresh place to be for standards-adjacent web technologies](https://thathtml.blog/) - The fresh place to be for posts about developing websites & applications using “vanilla” & standards-adjacent web technologies
 - [Axbom - Compassionate Tech](https://axbom.com/) - Make tech helpful, safe and good-hearted. Experienced senior consultant working as advisor, designer, speaker, teacher and coach.
 - [The Homepage of Dave Rupert - daverupert.com](https://daverupert.com) - The personal blog of Dave Rupert, web developer and podcaster from Austin, TX.
+- [Tim Deschryver](https://timdeschryver.dev) - Tim Deschryver, Software Engineer in Belgium.
