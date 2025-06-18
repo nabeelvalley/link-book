@@ -395,3 +395,4 @@ documentary photography. Daniel Rosenthal is based in Berlin.
 - [Axbom - Compassionate Tech](https://axbom.com/) - Make tech helpful, safe and good-hearted. Experienced senior consultant working as advisor, designer, speaker, teacher and coach.
 - [The Homepage of Dave Rupert - daverupert.com](https://daverupert.com) - The personal blog of Dave Rupert, web developer and podcaster from Austin, TX.
 - [Tim Deschryver](https://timdeschryver.dev) - Tim Deschryver, Software Engineer in Belgium.
+- [Mobile A11y](https://mobilea11y.com) - A blog about making mobile more accessible for all.
