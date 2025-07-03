@@ -396,3 +396,4 @@ documentary photography. Daniel Rosenthal is based in Berlin.
 - [The Homepage of Dave Rupert - daverupert.com](https://daverupert.com) - The personal blog of Dave Rupert, web developer and podcaster from Austin, TX.
 - [Tim Deschryver](https://timdeschryver.dev) - Tim Deschryver, Software Engineer in Belgium.
 - [Mobile A11y](https://mobilea11y.com) - A blog about making mobile more accessible for all.
+- [Wam Ornelas — Bio Site](https://bio.site/ornelaswam) - Wam Ornelas · Photographer · Share your websites, products, social pages, and more, all in one link with Bio Sites from Unfold.
