@@ -397,3 +397,4 @@ documentary photography. Daniel Rosenthal is based in Berlin.
 - [Tim Deschryver](https://timdeschryver.dev) - Tim Deschryver, Software Engineer in Belgium.
 - [Mobile A11y](https://mobilea11y.com) - A blog about making mobile more accessible for all.
 - [Wam Ornelas — Bio Site](https://bio.site/ornelaswam) - Wam Ornelas · Photographer · Share your websites, products, social pages, and more, all in one link with Bio Sites from Unfold.
+- [Contraption Co.](https://www.contraption.co/) - Crafting digital tools. The explorations of Philip I. Thomas.
