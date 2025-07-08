@@ -79,3 +79,4 @@ Tools for making software development easier
 - [Dokploy - Effortless Deployment Solutions](https://dokploy.com/) - Streamline your deployment process with Dokploy. Effortlessly manage applications and databases on any VPS using Docker and Traefik for improved performance and security.
 - [Vodon Pro: The esport coaches VOD review tool](https://www.vodon.gg/) - Vodon Pro is the only video player designed for esport coaches to review gameplay
 - [Git as a Database | GitRows](https://gitrows.com/) - Get, Put and Deliver Data with Git Repositories - Use Git as a Database
+- [The Component Gallery](https://component.gallery) - An up-to-date repository of interface components based on examples from the world of design systems, designed to be a reference for anyone building user interfaces.
