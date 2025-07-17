@@ -46,3 +46,4 @@
 - [JavaScript Patterns Workshop | JavaScript Patterns](https://javascriptpatterns.vercel.app/patterns) - Website for the FrontendMasters course on JavaScript Patterns by Lydia Hallie
 - [Patterns.dev](https://www.patterns.dev/) - Learn JavaScript design and performance patterns for building more powerful web applications.
 - [Workshop Week](https://www.workshopweek.co/)
+- [Links, Resources, and Humans of Note - Infrequently Noted](https://infrequently.org/links/) - Alex Russell on browsers, standards, and the process of progress.
