@@ -56,3 +56,4 @@ Tools for small things
 - [Attention Required! | Cloudflare](https://www.marinetraffic.com/nl/ais/home/shipid:5489950/zoom:10)
 - [Map - Dutch Data Center Association](https://www.dutchdatacenters.nl/map/)
 - [Bartosz Ciechanowski](https://ciechanow.ski/) - Interactive articles about science and engineering.
+- [Harper | Privacy-First Offline Grammar Checker for Developers & Writers](https://writewithharper.com) - Harper is a blazing-fast, open-source grammar & spell checker that runs entirely on your device, covering US, UK, Canadian & Australian English—no data ever leaves your machine.
