@@ -57,3 +57,4 @@ Tools for small things
 - [Map - Dutch Data Center Association](https://www.dutchdatacenters.nl/map/)
 - [Bartosz Ciechanowski](https://ciechanow.ski/) - Interactive articles about science and engineering.
 - [Harper | Privacy-First Offline Grammar Checker for Developers & Writers](https://writewithharper.com) - Harper is a blazing-fast, open-source grammar & spell checker that runs entirely on your device, covering US, UK, Canadian & Australian English—no data ever leaves your machine.
+- [Palette List](https://lospec.com/palette-list) - Download over 2500 pixel art palettes for free in 6 different formats which you can then import into any pixel art program and use for you art.
