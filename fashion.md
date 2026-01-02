@@ -1,2 +1,3 @@
 - [AXEL ARIGATO - Men's Coming Soon](https://axelarigato.com/men/coming-soon) - Find out what's coming soon for men at Axel Arigato | Worldwide shipping | Free returns
 - [WornWhere](https://wornwhere.app/)
+- [Dress David Rose](https://davidrose.style/) - Every shirt, sweater, and jacket David Rose wears on Schitt’s Creek.
