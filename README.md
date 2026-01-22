@@ -12,3 +12,4 @@ relating to the South African photographer Santu Mofokeng
 - [Skyreader: A RSS Reader on the AT Protocol](https://www.disnetdev.com/blog/2026-01-20-skyreader-a-rss-reader-on-the-at-protocol/) - Introducing a RSS reader for the AT Protocol where you feeds and article sharing are portable
 - [A Social Filesystem — overreacted](https://overreacted.io/a-social-filesystem/) - Formats over apps.
 - [Naked Power - Infrequently Noted](https://infrequently.org/2026/01/naked-power/) - Apple and Google's app stores stand for nothing and will stand up to no-one. Good riddance.
+- [Giving University Exams in the Age of Chatbots](https://ploum.net/2026-01-19-exam-with-chatbots.html) - Giving University Exams in the Age of Chatbots par Ploum - Lionel Dricot.
