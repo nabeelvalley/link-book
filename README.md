@@ -9,3 +9,4 @@ Reading List/Bookmarks. Added using the [Link Book App](https://github.com/nabee
 relating to the South African photographer Santu Mofokeng
 - [- YouTube](https://youtu.be/H-zQky0HGhg?si=pYXKFTwaYQtakBQG) - Auf YouTube findest du die angesagtesten Videos und Tracks. Außerdem kannst du eigene Inhalte hochladen und mit Freunden oder gleich der ganzen Welt teilen.
 - [- YouTube](https://youtu.be/iHrXpLDcICo?si=E1NSA2pmdd89tDUB) - Auf YouTube findest du die angesagtesten Videos und Tracks. Außerdem kannst du eigene Inhalte hochladen und mit Freunden oder gleich der ganzen Welt teilen.
+- [Skyreader: A RSS Reader on the AT Protocol](https://www.disnetdev.com/blog/2026-01-20-skyreader-a-rss-reader-on-the-at-protocol/) - Introducing a RSS reader for the AT Protocol where you feeds and article sharing are portable
