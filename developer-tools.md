@@ -80,3 +80,4 @@ Tools for making software development easier
 - [Vodon Pro: The esport coaches VOD review tool](https://www.vodon.gg/) - Vodon Pro is the only video player designed for esport coaches to review gameplay
 - [Git as a Database | GitRows](https://gitrows.com/) - Get, Put and Deliver Data with Git Repositories - Use Git as a Database
 - [The Component Gallery](https://component.gallery) - An up-to-date repository of interface components based on examples from the world of design systems, designed to be a reference for anyone building user interfaces.
+- [GitHub - johtela/litscript: Literate Interactive TypeScript](https://github.com/johtela/litscript) - Literate Interactive TypeScript. Contribute to johtela/litscript development by creating an account on GitHub.
