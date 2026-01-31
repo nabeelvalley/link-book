@@ -11,3 +11,4 @@
 - [The Cheap Web](https://potato.cheap) - The cheap web is a solarpunk philosophy of web design.
 - [LOW←TECH MAGAZINE](https://solar.lowtechmagazine.com) - This is a solar-powered website, which means it sometimes goes offline
 - [/uses](https://uses.tech) - A list of /uses pages detailing developer setups.
+- [Emergence](https://emergenceprojects.com/)
