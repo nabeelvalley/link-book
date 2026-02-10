@@ -13,3 +13,4 @@ relating to the South African photographer Santu Mofokeng
 - [A Social Filesystem — overreacted](https://overreacted.io/a-social-filesystem/) - Formats over apps.
 - [Naked Power - Infrequently Noted](https://infrequently.org/2026/01/naked-power/) - Apple and Google's app stores stand for nothing and will stand up to no-one. Good riddance.
 - [Giving University Exams in the Age of Chatbots](https://ploum.net/2026-01-19-exam-with-chatbots.html) - Giving University Exams in the Age of Chatbots par Ploum - Lionel Dricot.
+- [Shades of Halftone - The Blog of Maxime Heckel](https://blog.maximeheckel.com/posts/shades-of-halftone/) - An interactive deep dive into building halftone shaders in GLSL, covering everything from classic dot patterns and CMYK color separation to Moiré interference, gooey effects, and animated displacement.
