@@ -402,3 +402,4 @@ documentary photography. Daniel Rosenthal is based in Berlin.
 - [Navendu Pottekkat - The Open Source Absolutist](https://navendu.me/) - "The Open Source Absolutist" is Navendu Pottekkat's personal blog, where he mostly writes about his work and life as an open source contributor/maintainer and an amateur policy analyst.
 
 - [Adrian Roselli — Consultant, Writer, Speaker](https://adrianroselli.com/) - alt: It’s me, but I’m made of polymers. I stand 4 inches tall, my joints are hinged, my face is a rictus of dull PVC. I am restrained against a cardboard wall by a transparent bubble of plastic holding me fast alongside divots bearing the tools of my trade —…
+- [Henry From Online](https://henry.codes/) - The personal site & portfolio of creative web developer Henry (from Online).
