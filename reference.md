@@ -47,3 +47,4 @@
 - [Patterns.dev](https://www.patterns.dev/) - Learn JavaScript design and performance patterns for building more powerful web applications.
 - [Workshop Week](https://www.workshopweek.co/)
 - [Links, Resources, and Humans of Note - Infrequently Noted](https://infrequently.org/links/) - Alex Russell on browsers, standards, and the process of progress.
+- [TextEditors Wiki: HomePage](https://texteditors.org/cgi-bin/wiki.pl) - A website about selecting and classifying text editors used in programming systems. These are the programming text editors such as Emacs, VI, Multiedit, slick, Slickedit, ISPF, Notepad, VI and VIM that are used by the vast majority of programmers on UNIX, Windows, VAX, and Mainframe systems. The structure of the website allows any vistor to leave their opinions, knowledge, and mark on the website for others to enjoy.
