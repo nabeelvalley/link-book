@@ -15,3 +15,4 @@ relating to the South African photographer Santu Mofokeng
 - [Giving University Exams in the Age of Chatbots](https://ploum.net/2026-01-19-exam-with-chatbots.html) - Giving University Exams in the Age of Chatbots par Ploum - Lionel Dricot.
 - [Shades of Halftone - The Blog of Maxime Heckel](https://blog.maximeheckel.com/posts/shades-of-halftone/) - An interactive deep dive into building halftone shaders in GLSL, covering everything from classic dot patterns and CMYK color separation to Moiré interference, gooey effects, and animated displacement.
 - [Isomorphic Web Components | jakelazaroff.com](https://jakelazaroff.com/words/isomorphic-web-components/) - The lack of server-side rendering in web components has become a sort of folk belief that oft goes unquestioned. I am happy to report that the fears are unfounded.
+- [lyra.horse](https://lyra.horse) - hi!
