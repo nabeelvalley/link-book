@@ -17,3 +17,4 @@ relating to the South African photographer Santu Mofokeng
 - [Isomorphic Web Components | jakelazaroff.com](https://jakelazaroff.com/words/isomorphic-web-components/) - The lack of server-side rendering in web components has become a sort of folk belief that oft goes unquestioned. I am happy to report that the fears are unfounded.
 - [lyra.horse](https://lyra.horse) - hi!
 - [Lea Verou’s PhD thesis](https://phd.verou.me/)
+- [jclahoot.com](https://jclahoot.com/?utm_source=the-index&utm_medium=newsletter&position=%7B%22x%22%3A-10.68%2C%22y%22%3A4.25%2C%22z%22%3A-10.92%7D&rotation=-0.22%2C-0.35%2C-0.09%2C0.91&controlMode=mapControls)
