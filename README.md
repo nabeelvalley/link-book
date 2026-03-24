@@ -19,3 +19,4 @@ relating to the South African photographer Santu Mofokeng
 - [Lea Verou’s PhD thesis](https://phd.verou.me/)
 - [jclahoot.com](https://jclahoot.com/?utm_source=the-index&utm_medium=newsletter&position=%7B%22x%22%3A-10.68%2C%22y%22%3A4.25%2C%22z%22%3A-10.92%7D&rotation=-0.22%2C-0.35%2C-0.09%2C0.91&controlMode=mapControls)
 - [the html review — archive](https://thehtml.review/archive) - the html review is an annual journal of literature made to exist on the web
+- [E.W.Dijkstra Archive: On the foolishness of "natural language programming". (EWD 667)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
