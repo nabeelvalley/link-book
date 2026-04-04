@@ -22,3 +22,4 @@ relating to the South African photographer Santu Mofokeng
 - [E.W.Dijkstra Archive: On the foolishness of "natural language programming". (EWD 667)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
 - [Read Something Wonderful](https://readsomethingwonderful.com/) - A portal to timeless internet writing.
 - [My Use of ‘AI’ on this Site — Adrian Roselli](https://adrianroselli.com/2025/12/my-use-of-ai-on-this-site.html) - I’m using this post to acknowledge my past practices and establish future ones on this site related to ‘AI’. I have not, and will not, use LLMs to write, draft, review, or otherwise participate in content creation — outside of clearly-identified contexts to critique it. I have used generative technologies…
+- [https://www.reddit.com/r/Zig/s/hhdRaeAcV3](https://www.reddit.com/r/Zig/s/hhdRaeAcV3)
