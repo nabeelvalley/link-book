@@ -24,3 +24,4 @@ relating to the South African photographer Santu Mofokeng
 - [My Use of ‘AI’ on this Site — Adrian Roselli](https://adrianroselli.com/2025/12/my-use-of-ai-on-this-site.html) - I’m using this post to acknowledge my past practices and establish future ones on this site related to ‘AI’. I have not, and will not, use LLMs to write, draft, review, or otherwise participate in content creation — outside of clearly-identified contexts to critique it. I have used generative technologies…
 - [https://www.reddit.com/r/Zig/s/hhdRaeAcV3](https://www.reddit.com/r/Zig/s/hhdRaeAcV3)
 - [Home | Julien Catanese Linocut Prints](https://juliencatanese.bigcartel.com/) - Printmaker since 2020 Based near Fontainebleau - France Hand carved and printed Sci-fi & science inspired linocut prints. Worldwide shipping.
+- [https://imgur.com/a/evangelion-user-interfaces-images-mvW7g](https://imgur.com/a/evangelion-user-interfaces-images-mvW7g)
