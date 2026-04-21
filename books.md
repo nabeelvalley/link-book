@@ -12,3 +12,4 @@
 - [Emulator 101 - Welcome](https://web.archive.org/web/20240118230905/http://www.emulator101.com/welcome.html)
 - [Writing an OS in Rust](https://os.phil-opp.com/) - This blog series creates a small operating system in the Rust programming language. Each post is a small tutorial and includes all needed code.
 - [Crafting Interpreters](https://craftinginterpreters.com/)
+- [Nature of Code](https://natureofcode.com/) - Simulating Natural Systems with JavaScript
