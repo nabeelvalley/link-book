@@ -27,3 +27,4 @@ relating to the South African photographer Santu Mofokeng
 - [https://imgur.com/a/evangelion-user-interfaces-images-mvW7g](https://imgur.com/a/evangelion-user-interfaces-images-mvW7g)
 - [Transit | Case study](https://iamnoman.com/transit) - Wanted to design maps in browser so I built a tool to do so.
 - [DoublOne Studios](https://doubl.one/) - DoublOne Studios builds privacy-first, local-first apps for deep focus and digital well-being. Meet DoublOne, LeedPDF, Golden Day, and more.
+- [Robin Sloan](https://www.robinsloan.com/) - The home page of Robin Sloan, author of the novels Moonbound, Sourdough, and Mr. Penumbra's 24-Hour Bookstore.
