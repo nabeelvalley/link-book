@@ -30,3 +30,4 @@ relating to the South African photographer Santu Mofokeng
 - [Robin Sloan](https://www.robinsloan.com/) - The home page of Robin Sloan, author of the novels Moonbound, Sourdough, and Mr. Penumbra's 24-Hour Bookstore.
 - [I don't want a screenshot of your Claude conversation - daverupert.com](https://daverupert.com/2026/04/claude-no/) - The personal blog of Dave Rupert, web developer and podcaster from Austin, TX.
 - [The Missing GitHub Status Page](https://mrshu.github.io/github-statuses/)
+- [GitHub is sinking – David Bushell – Web Dev (UK)](https://dbushell.com/2026/04/29/github-is-sinking/) - The one where I suggest finding the nearest lifeboat
