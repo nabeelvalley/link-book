@@ -32,3 +32,4 @@ relating to the South African photographer Santu Mofokeng
 - [The Missing GitHub Status Page](https://mrshu.github.io/github-statuses/)
 - [GitHub is sinking – David Bushell – Web Dev (UK)](https://dbushell.com/2026/04/29/github-is-sinking/) - The one where I suggest finding the nearest lifeboat
 - [Give Up GitHub - Software Freedom Conservancy](https://sfconservancy.org/GiveUpGitHub/) - The Software Freedom Conservancy provides a non-profit home and services to Free, Libre and Open Source Software (FLOSS) projects.
+- [Ghostty Is Leaving GitHub – Mitchell Hashimoto](https://mitchellh.com/writing/ghostty-leaving-github)
