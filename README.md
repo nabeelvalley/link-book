@@ -34,3 +34,4 @@ relating to the South African photographer Santu Mofokeng
 - [Give Up GitHub - Software Freedom Conservancy](https://sfconservancy.org/GiveUpGitHub/) - The Software Freedom Conservancy provides a non-profit home and services to Free, Libre and Open Source Software (FLOSS) projects.
 - [Ghostty Is Leaving GitHub – Mitchell Hashimoto](https://mitchellh.com/writing/ghostty-leaving-github)
 - [The Missing GitHub Status Page](https://mrshu.github.io/github-statuses/#about)
+- [Breaking changes: a tooling problem - Richard Marmorstein](https://twitchard.github.io/posts/2024-08-23-breaking-changes.html) - How could our tools change to reduce the cost of breaking changes?
