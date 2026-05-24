@@ -37,3 +37,4 @@ relating to the South African photographer Santu Mofokeng
 - [Breaking changes: a tooling problem - Richard Marmorstein](https://twitchard.github.io/posts/2024-08-23-breaking-changes.html) - How could our tools change to reduce the cost of breaking changes?
 - [(One) Good AI Is Here - Anil Dash](https://www.anildash.com/2026/04/28/one-good-ai-is-here/) - A blog about making culture. Since 1999.
 - [Ad Infinitum · Matthias Ott](https://matthiasott.com/notes/ad-infinitum) - Web design engineer, UX designer, teacher, and speaker – helping teams build websites and digital products with a focus on CSS, accessibility, and performance.
+- [On Google declaring war on the Web](https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web)
