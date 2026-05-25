@@ -38,3 +38,4 @@ relating to the South African photographer Santu Mofokeng
 - [(One) Good AI Is Here - Anil Dash](https://www.anildash.com/2026/04/28/one-good-ai-is-here/) - A blog about making culture. Since 1999.
 - [Ad Infinitum · Matthias Ott](https://matthiasott.com/notes/ad-infinitum) - Web design engineer, UX designer, teacher, and speaker – helping teams build websites and digital products with a focus on CSS, accessibility, and performance.
 - [On Google declaring war on the Web](https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web)
+- [Stop saying that AI is just a tool and it only matters how it is used | Frank Elavsky](https://www.frank.computer/blog/2025/05/just-a-tool.html) - I’m tired of this phrase and this simple way of thinking about tools. This blog post is a wandering train of thought on the topic of what tools are and why it matters to be even slightly more mature in how we think about them.
