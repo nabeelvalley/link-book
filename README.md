@@ -40,3 +40,4 @@ relating to the South African photographer Santu Mofokeng
 - [On Google declaring war on the Web](https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web)
 - [Stop saying that AI is just a tool and it only matters how it is used | Frank Elavsky](https://www.frank.computer/blog/2025/05/just-a-tool.html) - I’m tired of this phrase and this simple way of thinking about tools. This blog post is a wandering train of thought on the topic of what tools are and why it matters to be even slightly more mature in how we think about them.
 - [- YouTube](https://youtu.be/-1TuR6z22Zc?is=f8GVtmI0-v3ZwjQY) - Auf YouTube findest du die angesagtesten Videos und Tracks. Außerdem kannst du eigene Inhalte hochladen und mit Freunden oder gleich der ganzen Welt teilen.
+- [- YouTube](https://youtu.be/fPnhFzTha40) - Auf YouTube findest du die angesagtesten Videos und Tracks. Außerdem kannst du eigene Inhalte hochladen und mit Freunden oder gleich der ganzen Welt teilen.
